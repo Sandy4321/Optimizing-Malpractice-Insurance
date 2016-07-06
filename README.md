@@ -4,5 +4,4 @@ I am working with an Austin-based medical malpractice insurance company to optim
 
 This project is mainly a deep-dive into an existing company's data. It aims at using data science in a practical setting in order to change the way coverage decisions are made.
 
-
 ##### Drew Rice, 2016.

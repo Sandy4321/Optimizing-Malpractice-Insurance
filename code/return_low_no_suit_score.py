@@ -2,7 +2,7 @@
 def return_low_no_suit_score(model,X,threshold=0.81):
     '''
     FUNC:
-            return a list of scores where the probability of no_suit is less than a given threshold
+            return a list of instances with associated probability scores, where the probability of no_suit is less than the given threshold
     NOTE:
             only works for ternary classification, can edit enumerate line for binary
     input:

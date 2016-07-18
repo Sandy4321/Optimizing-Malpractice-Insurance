@@ -1,4 +1,3 @@
-
 def return_low_no_suit_score(model,X,threshold=0.81):
     '''
     FUNC:

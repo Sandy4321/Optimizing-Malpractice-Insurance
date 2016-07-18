@@ -1,8 +1,8 @@
 
-def return_predictions_and_probability_scores(model,X):
+def return_probability_scores(model,X):
     '''
     FUNC:
-            return predictions for each provider, with probability scores
+            return probability scores for each provider after running X through a model
     NOTE:
             only works for ternary classification, can edit enumerate line for binary
     input:
@@ -11,7 +11,7 @@ def return_predictions_and_probability_scores(model,X):
     output:
             list with index, predicted with associated probability score (rounded to four decimal places)
     '''
-    # build an empty list to add to, then return
+    # initialize list
     to_return = []
     # grab probability scores
     preds_prob_scores = model.predict_proba(X)

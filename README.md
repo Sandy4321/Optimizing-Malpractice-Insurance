@@ -52,7 +52,8 @@ The data I got access to had roughly 900,000 doctors and was stored on a SQL ser
 Just to prove I could link the two existing databases (the first data dump and this followup data), I spent yesterday afternoon querying the SQL server and aggregating some interesting features it contained, such as 'years of experience' and 'rating'.
 
 ~~~~ sql
-SELECT Doctors.FirstName, Doctors.LastName, Doctors.YearsOfExperience, States.Name as 'State', DoctorLocations.Zip, UserRatings.Score
+SELECT Doctors.FirstName, Doctors.LastName, Doctors.YearsOfExperience, States.Name as 'State',
+    DoctorLocations.Zip, UserRatings.Score
 FROM Doctors
   INNER JOIN DoctorLocations
     ON Doctors.DoctorID = DoctorLocations.DoctorID

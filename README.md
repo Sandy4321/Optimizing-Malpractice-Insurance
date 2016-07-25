@@ -1,4 +1,4 @@
-# Galvanize Final Project
+# Optimizing Malpractice Insurance
 
 This project provides a new way to understand risk in medical malpractice insurance, using data science as a means to change the way coverage decisions are made. I worked with Austin-based malpractice insurance company to develop the prediction pipeline.
 

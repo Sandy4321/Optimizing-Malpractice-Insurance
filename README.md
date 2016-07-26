@@ -8,7 +8,7 @@ The classifiers we sought to evaluate for each doctor were **no suit**, **sued a
 
 ![Dashboard Example](https://github.com/drewrice2/Optimizing-Malpractice-Insurance/blob/master/images/Three_classes.png)
 
-The company would cover doctors in each of the three buckets differently, hence the decision to use ternary classification. Domain knowledge helped to identify important features to differentiate the classes.
+The company would cover doctors in each of the three buckets differently, hence the decision to use ternary classification. Domain knowledge helped to identify features to differentiate the classes.
 
 The status quo of the medical malpractice insurance industry is to submit an application and be evaluated for insurance by an underwriter, or a coverage specialist. The industry is ripe for disruption by way of machine learning.
 

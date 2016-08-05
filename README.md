@@ -3,9 +3,9 @@ This project provides a new way to understand risk in medical malpractice insura
 
 Data came from multiple sources in multiple forms. I worked with the company's master relational database in addition to data found in the internal file structure. Challenges included duplicates, missing data, inconsistencies, and more. Also, we gained access to a third-party, scraped relational database of around 900,000 doctors. Challenges here included exploring the 93 tables, SQL queries, and feature extraction.
 
-The model was used was **SKLearn's RandomForestClassifier**. The input: a doctor to be evaluated. The output: the doctor's probability scores for each classification.
+The model used was **SKLearn's RandomForestClassifier**. The classes we sought to evaluate for each doctor were no suit, sued and won, and sued and lost. The decision to use ternary classification was a business decision made by the company; essentially, they would cover doctors differently depending on the classification. Domain knowledge helped to identify features to differentiate the classes.
 
-The classes we sought to evaluate for each doctor were no suit, sued and won, and sued and lost. The decision to use ternary classification was a business decision made by the company; essentially, they would cover doctors differently depending on the classification. Domain knowledge helped to identify features to differentiate the classes.
+The input: a doctor to be evaluated. The output: the doctor's probability scores for each classification.
 
 Takeaways:
 - Identified signal, linked data from different sources

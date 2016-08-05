@@ -16,6 +16,6 @@ Technologies used:
     Pandas
     Numpy
     SQL
-    
+
 
 ##### Drew Rice, 2016.

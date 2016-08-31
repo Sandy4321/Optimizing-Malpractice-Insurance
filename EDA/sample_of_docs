@@ -1,0 +1,1140 @@
+,ProviderId,Last Name,Middle Name,First Name,Gender,Date of Birth,City,State,County,indem_label
+81,1c50184d-410a-4c07-b6a0-48b27c0456da,Akins,Alan,James,Male,11/7/66,Scott Depot,WV,PUTNAM,2.0
+101,1cf4827a-fc9b-410a-8923-c2b19e9f8905,Alexander,J,Ian,Male,9/11/74,Los Alamos,NM,LOS ALAMOS,2.0
+141,fef26456-6759-4573-a69d-70482e29cea1,Alva,Eduardo,Brick,Male,10/13/70,Houston,TX,HARRIS,2.0
+2031,53294bf4-9f2d-4e7e-b44e-e34e7ac89cbd,Balder,A.,Donald,Male,8/1/63,Covington,LA,HARRISON,2.0
+2064,7590e9fa-b86c-40eb-add1-5cab8cf7c98d,Barnes,D.,Bryan,Male,4/5/70,Joplin,MO,NEWTON,2.0
+2214,3bbdfc67-dccc-4a69-81c0-8d98fdd6ddca,Blount,B,Robin,Unknown,10/22/57,Columbia,MO,BOONE,2.0
+2261,4aad012f-421b-4324-9fb1-ab95b2930c48,Boveri,A,Stephen,Unknown,1/29/63,Fenton,MO,SAINT LOUIS,2.0
+2271,d06b0d68-8cab-4e90-9f37-8b9751b9d1aa,Bowne,B.,David,Male,7/25/63,nan,nan,nan,2.0
+2348,899dbf67-1ee4-4fa5-9138-1b6e3c57aec0,Brown,Sterling,Richard,Male,7/2/47,Tomball,TX,HARRIS,2.0
+2386,00fd9b2b-e563-4c9d-ad77-9bab44785ef2,Burdick,A,Theresa,Unknown,2/21/50,nan,nan,nan,2.0
+2570,f772e18f-3020-4c6d-a87e-64ab89ed3496,Clement,Lynn,Robert,Unknown,11/4/39,Austin,TX,TRAVIS,2.0
+2659,2649262f-e43b-4d55-8646-ddfa3060a268,Crowder,R,Janice,Unknown,8/10/58,Nassau Bay,TX,HARRIS,2.0
+2851,11eed93a-b5a9-4733-9902-4012fc7ebac0,Donnell,F,James,Unknown,11/7/54,Houma,LA,TERREBONNE,2.0
+3215,dd25efe9-550f-4400-9a1f-ef7c91a4c4ec,Ghei,nan,Puneet,Male,10/12/66,nan,nan,nan,2.0
+3299,c6ff9228-89bf-43e6-9d8b-29901fa8036c,Gordon,Winslow,Stephen,Unknown,5/3/51,Las Vegas,NV,CLARK,2.0
+3405,f84f04bf-b5a8-4ad3-a209-616a02f0f73d,Gutierrez,Eugene,Daniel,Male,4/21/63,San Antonio,TX,BEXAR,2.0
+3477,b824a1e0-1dc6-4884-8aab-a7e9aa428284,Harkins,Brian,Michael,Male,2/28/60,Tomball,TX,HARRIS,2.0
+3561,8a83d0a2-0416-4e3e-9802-3c06367a799e,Henderson,R,Brett,Unknown,1/10/67,Las Cruces,NM,DONA ANA,2.0
+3650,efb2db7b-1979-42a8-b48b-4b73af498477,Horsley,B.,Stephen,Male,8/16/73,Las Vegas,NV,CLARK,2.0
+3713,f1b3c1c4-39fb-45b6-84c3-5b2ab1d0e2e1,Ihde,Michael,Glenn,Unknown,6/5/66,nan,nan,nan,2.0
+3798,a74b2a85-5b3b-438f-97d1-8a3fd65487f8,Jessup,J,Michael,Unknown,1/18/62,Cape Girardeau,MO,CAPE GIRARDEAU,2.0
+3911,0b1268b3-4e36-4a96-8ac3-7471499487aa,Kaufmann,Alan,Robert,Male,12/13/57,Fort Worth,TX,TARRANT,2.0
+3922,94a57384-1c0d-4e4a-b915-c6a6a9344f5e,Keepers,nan,Jerry,Unknown,8/11/53,Friendswood,TX,GALVESTON,2.0
+4179,5c371144-9be8-4566-82c3-e4aa23a50435,Lester,J,David,Unknown,9/20/51,Muskogee,OK,MUSKOGEE,2.0
+4641,09f4634b-2731-4eeb-b1b6-571863a26d8d,Moore,Alan,R,Unknown,3/4/51,Bellaire,TX,HARRIS,2.0
+5010,27009a82-c7d3-4318-9e68-d5f955dd57de,Parker,K,Larry,Unknown,7/23/59,nan,nan,nan,2.0
+5101,34fc5904-b5a3-478e-8954-2cd68f856951,Perl,M,Karen,Unknown,3/20/71,Fort Worth,TX,TARRANT,2.0
+5108,b53c1fbb-ef81-49af-a4e7-f2c33f2c277d,Persson,nan,Perjohan,Male,2/12/75,Lebanon,KY,MARION,2.0
+5286,d435617f-db5e-4b1a-b023-b4a3beabec08,Raphael,nan,Peter,Unknown,8/17/58,Plano,TX,COLLIN,2.0
+5798,adcea476-b9a4-4818-ad75-f0fa4b50f20b,Snure,Roland,Richard,Unknown,7/1/74,Silver City,NM,GRANT,2.0
+5889,36e33f6c-4039-4ea5-b7e3-63a2de3ec732,Stimage,V.,Rachenetta,Female,9/1/71,Carrollton,TX,DENTON,2.0
+5987,41ca3a75-33c9-427b-b66d-f4ab3cb05c85,Tarrant,W,Lawrence,Unknown,3/10/39,Parkersburg,WV,WOOD,2.0
+6261,be0ae42f-7869-4f0b-8b97-626fbb77e84d,Walden,A.,Nikki,Female,8/3/71,Dallas,TX,DALLAS,2.0
+6312,90df2745-c07b-48c6-9aa3-51bf443fc13c,Weaver,Roy,Robert,Male,1/8/61,Farmington,NM,SAN JUAN,2.0
+6356,ca1bc4f1-3602-40df-8b81-afd09b3deb71,Whisenant,Wayne,Stanley,Male,9/22/65,Rowlett,TX,DALLAS,2.0
+6397,647d9c30-9e73-41dd-8c43-a542d39dc5ba,Williams,John,Joseph,Unknown,7/1/42,Saint Louis,MO,SAINT LOUIS,2.0
+6434,5e5458d6-b22a-440b-9554-2b3ab6bdf5d9,Wilson,Lynn,Richard,Male,2/28/54,Oklahoma City,OK,OKLAHOMA,2.0
+6444,b87d9972-73fa-4d69-9b9c-af9c34ee1233,Wise,Farley,Jean,Unknown,3/6/45,Hope,AR,HEMPSTEAD,2.0
+6508,b9448cda-9bda-4a91-adc1-2eca9d639195,Yates,Louis,LeRoy,Unknown,5/10/55,Bettendorf,IA,SCOTT,2.0
+4634,fa2909ea-3f52-43a8-b2bf-a4e4f15f1516,"Moon, III",nan,John,Male,10/29/63,Plano,TX,DALLAS,1.0
+5854,9ed9b7b5-216a-403f-9562-fd2c186da63d,Stamelos,George,Spiros,Unknown,6/26/46,Chicago,IL,COOK,1.0
+5186,87fedc75-c265-4fb9-a43b-1bdb03b5c2a6,Powell,Ray,David,Male,12/9/54,Muskogee,OK,MUSKOGEE,1.0
+2195,1cbac1b2-11be-4a69-be81-91298ed47f7a,Bindal,K,Ajay,Unknown,4/6/67,Houston,TX,HARRIS,1.0
+5330,f6e58b6d-7f86-4cd6-99b4-f18ce7c7c395,Renaud,E.,Christian,Male,7/19/75,Las Cruces,NM,DONA ANA,1.0
+6483,7a311f0b-f2ee-431c-908b-68258194a915,Wright,Allen,Randall,Male,1/25/66,Bridgeport,TX,WISE,1.0
+3040,c8f876e5-1f28-4ba1-b568-8ab16522c4f4,Fitz,nan,Juan,Male,10/2/53,Lubbock,TX,LUBBOCK,1.0
+6143,cf12ff95-0791-4cb5-b308-4ee06be95480,Uhland,E.,Zane,Male,3/21/74,Oklahoma City,OK,OKLAHOMA,1.0
+3983,94ef69d1-5a18-4198-8fa2-4dae981aac9c,King,Wade,Richard,Unknown,8/18/58,Bridgeport,WV,HARRISON,1.0
+5194,48942f82-1c58-4977-807f-793b7231fb80,Prebil,E.,Brian,Unknown,7/24/70,nan,nan,nan,1.0
+5332,5e415b4c-e29e-4628-bcf2-0bc0cb1239da,Renouard,Spencer,Robert,Unknown,11/10/62,Edmond,OK,OKLAHOMA,1.0
+2855,9340e38b-e3a9-445d-b98c-8774075bf1ad,Doran,Hilton,John,Male,3/21/47,Odessa,TX,ECTOR,1.0
+3331,ac31f4a8-4e32-4694-a2c2-df647aa5d003,Grays,Edward,Peter,Male,11/5/61,Bedford,TX,TARRANT,1.0
+3318,407454f4-e835-40a6-92a4-5e9dc867844c,Grambort,D,Frederick,Unknown,3/21/49,Albuquerque,NM,BERNALILLO,1.0
+4646,864f9b39-1188-4f8b-9946-fa444d35fff6,Moparty,Kumar,Ravi,Male,10/10/66,Spring,TX,HARRIS,1.0
+2180,8780bf25-e8a6-49c8-b6f0-5099879d4c18,Biel,Elaine,Kristen,Unknown,7/8/82,Houston,TX,HARRIS,1.0
+2172,b306c2e1-18ef-40e9-bb79-446c9f525485,Bhatnagar,Kumar,Pankaj,Unknown,1/18/60,Las Vegas,NV,CLARK,1.0
+3187,a059b241-10c8-4c73-b499-732e22177c4f,Gatlin,Allan,Robert,Unknown,2/10/47,Henderson,NV,CLARK,1.0
+3156,736b354a-efa9-4911-82ba-aaf534499933,Garcia,G.,Raul,Male,8/5/44,San Antonio,TX,BEXAR,1.0
+2156,52f234ce-8cc6-4e94-a31b-f926cd2a3097,Berliner,Gregory,Kenneth,Male,1/24/67,Houston,TX,HARRIS,1.0
+2453,881658ed-5bc2-4668-94e2-2c3bee66d12d,Carrasco-Rojas,nan,Enrique,Male,7/16/32,McAllen,TX,HIDALGO,1.0
+6541,c5c3acbe-9e32-4bc6-840a-90c0ae478405,Zaleski,John,Robert,Unknown,4/21/48,Wheeling,WV,OHIO,1.0
+4467,a384d952-9eba-4efa-a5e5-1e1735acfe84,McIntire,D,Kent,Unknown,12/23/62,Joplin,MO,NEWTON,1.0
+3718,258d1e3f-3ad7-4e8a-928d-5785e7daeb10,Ikeda,H.,Marcos,Male,9/16/79,Houston,TX,HARRIS,1.0
+3578,d30e7b13-b943-4876-9340-53652717b3cf,Herrin,nan,Eric,Male,4/4/55,Arlington,TX,TARRANT,1.0
+4820,6c4c357d-55bd-47d4-888e-5be037306713,Niendorff,M,Cynthia,Unknown,1/28/71,Knoxville,TN,KNOX,1.0
+2085,8db637cf-b969-44e5-8302-945428bb8941,Bassett,Nicole,Ashley,Unknown,3/18/84,Chicago,IL,COOK,1.0
+4160,e5cef5e1-c5d4-4157-aaf0-845b7556b932,Leimkuehler,R.,Kenneth,Male,4/23/49,Osage Beach,MO,CAMDEN,1.0
+5171,96e0f77f-c611-453d-8c5f-9aa66eced110,Popov,nan,Monica,Unknown,10/11/69,Denton,TX,DENTON,1.0
+4238,e0850c0e-fdbc-41a1-9678-60f738d15d79,Lodha,nan,Ankur,Male,6/29/77,Houma,LA,TERREBONNE,1.0
+5657,33b44d28-4382-4f5c-8dd3-c48073ba8779,Sharma,nan,Rahul,Male,7/31/73,nan,nan,nan,1.0
+2222,7124b94a-5523-4e64-9073-f6d509227423,Bobb,Alan,Douglas,Unknown,5/27/53,Phoenix,AZ,MARICOPA,1.0
+5926,8f79a4d0-4161-4f28-b592-92369fc5c0ae,Sudanagunta,nan,Vijaya,Unknown,5/10/63,Cedar Hill,TX,DALLAS,1.0
+5906,451c1dd5-2c95-4f01-aa72-99e236bf874e,Strauss,nan,Murray,Unknown,8/29/40,Arlington,TX,DALLAS,1.0
+5394,51fe4709-1853-45b2-a9ed-7178a8928355,Robert,nan,Sara,Unknown,4/11/74,Mckinney,TX,COLLIN,1.0
+4506,34956b27-9952-4eb9-a1e0-68ca86cff95b,Mead,W.,Alan,Male,12/15/63,Osage Beach,MO,CAMDEN,1.0
+2400,3c52735a-116d-490a-89b4-a4e2f7200d9e,Bustamante,A.,Mario,Male,9/2/55,San Antonio,TX,BEXAR,1.0
+3560,8a83d0a2-0416-4e3e-9802-3c06367a799e,Henderson,R,Brett,Unknown,1/10/67,Las Cruces,NM,DONA ANA,1.0
+2129,11715222-9869-4753-9695-14e81991d5e3,Bellanger,L.,Heather,Female,4/28/78,Plano,TX,COLLIN,1.0
+2492,3065de87-8fab-4eeb-9e05-a3b5ee304994,Chalifoux,F,Roland,Unknown,8/4/59,Mcmechen,WV,MARSHALL,1.0
+5214,32eedef7-acbf-47fb-b0be-146f930f8650,Pringle,Craig,Timothy,Male,3/23/68,Carrollton,TX,DENTON,1.0
+6211,8b9c7d70-40d5-4f6c-8047-0e3d9e402f72,Venyah,Kofi,Titus,Male,3/15/63,Katy,TX,FORT BEND,1.0
+3632,a361664e-ada6-49a2-a1fe-d7bc667a754e,Holsaeter,nan,Svein,Male,8/6/56,Oklahoma City,OK,OKLAHOMA,1.0
+2174,e00bf386-b1d9-4e8b-b3a7-35dcf362644a,Bhatt,B,Kushi,Unknown,3/19/82,nan,nan,nan,1.0
+3396,ce88dbfe-d2c4-462e-bf53-569e6cbb4284,Gulati,nan,Prem,Unknown,4/1/47,Huntsville,AR,MADISON,1.0
+5246,d4034ecc-91c5-4484-ba8f-9f92174ece44,Rafiq,nan,Shahida,Unknown,4/6/64,Plano,TX,COLLIN,1.0
+3181,cc39af80-6703-40c8-8006-66737a9e0914,Gasser,M,George,Unknown,3/20/51,Farmington,MO,SAINT FRANCOIS,1.0
+5225,1bbee433-a1df-4d06-a7bb-54a520d03889,Puig,E,Carlos,Male,11/24/77,Edinburg,TX,HIDALGO,1.0
+5338,c0926948-bb82-4d36-9b4c-9e76ba69c137,Reyes,nan,Diki,Unknown,12/3/74,nan,nan,nan,1.0
+4544,16e3cbb3-a569-46d0-a2d8-9d45c34007da,Merriman,R,George,Unknown,10/15/60,Shreveport,LA,CADDO,1.0
+4153,02367c56-a807-4786-bd31-67b3ffd0fe9a,Lehman,C.,Richard,Male,11/14/54,Saint Louis,MO,SAINT LOUIS,1.0
+5460,b5b67dfb-678b-4a6d-a03f-53cefe5d1022,Rothenberg,S.,Eric,Male,7/2/58,Pasadena,TX,HARRIS,1.0
+2426,9e8a0e5a-d993-4f6a-a0ff-04fa71ecfd02,Camati,nan,Mirian,Unknown,8/28/52,nan,nan,nan,1.0
+6252,5e64cb9e-367b-4c57-92fe-95dbf366013f,Wagenknecht,A,Dwight,Unknown,4/8/57,nan,nan,nan,1.0
+3464,6bb119e6-c2d2-4cd7-bb53-316fd0f9db77,Harbison,Ross,Andrew,Unknown,10/30/66,Portland,OR,MULTNOMAH,1.0
+3107,b78d0802-a191-485d-8bbd-78c9fd719ff2,Frierson,H.,John,Male,6/17/56,San Antonio,TX,BEXAR,1.0
+3246,6d4fd473-07e6-4bc5-a474-3e7dedcd083c,Glasgow,A,James,Unknown,4/15/49,Ada,OK,PONTOTOC,1.0
+3502,959ca18b-05d2-4761-9d00-9ca3e76dc803,Hasik,Jos,Karl,Unknown,11/22/50,Paragould,AR,GREENE,1.0
+6207,e984c7a8-54e9-488a-be01-25ad51f7d5d1,Venegoni,V.,Paolo,Male,12/6/61,Austin,TX,WILLIAMSON,1.0
+2885,7bd5bd49-c036-4939-a474-2e2a5ee66139,Durand,P,Jaime,Unknown,3/18/54,Arlington,TX,TARRANT,1.0
+3186,686911aa-2193-42e9-84e1-6980474d46b2,Gati,nan,Kenneth,Unknown,6/6/69,El Dorado,AR,UNION,1.0
+4879,471d96b1-00a9-4679-83bf-d7136d69a25b,Okoli,C.,Obiefuna,Male,1/26/70,Las Cruces,NM,DONA ANA,1.0
+5490,10aabf5c-476a-4cfd-84a0-e5b4570c6bbd,Rynerson,Michael,James,Unknown,6/6/57,Bowling Green,KY,BARREN,1.0
+5060,8efd6e0f-f155-4ae7-b1b9-282a1d63369d,"Patterson, Jr.",Eugene,Rushton,Male,12/26/53,Memphis,TN,SHELBY,1.0
+3482,48044cb0-93db-4d0d-beb5-2926eb920458,Harper,M,Elise,Unknown,3/28/69,Richardson,TX,DALLAS,1.0
+6463,d96ea1d1-519d-41e5-9fa5-019c66af4bdc,Wood,Douglas,Gregory,Unknown,12/27/64,nan,nan,nan,1.0
+4988,04195391-6b7e-426d-bf1b-9929c267153a,Panday,nan,Khaimchand,Male,10/14/56,McAllen,TX,HIDALGO,1.0
+5035,76cc3ed9-d4af-4c09-b561-05ac96215540,Patel,V.,Ashish,Male,12/15/73,Schaumburg,IL,COOK,1.0
+2469,d4b778a1-d619-4c05-8604-3c39e0c55d86,Casso,nan,Daniel,Male,10/8/58,Houston,TX,HARRIS,1.0
+3234,e458364e-9c28-4cf0-9c1e-2fc1db154cec,Ginsberg,J.,Dian,Female,9/2/64,Bellaire,TX,HARRIS,1.0
+2198,5d7d7cbb-af81-45d7-a304-08beb99b6bfe,Bishara,Allen,Mark,Unknown,12/14/75,nan,nan,nan,1.0
+4960,0f979524-2617-41c5-a73a-c86dd67b1bce,Owen,G.,Philip,Male,9/7/59,Las Cruces,NM,DONA ANA,1.0
+3649,efb2db7b-1979-42a8-b48b-4b73af498477,Horsley,B.,Stephen,Male,8/16/73,Las Vegas,NV,CLARK,1.0
+3267,8d090069-8c29-4093-8e71-a37eca0d6c4e,Golen,A.,Donald,Male,10/5/65,Prescott,AZ,YAVAPAI,1.0
+1929,fecba2c2-5c86-42c8-ba66-1a5614f4633c,Andelin,Berry,Paul,Unknown,4/23/56,Aurora,MO,LAWRENCE,1.0
+4700,ff21b92c-2744-4f95-800a-6f8489a1692f,Mueller,M.,Sandra,Female,9/9/62,Rio Rancho,NM,SANDOVAL,1.0
+3974,3c942890-7fc0-43e3-910a-0450772a0774,Kim,nan,Junuk,Unknown,8/28/72,nan,nan,nan,1.0
+3035,24d69b4a-d823-4ca5-9409-30a6165198a7,Fisher,Chayne,Harry,Unknown,6/16/66,Seminole,OK,SEMINOLE,1.0
+5564,019202ca-f9c7-41b8-ab70-6695c9db449f,Sasaki,S.,Larry,Male,7/23/63,Bossier City,LA,CADDO,1.0
+2656,2649262f-e43b-4d55-8646-ddfa3060a268,Crowder,R,Janice,Unknown,8/10/58,Nassau Bay,TX,HARRIS,1.0
+2501,02653a53-a517-484b-af5c-17886aed20ca,Chand,G.,Sunil,Male,1/27/64,Farmington,MO,SAINT LOUIS,1.0
+2765,fa9ee7d6-475c-4dcb-bb8a-891526029d90,Delaportas,James,Dino,Unknown,10/26/49,Bridgeport,WV,HARRISON,1.0
+6150,595f5b76-63c2-4d27-83e9-db79a2f73c6c,Urias,A.,Jorge,Male,1/21/54,Las Cruces,NM,DONA ANA,1.0
+4896,7833592c-4f21-4eae-a421-d8868297cbcf,Olive,nan,Trevelyn,Unknown,10/28/74,Arlington,TX,TARRANT,1.0
+2331,e08764a0-ffc0-40b3-b73d-dd789914092d,Brooks,Jean,Sheila,Unknown,10/3/48,nan,nan,nan,1.0
+2150,b960659a-bcb8-4c40-b7b2-99c33038446e,Berkman,Frank,Eric,Unknown,8/2/62,Bellaire,TX,HARRIS,1.0
+3384,3a76a6f7-5824-42fe-928f-0041b9b8693d,Guevara,R.,Jorge,Male,9/17/62,Brownsville,TX,CAMERON,1.0
+5924,aca26eca-7429-4a7a-9794-1e4ddb4eeb6b,Subramanian,nan,Tenkasi,Male,7/25/46,Oak Brook,IL,COOK,1.0
+4064,cffea6ff-f977-423c-98a5-3a38eeb332c5,Kurup,nan,Sunil,Male,3/9/81,Casa Grande,AZ,PINAL,1.0
+4106,5920e7a1-3ecf-411e-9934-034d653335bd,Lauer,David,Scott,Male,3/24/64,Colleyville,TX,TARRANT,1.0
+3957,43c5e3bd-57e7-438f-9ece-c56a44322aaf,Khan,Awan,Rabia,Female,1/1/57,Irving,TX,DALLAS,1.0
+4310,287b5990-f95a-4426-8459-334b63469d5d,Majors,F.,Patrick,Male,7/1/49,Saint Louis,MO,SAINT LOUIS,1.0
+3051,341342df-6002-4881-a661-894ac92a9987,Florendo,F,Oscar,Unknown,4/2/66,nan,nan,nan,1.0
+2610,3959fe5a-b480-44d9-9fb1-6a243a49c158,Cooney,David,Paul,Male,7/15/72,Las Cruces,NM,DONA ANA,1.0
+3076,53cf7ab3-888d-4abf-b720-1c8273194037,Foster,nan,George,Male,12/22/44,Henderson,NV,CLARK,1.0
+2076,3612bf96-56ee-47af-b784-194e2e754ecc,Bart,N.,Gerald,Male,12/3/40,Albuquerque,NM,BERNALILLO,1.0
+4363,62030aa8-a889-4e23-8c5e-4e9ccfd4663c,Martin,Robert,Dieter,Unknown,9/21/72,Austin,TX,TRAVIS,1.0
+95,4f932cbe-6926-4914-a119-f360fce48e84,Albracht,M.,Jamison,Male,6/20/68,Plano,TX,DALLAS,1.0
+2769,abd908e7-7fbb-4405-8cfb-5d4dacd9493a,Delong,Earl,Jeffery,Male,12/24/67,Evansville,IN,VANDERBURGH,1.0
+3497,dd60d558-7637-44a9-b969-83b1655bcd0d,Harrison,L.,Mark,Male,6/12/57,Harlingen,TX,HIDALGO,1.0
+4203,d59e9532-9bae-43e4-aff9-83247e6eadeb,Liles,Thomas,Rein,Male,10/4/84,Houma,LA,TERREBONNE,0.0
+3757,d375d2d1-a099-4397-a5d3-ead6da01c2d9,Jackson,nan,Michael,Unknown,12/16/52,University Place,WA,PIERCE,0.0
+2030,f2f4908b-8fe1-46a4-9396-3c4921b7ba1c,"Balch, III",Judson,Robert,Male,1/8/78,Fort Worth,TX,TARRANT,0.0
+1993,0da8a33f-f063-4965-8a4a-9dc76665c032,Atluri,nan,Sai,Unknown,6/26/75,nan,nan,nan,0.0
+5212,32ad1eec-d58b-4161-ae36-600e62276a44,Prince,W,Hugh,Unknown,12/20/73,nan,nan,nan,0.0
+4528,eb252a34-5eaa-43db-9dec-481455042639,Melnick,B.,Jeffrey,Male,6/1/55,Damascus,OR,MULTNOMAH,0.0
+2959,ee57ed94-c5ec-4c23-af80-86b4122708d6,Engeron,D.,Eric,Male,8/11/66,Houma,LA,TERREBONNE,0.0
+5787,bd88a560-fc16-43e7-8bc7-38f3fb01d130,Smith,Tate,Skyler,Male,10/4/83,Huntington,WV,CABELL,0.0
+6379,c7bd51e9-5d22-4afc-aac2-4ef547362e8c,Wiggins,nan,Rebekah,Unknown,5/29/73,Webster,TX,HARRIS,0.0
+4861,5169ebdb-1127-4f93-a2d6-5a2adad8d89a,Ogbonna,nan,Martina,Unknown,9/15/71,Sugar Land,TX,FORT BEND,0.0
+5335,edd0a9af-cebb-4e6d-b846-e2fddbccc395,Ressler,L.,Gina,Female,8/19/55,Edmond,OK,OKLAHOMA,0.0
+5745,d77efb05-c95d-42e2-9732-79083023a189,Singleton,Edward,Charles,Male,12/9/63,Ashland,AL,CLAY,0.0
+58,d8eff370-41bd-4b41-91ef-483a7fe7af87,Ahmed,nan,Faheem,Male,12/16/67,Austin,TX,TRAVIS,0.0
+6097,52e1d53a-b9e3-4905-982a-c3bc2733f7b1,Tran,Kim,Mai,Female,7/24/81,Pearland,TX,BRAZORIA,0.0
+2313,c8e8dc42-5daa-486b-bc71-0b35540f5a33,Bridge,nan,Danielle,Female,8/8/65,Los Alamos,NM,LOS ALAMOS,0.0
+2576,8e336bd0-345e-4376-8a12-4aeb311aee15,Coburn,R.,Tonya,Female,5/8/73,Versailles,KY,WOODFORD,0.0
+2435,f4a6fbce-8157-4a4c-90ad-ded0f83e24a4,Cantu,Magdiel,Rogelio,Male,2/20/72,Laredo,TX,WEBB,0.0
+6045,b16e1577-8a83-4866-a7da-45260777270f,Thompson,Allen,Charles,Male,8/9/60,Houma,LA,TERREBONNE,0.0
+4776,0f80f7ed-b76d-4f59-a998-2f86396e9a0b,Nesbitt,nan,Shayla,Female,1/15/76,Beaumont,TX,JEFFERSON,0.0
+109,c8d3a5fc-2899-42d8-bce0-61153c0196f5,Al-Hajj,Emile,Gabriel,Male,11/3/46,Charleston,WV,KANAWHA,0.0
+2847,3777ad89-7bf8-4229-86cc-842005e4822d,Dombek,Joseph,Stanley,Unknown,1/27/42,nan,nan,nan,0.0
+3448,1907b495-fde3-4da9-8fa3-c1c9b475e7a4,Hamilton,Anthony,Stephen,Unknown,2/9/66,Edmond,OK,OKLAHOMA,0.0
+3139,404e5398-1611-4d16-81af-a77540bfa6f7,"Galindo, Jr.",Augustine,Juan,Male,7/16/76,Irving,TX,DENTON,0.0
+5952,3e09733a-d749-47a3-9c3f-e1bc7fbdbb35,Sweet,Michelle,Carey,Unknown,6/22/75,Bastrop,TX,BASTROP,0.0
+6439,54998972-51b7-4222-89b0-e8e167f89955,Winczura,A,John,Unknown,9/7/47,nan,nan,nan,0.0
+4999,51df2976-08be-4c32-9f7a-eba29fabf674,Parikh,L.,Jeannine,Female,8/2/70,Ashland,KY,BOYD,0.0
+6535,732b024c-f750-441b-bd7a-22303e521dfa,Yuan,Feng,Lian,Unknown,11/25/71,Austin,TX,TRAVIS,0.0
+5502,6f5b55c9-43b3-4627-9245-5d9c3fd0ccc3,Sahai,nan,Mrisa,Female,2/5/83,San Antonio,TX,BEXAR,0.0
+6069,e9049022-acf7-4712-9285-25eb8956bdd7,Timothy,M.,Alvin,Male,2/4/75,Houma,LA,TERREBONNE,0.0
+4619,466c988d-9a2b-4525-940b-435120890289,Molette,F.M.,Sekou,Male,11/13/66,Nashville,TN,DAVIDSON,0.0
+5983,f3a5325f-446b-4f81-8323-074b6969b690,Tariq,nan,Azlan,Unknown,2/19/81,nan,nan,nan,0.0
+2943,567f00b1-79ec-4c1b-8d00-39b09a349098,Ellis,B.,Mark,Male,9/28/65,Enterprise,AL,COFFEE,0.0
+6338,06c19981-7694-4995-8590-98d641a1d8fb,Wenker,Charles,Olivier,Male,5/27/57,Sugar Land,TX,FORT BEND,0.0
+5754,1ba8eb13-825b-4a01-b373-2fda6222012b,Slim,Mohamad,Ahmad,Male,6/29/75,Houma,LA,TERREBONNE,0.0
+2820,8c951790-2089-4675-9746-9bfedd49318c,"Diggs, Jr.",Wilfred,George,Male,11/4/49,Breaux Bridge,LA,LAFAYETTE,0.0
+19,20988f49-5a3b-492d-a349-86f4e50200f2,Adams,Shan,Kimberly,Unknown,1/17/63,Columbia,MO,BOONE,0.0
+6111,19a74c28-6025-4d0a-8afe-45b62524f2f6,Trotter,Tatarsha,Lakieva,Female,6/5/79,Olive Branch,MS,DESOTO,0.0
+3668,d7670e65-03bb-4413-803d-c35c3abe7d91,Howard,Ray,Larry,Male,1/1/65,West Monroe,LA,OUACHITA,0.0
+3513,550c6852-d346-4110-be63-2a324c44fbc5,Haufler,Gay,Amy,Female,9/2/60,Richardson,TX,COLLIN,0.0
+2332,e8a9fa63-b50e-4ae7-9f43-2e43a7720875,Broussard,M,Tameka,Unknown,4/15/80,Pearland,TX,HARRIS,0.0
+3212,69b409b4-52c4-4e46-bc0f-c98db12f8cb2,"Ghaffari, Sr.",nan,Ali,Male,4/4/45,nan,nan,nan,0.0
+6497,8337772a-bfba-45d6-9035-47ba4a1311a1,Xiao,nan,Ruobing,Male,10/16/70,Rio Rancho,NM,SANDOVAL,0.0
+3293,4a01d172-6b83-4abf-a194-8551c9cad6f0,Gordon,nan,Brent,Unknown,10/14/53,Arlington,TX,TARRANT,0.0
+3203,29f2c816-1089-4a92-9c82-b6a4499e1cdc,Gelinas,D,Joel,Unknown,9/19/69,Albuquerque,NM,BERNALILLO,0.0
+2311,90879199-b5cf-4758-8d77-b5c74e4f5533,Bricker,Craig,DeWayne,Unknown,3/1/62,Shreveport,LA,CADDO,0.0
+5559,bb12d807-2f3e-47e7-82c9-2c56639a164d,Sarkar,nan,Ankur,Unknown,10/29/62,Sugar Land,TX,FORT BEND,0.0
+4830,deec03ef-6ebb-497e-a2dc-0877099e65b7,Norman,Leigh,Nicole,Unknown,1/23/78,Austin,TX,TRAVIS,0.0
+4666,000c64c1-1426-42fb-9e15-b9de93addde8,Morrow,Kay,Carla,Female,1/20/72,Cleburne,TX,JOHNSON,0.0
+6294,eb48aaff-f201-4e66-a0bb-e7bb2448be4c,Warford,Ryan,Travis,Male,7/26/76,Oklahoma City,OK,OKLAHOMA,0.0
+5802,95c1795a-e53c-4adb-8973-2d8f818f3e47,Solet,J.,Darrell,Male,2/13/69,Houma,LA,TERREBONNE,0.0
+3271,62f92d46-82ee-4236-973b-e8b7b4d275b8,Gonzales,L.,Nicolle,Female,3/15/80,Los Alamos,NM,LOS ALAMOS,0.0
+3230,b185a296-c9e6-4d0a-997a-4e6bcf1f644b,Gilliam,Shane,Leslie,Male,3/16/71,Stephenville,TX,ERATH,0.0
+5215,5616f3d1-6773-418b-8148-7a52408e0748,Pritchard,G.,David,Male,4/17/51,Las Cruces,NM,DONA ANA,0.0
+4378,43bd34c9-7f54-40c3-8e7e-56f0b9b4d5eb,Marzan,A,Katherine,Unknown,8/5/65,Las Vegas,NV,CLARK,0.0
+6307,a1368a78-4e9b-4123-aa27-d27c4f6d5122,Wayman,R,Rebecca,Unknown,6/3/82,Palmer,AK,MATANUSKA-SUSITNA,0.0
+6424,c2acb093-9b7f-4376-8f50-5e4d23e8d35d,Wilson,Mark,Gary,Unknown,3/2/82,Kennett,MO,DUNKLIN,0.0
+3137,40f10c06-2f70-47ec-8f71-8befe3b10673,"Galindo, Jr.",Augustine,Juan,Male,7/16/76,Lewisville,TX,DENTON,0.0
+3461,b5d693de-6a55-43bd-8566-4c21d2ddc935,Hansen,Ibaceta,Ingrid,Unknown,3/23/60,Katy,TX,HARRIS,0.0
+4671,7d42e83f-d543-4ef8-a245-a9229783d1cf,Mos,K.,Amy,Female,11/24/73,Plano,TX,COLLIN,0.0
+2474,0ce0f8a0-7fdf-4ef4-aba1-d38dc8e9baaf,Caudillo,nan,Magdalena,Female,3/23/73,McAllen,TX,HIDALGO,0.0
+4119,77f83354-5704-4a3c-8ded-3211e3d042e1,Le,Q.,Huy,Male,10/18/77,Houston,TX,HARRIS,0.0
+3526,a6dacc50-5ce0-40bf-bf99-39d403405c65,Haynes,A.,Grace,Female,10/1/61,Mesa,AZ,MARICOPA,0.0
+6344,3ebb0146-d136-4d28-bd68-7570c2cf7a4e,West,M.,Don,Male,3/14/51,Dallas,TX,DALLAS,0.0
+5474,d8de51a8-0a3e-48a6-97c9-c9c74e407830,Rudolph,Todd,Charles,Male,7/7/67,Cleveland,TN,BRADLEY,0.0
+6256,02c0c355-1049-49d7-996e-9ea8d8baed4f,Wagnon,A,Jon,Unknown,11/29/75,Godfrey,IL,MADISON,0.0
+4606,686cbce4-4f5d-49b2-b638-de83df337321,Mitchell,L.,Tara,Female,2/19/79,Princeton,WV,MERCER,0.0
+2194,4307e2a7-ae3c-4735-8fe5-56c93b580bf0,Binamira,nan,Orlee,Male,12/31/74,McAllen,TX,HIDALGO,0.0
+4636,377523bb-9fb3-4c9d-881a-1f9e3ffb713e,Moore,Jay,Carter,Male,2/16/61,Mount Pleasant,TX,TITUS,0.0
+2970,ad7e5c03-9fd8-4938-bb0f-478db051f5a2,Etlinger,E.,John,Male,2/19/50,San Antonio,TX,BEXAR,0.0
+5226,77bf2e34-6b55-4d5e-98e6-013dbe05aa2d,Pulisetty,nan,Shailaja,Female,6/13/63,nan,nan,nan,0.0
+20,72836ffc-bae9-4802-b771-a55b080a8a55,Adams,Ann,Lisa,Female,8/21/60,Houston,TX,HARRIS,0.0
+6197,5cd87337-3180-4fa3-8a10-e0e0aa5b55b4,Vela,nan,Ruben,Male,6/7/62,McAllen,TX,HIDALGO,0.0
+2437,babb78d2-823b-4f8c-afab-4eec626cb499,Cao-Baker,Joshua,Thomas,Unknown,11/29/83,Phoenix,AZ,MARICOPA,0.0
+1971,c63b2e24-d9c0-425b-b66a-9742cd98a28b,Armstrong,P,Gina,Unknown,4/4/80,Houston,TX,HARRIS,0.0
+5479,4198088b-1a0f-4584-9509-dec528deb636,Ruhoy,Sue,Ilene,Female,6/25/68,Seattle,WA,KING,0.0
+5123,6c7a058c-e94d-4be4-9556-020c4449aad2,Pham,Quyuh-Trang,Amy,Unknown,10/21/82,Arlington,TX,TARRANT,0.0
+6320,b46f62f1-6a9e-4e5b-a068-18b8bc69f4cd,Webster,Leon,Robert,Unknown,10/3/58,Bastrop,TX,BASTROP,0.0
+5427,0e22b72a-c44a-4896-9ae7-ab4522845bb3,Rodriguez,nan,Jayce,Male,1/28/87,Dallas,TX,DALLAS,0.0
+6246,2af76bf1-7f36-42ac-b6dd-08b5dff43314,Vu,Ronnie,Vanchi,Male,12/29/72,Maurice,LA,CALCASIEU,0.0
+5278,32578b5e-4827-4396-943a-b060b944be44,Rana,J.,Maryam,Female,2/17/69,Stanaford,WV,RALEIGH,0.0
+5619,b6f5b9d8-61a3-4b5b-9d1c-aa071eaf3703,Segantim,Fears,Krystal,Unknown,11/5/83,McAllen,TX,HIDALGO,0.0
+4731,34062caf-81f8-4379-ae06-1312457a1f85,Naeem,nan,Bilal,Male,3/17/66,Springdale,AR,WASHINGTON,0.0
+6300,fd4ddd3f-1b3e-4a9b-82a6-290bfb87369f,Watkins,Eugene,Winston,Unknown,1/18/59,Houston,TX,HARRIS,0.0
+5139,f630d120-8a7e-4cc9-a363-43354c41b289,Pickett,W.,Alton,Male,12/24/41,Lebanon,TN,WILSON,0.0
+3612,bfc6a2c1-39f1-44bd-b56f-1b5ab7f4ef1f,Hoeffler,Dawn,Christina,Unknown,1/28/78,Webster,TX,HARRIS,0.0
+6025,8082cbf5-f082-4e6b-92c0-4e7997f3a695,Tharp,Elizabeth,Danielle,Female,9/24/89,Houston,TX,HARRIS,0.0
+5712,31f4fe4d-1329-4eba-a1f9-05d5c732e629,Shrout,Dawn,Anita,Unknown,2/5/72,Houston,TX,HARRIS,0.0
+4498,d02a72d6-8e35-4cdd-9428-cd3ada845ffe,McPeak,C.,Erin,Female,11/22/80,Portland,OR,CLACKAMAS,0.0
+6420,10aef774-619e-4ead-8248-8fed33faafee,Willits,Ann,Kathy,Unknown,5/11/62,Ennis,TX,ELLIS,0.0
+4551,9e6daec9-7333-467c-8d16-a3ba03f26864,Mesibov,A.,David,Male,3/23/65,Los Alamos,NM,LOS ALAMOS,0.0
+5138,c02a95a3-d60a-4e17-9b98-ed6ece88734d,Pickens,nan,Vicky,Female,12/21/56,Farmington,MO,SAINT LOUIS,0.0
+6494,f375d0ab-49be-43dc-a0f4-741e537edadd,Wynne-Duncan,nan,Gracia,Female,4/25/67,Houston,TX,HARRIS,0.0
+3204,81955f0b-ad79-48ba-8d46-c2525ae9ceae,Gengelbach,G,James,Unknown,9/2/44,Plano,TX,BEXAR,0.0
+2746,8ff780db-b617-4aae-a848-23e35fc40cb9,De Leon,De,Nicerio,Unknown,4/2/69,nan,nan,nan,0.0
+3961,eb29673d-6598-4292-b62d-cca2c94712f7,Khiami,nan,Ahmad,Male,7/1/62,Beckley,WV,RALEIGH,0.0
+2236,e874d158-4d10-47b1-ab70-a9217c0ccd63,Booth,L,James,Male,7/4/47,Medford,OR,JEFFERSON,0.0
+3319,6fa83bb0-6d28-4953-a8d9-22c18e9c4642,Grana,R.,Michelle,Female,1/11/61,Athens,AL,LIMESTONE,0.0
+4088,89300952-45a3-435a-923d-1564d75240e1,Landry,James,Bowen,Unknown,2/4/66,Webster,TX,HARRIS,0.0
+5807,6e8d0a46-c9eb-46d8-a0f0-d243a36c4138,Solovieva,nan,Anastasia,Unknown,9/22/73,Kirksville,MO,ADAIR,0.0
+4266,5791910d-1e76-4679-a3ac-20b835a06618,Lowrance,T,Christy,Unknown,3/12/78,Beaumont,TX,JEFFERSON,0.0
+4461,2fe1d910-fe2a-475a-ad00-b3dabcd96213,McFadden,K,Michael,Unknown,4/6/68,Evansville,IN,VANDERBURGH,0.0
+6537,6d246ccd-c143-4a2a-a56d-c7cc9f792f3d,Zachow,Eugene,William,Male,5/9/56,Anaconda,MT,DEER LODGE,0.0
+3570,da583817-118f-4431-803b-bfa1e516be5b,Hensley,R,Sally,Unknown,11/14/76,nan,nan,nan,0.0
+4617,9bdacded-35c0-4e53-86af-8bcd6c57a6b9,Mohammed,H,Mohammed,Unknown,6/21/79,Dearborn,MI,DANE,0.0
+3354,26840469-96c0-4a5f-b693-1ea13dae26ec,Gregorio,GiaH,Maria,Unknown,8/22/67,Portland,OR,MULTNOMAH,0.0
+3111,e78780f7-3e86-4e0b-a283-61e627e202ae,"Frost, III",nan,Romulus,Male,8/3/67,McAllen,TX,HIDALGO,0.0
+4704,4ad55e2c-f7c3-4daf-bc13-6641a2cee841,Mullapudi,P.,Rajendra,Male,10/6/71,Oak Brook,IL,DUPAGE,0.0
+134,3d9a689b-3147-401b-9871-170fc32e6f7b,Alonso,nan,Ramiro,Male,10/23/35,McAllen,TX,HIDALGO,0.0
+4971,0f0e94a8-287c-44ce-a063-63a65c276222,Padron,nan,Ernesto,Unknown,10/17/64,omaha,NV,nan,0.0
+5850,edeadd24-3683-4049-b87a-dbb39a88b0bd,"Stagg, III",J.,Samuel,Male,4/3/56,Houma,LA,TERREBONNE,0.0
+2514,17342357-527a-4554-a08f-cb7f19889ebb,"Charles, Jr.",Michael,Lloyd,Male,2/9/50,nan,nan,nan,0.0
+5059,136e6524-28fc-4f70-8e59-6df7a7928fe5,Patterson,B.,Michael,Male,12/6/72,Clarksville,TN,MONTGOMERY,0.0
+3934,fb5c72de-5b79-4d1c-bf23-9bd196b56d2f,Kelt,Louise,Cynthia,Female,8/14/78,Bastrop,TX,BASTROP,0.0
+5742,4e3add35-42ab-4504-9021-f99c3f3ca70f,Singhal,Raghu,Ashish,Unknown,10/23/70,Bastrop,TX,BASTROP,0.0
+3685,64bbb5fa-bc90-46b1-9120-8e87c7920518,Hughes,S,Melinda,Unknown,3/10/78,nan,nan,nan,0.0
+2173,5145fb97-b9bf-4e9f-8439-5a1cedc6f236,Bhatnagar,Kumar,Pankaj,Unknown,1/18/60,Las Vegas,NV,CLARK,0.0
+5166,ab7c0c52-8e78-45ce-a9ef-d35738852ebb,Ponder,Diane,Susan,Female,4/17/68,Plano,TX,DALLAS,0.0
+4660,66503487-86d4-475f-a49d-e1c93c19aa8f,Morris,D,Scott,Unknown,5/5/59,nan,nan,nan,0.0
+5168,947df0f2-ae78-4a4e-9a3e-1e2c06503fcf,Poole,nan,Michelle,Female,5/26/71,Austin,TX,TRAVIS,0.0
+4892,0b370cee-2cf3-47a0-aef0-832127e76685,Olefsky,H.,Alan,Male,10/29/53,Chicago,IL,COOK,0.0
+4022,19d9c4e6-e820-41c4-b398-134e6c0ba410,Kogan,nan,Victoria,Female,4/24/78,Scottsbluff,NE,SCOTTS BLUFF,0.0
+6062,fcdd4605-da69-4ae4-b6a5-fe0c67356629,Tiley,W,Frederick,Unknown,7/10/37,Salem,OR,MARION,0.0
+4962,abdeefb6-4763-4ce6-89f8-f603453d9ed1,Owens,J.,Judith,Female,7/30/60,Houston,TX,HARRIS,0.0
+3224,fb456967-d1ff-4a26-b955-18abe893fa3f,Gilkey,nan,Sandra,Unknown,5/1/75,Nortonville,KY,HOPKINS,0.0
+6570,908aa9ee-1e88-4d42-b1b7-d7dd1e6bbf95,Zhang,nan,Yuanhui,Male,11/15/62,Princeton,WV,MERCER,0.0
+5434,8bcf9564-100f-412a-98e7-cb4d143be108,Rodriguez-Cayro,nan,Narciso,Unknown,4/7/40,Beckley,WV,RALEIGH,0.0
+2243,615a3c21-eb14-4c8f-a6b3-3680e2fd6048,Bose,Gurusamy,Sarojini,Female,10/10/53,McAllen,TX,HIDALGO,0.0
+6354,a5ee1d55-62c1-41cc-b57b-2c1296590914,Wheelock,nan,Valerie,Unknown,4/27/77,Austin,TX,TRAVIS,0.0
+3308,4b01b858-a0d2-48ee-ad8c-83c0a1681de2,Gotta,A,Jan,Unknown,11/1/62,Las Cruces,NM,DONA ANA,0.0
+3521,f0a90531-516b-4dc8-af38-082577401c67,Hawkins,Roy,Leticia,Female,9/14/65,McAllen,TX,HIDALGO,0.0
+4710,58a65ce7-ec01-45e8-a88a-b774128c0669,Muralidhara,nan,Kesturkoppal,Male,11/4/49,McAllen,TX,HIDALGO,0.0
+3801,c409f0cc-42ea-431f-88c2-f0ec39106609,Jewell,D.,Saharra,Female,11/2/75,Tullahoma,TN,COFFEE,0.0
+5650,68f0d53e-c5ed-469a-9b58-9719ee521e15,Shamma,Nicholas,Bassam,Male,4/4/64,Charleston,WV,KANAWHA,0.0
+3476,4488d7dd-7cc2-4c59-bcd9-55d71a43be04,Harker,nan,Mary-Anne,Female,3/27/69,Richardson,TX,DALLAS,0.0
+2753,95c582ef-43fa-4957-a697-bb87f73d16af,Dear,A,Carl,Unknown,2/22/74,Rowlett,TX,DALLAS,0.0
+2267,62b8b0b3-4e29-4d00-811e-a3a08cfcb379,Bowers,Elaine,Sarita,Unknown,9/24/66,Berkeley Springs,WV,MORGAN,0.0
+3064,44095838-560f-42fa-be73-62e1d3b0f441,Ford,Bastos,Renata,Unknown,9/9/70,San Antonio,TX,BEXAR,0.0
+5820,ecdb1c46-0180-46d4-ae57-e1869e4fbd01,Spangler,Woehling,William,Male,1/13/85,Houston,TX,HARRIS,0.0
+5882,c1a12bbf-5a8f-403d-ac64-2e9e26585734,Steponaitis,Edward,Glenn,Male,4/16/75,Lewisville,TX,DENTON,0.0
+3538,95caa991-90c9-4122-9dad-7f7472f5a31e,Heausler,E,Charles,Unknown,9/15/75,Bastrop,TX,BASTROP,0.0
+4049,2e881003-68b9-4adf-b1d4-edf429f3866d,Kudrath,Wazir,Abdulla,Male,10/11/84,Bellaire,TX,HARRIS,0.0
+2548,6c2f7bc8-daf9-47bf-bed3-b864f0e8112e,Choueiri,B.,Michel,Male,6/18/80,La Jolla,CA,HARRIS,0.0
+116,73dac5ed-7f6e-431d-92d9-e77badf6dac1,Ali,nan,Sardar,Male,4/14/59,McAllen,TX,HIDALGO,0.0
+5252,710cea2b-099e-48dc-9871-f435a00cb424,Raj,nan,Abhinandan,Male,11/27/70,Denton,TX,DENTON,0.0
+4042,3269b16f-9039-43b0-ba77-cd5ad56f4aba,Krigsman,C,Arthur,Male,1/1/62,Austin,TX,TRAVIS,0.0
+6443,f3755522-e359-47a0-ae54-dfca9b70f285,Wise,nan,Barbara,Unknown,4/23/72,nan,nan,nan,0.0
+2213,8ef30e89-7b51-4bce-b30f-335eb773d9c5,Blount,nan,Farris,Unknown,9/8/57,Houston,TX,HARRIS,0.0
+5695,931d78a4-b5a0-477c-882a-6e04b38de98a,Shih,nan,Patrick,Unknown,1/21/78,Houston,TX,HARRIS,0.0
+80,f06c4aed-7f9e-4f49-8aef-9bf5b35ed5b7,Akinjaiyeju,A.,Akintoluwa,Unknown,2/18/69,El Paso,TX,EL PASO,0.0
+3479,545f665a-4d44-4c0c-831b-1e4c79cbe88a,Harless,M.,Dean,Male,12/14/52,Nashville,TN,SHELBY,0.0
+5577,335ebbf1-dda9-42a8-ad74-80213128598d,Schaffer,Lynn,Carol,Female,11/30/54,nan,nan,nan,0.0
+4562,d1a99b08-e79d-48dc-aef0-ef6404f21672,Michael,Gail,Amanda,Female,7/24/76,Berkeley Springs,WV,MORGAN,0.0
+4976,c697bfa7-c244-4439-b715-b75daea85a20,"Pahnke, Jr.",Douglas,Lyle,Male,11/5/44,Irvington,IL,WASHINGTON,0.0
+6450,6bf57da2-36d9-46fe-b6c4-31a062aad780,Wolff,C.,Paul,Male,12/19/74,Queen Creek ,AZ,MARICOPA,0.0
+5874,aefcfb83-7e66-49a8-80e6-586782ef2a97,Stephan,R.,Kenneth,Male,10/8/59,Fort Mohave,AZ,MOHAVE,0.0
+6265,99718aac-e50a-4fce-ac50-9e4452278f7f,Walker,M.,Craig,Male,10/2/53,Houma,LA,TERREBONNE,0.0
+4095,85684956-f5c1-40a0-a3c7-15cc8c8e4a97,Lanuza,R.,Marisa,Female,3/30/48,Bellaire,TX,FORT BEND,0.0
+6375,0402a856-e151-4df7-a670-80192a2533d2,Whitney,Ahrens,Erin,Unknown,9/20/73,nan,nan,nan,0.0
+3902,513d5ede-c006-4d7f-bc91-f366084f8d75,Kapur,Garg,Jyotika,Unknown,12/4/80,League City,TX,HARRIS,0.0
+5341,f98cc477-7b1c-4ddc-8284-f4b165e1b53c,Reynolds,L,Timothy,Unknown,11/9/62,Shreveport,LA,CADDO,0.0
+5280,17d957a3-d4ff-4fa7-88ef-c80aeb055bdf,Randall,C,David,Unknown,3/7/64,Bellaire,TX,HARRIS,0.0
+7,f9f98580-e6db-4428-8fab-6563b8574c22,Abdulla,nan,Amina,Female,7/30/46,Houston,TX,HARRIS,0.0
+4741,7fb48bbd-6ec6-4ca5-b425-4254f09e0b84,Nairn,Stephen,Craig,Male,2/7/65,Albuquerque,NM,BERNALILLO,0.0
+2270,340e4cae-cb37-48d9-b419-0dd5283672b9,Bowman-Howard,L.,Michelle,Female,3/27/64,Spring,TX,FORT BEND,0.0
+5190,135d2592-54fa-4d68-bad7-98db207041eb,"Powers, Jr.",H.,William,Male,2/7/56,Louisville,KY,JEFFERSON,0.0
+6084,f552bbb0-cf99-48b5-8b0f-8f4fefa7d007,Tomur,C.,Rashmi,Female,10/15/57,Aurora,IL,KANE,0.0
+5054,920e87f3-5ebd-4c51-b092-f449cb3fba87,Pathak,nan,Yashash,Male,3/5/83,Bellaire,TX,HARRIS,0.0
+3496,7581d82a-2ade-4b1f-bf83-5fc216400463,Harrison,nan,Lisa,Unknown,2/4/65,nan,nan,nan,0.0
+5002,aa798d7b-dee3-4d57-ba8d-09741e89405a,Parikh-Casanova,nan,Vaishali,Unknown,2/19/75,Dayton,TX,LIBERTY,0.0
+4165,06a2fe68-8a1f-45e0-9707-1b46ab8418cd,Lenoue,Andrew,Philip,Unknown,12/24/84,Spokane,WA,SPOKANE,0.0
+4346,e7c00c81-7bb5-4d3e-b1df-15566854e222,Marcello,nan,Alton,Unknown,1/1/66,nan,nan,nan,0.0
+5256,62b74716-ac53-4390-aebe-f438cc06756f,Rajaram,nan,Venkataraman,Male,5/31/70,Oklahoma City,OK,OKLAHOMA,0.0
+5122,3059a57f-790e-408b-a6c9-55439349adb3,Pfeffer,C.,Sean,Male,12/12/67,Joplin,MO,JASPER,0.0
+2012,582ceba1-8b3d-4cc0-addc-3d48754e354a,Babbili,D,Ananda,Unknown,2/26/49,Fort Worth,TX,TARRANT,0.0
+4477,12185b8c-3f73-4b03-a311-e6fbc14fb714,McKinney,A.,James,Male,4/15/54,Manor,TX,TRAVIS,0.0
+5534,ef22f7c9-0906-4933-b823-8ea8838a3fbf,Sanchorawala,Jayesh,Rupal,Unknown,2/9/70,Bellaire,TX,HARRIS,0.0
+4340,6458e036-8f6d-40a3-b4e8-d988c0e17088,Manuel,Marie,Loretta,Unknown,10/4/57,Lake Charles,LA,CALCASIEU,0.0
+5275,c69471f1-3594-4322-b7d0-a9f4fca2f1a0,Rana,J.,Maryam,Female,2/17/69,Beckley,WV,RALEIGH,0.0
+4156,4419ef54-cbff-4751-8b41-a3d23df255b9,Lehr,W,Austin,Unknown,5/12/77,Excelsior Springs,MO,CLAY,0.0
+5285,29a9fde0-26a7-4576-b9e3-9422c54f17f5,Ranjan,nan,Priti,Female,7/8/72,Plano,TX,COLLIN,0.0
+3716,d6baa6d1-9b2e-453e-9b45-b75290395aae,Ijaola,A.,Olanrewaju,Unknown,4/24/73,Gilbert,AZ,MARICOPA,0.0
+4162,75931cde-039a-472b-917b-01d96e14e49b,Lemons,M.,Judy,Female,12/30/44,Wichita Falls,TX,WICHITA,0.0
+2928,732bf75f-3003-4fa1-8a11-c783767146e4,Elkins,Carol,Linda,Female,10/22/77,Fort Worth,TX,TARRANT,0.0
+5159,ae44113f-ddae-4999-b428-09ca6e307281,Poku-Dankwah,nan,Cedric,Male,8/26/50,Washington,DC,DISTRICT OF COLUMBIA,0.0
+2419,f3274d17-eac9-410a-87d2-8c091458da73,Cairo Lavado,Benito,Javier,Male,2/18/76,Dallas,TX,DALLAS,0.0
+3483,2ae1ad32-0341-460f-8bb6-402d5f64006b,"Harper, Jr.",Harold,Charles,Male,2/6/71,Norfolk,NE,MADISON,0.0
+4371,8eaab74b-74ed-458d-af7a-271d32164dc0,Martinez,E,Jorge,Male,2/9/64,Bartlett,IL,COOK,0.0
+3565,eae1ed0c-934f-4de8-a15e-9d929e2e4f84,Henry,Nicole,Lynzie,Female,10/1/82,Mount Vernon,TX,FRANKLIN,0.0
+4588,96d2d69b-930a-441b-b98e-8859dd1634ad,Miller-Davis,W,Jennifer,Unknown,3/26/74,Wilsonville,OR,CLACKAMAS,0.0
+5955,c5dd842f-af16-4017-ad20-b16339e3ce56,Swenson,Thomas,Richard,Unknown,11/12/55,nan,nan,nan,0.0
+4621,d12fa8ab-ca34-4755-85c0-6a84ef353ba4,Monaghan,Rebecca,Mary,Female,11/25/54,Houston,TX,HARRIS,0.0
+5430,b8bf25d7-085c-4416-9950-46de41e8868c,Rodriguez,nan,Odiel,Male,12/11/79,McAllen,TX,HIDALGO,0.0
+5163,345672d1-7416-40b6-b63d-94d5565a5e9b,Polski,J.,Michael,Male,11/6/54,Burleson,TX,JOHNSON,0.0
+2756,6b424796-6b7a-4881-8ab3-1e5ef1fa9e22,Decker,M,David,Unknown,8/26/54,Wasilla,AK,MATANUSKA-SUSITNA,0.0
+5800,45cab183-7dfd-4904-b961-ed1c724e31ee,Sokan,O,Babatunde,Male,6/21/63,Lexington,KY,SCOTT,0.0
+2849,d40a5544-a442-40cb-8505-c166811ba49a,Dommaraju,R,Subha,Unknown,4/7/82,Sugar Land,TX,FORT BEND,0.0
+5509,d2345067-4687-41ad-9860-69754d50c969,Salarda,Quijano,Marivic,Female,10/20/68,nan,nan,nan,0.0
+4306,9a4db13c-3bae-4d54-ad91-ad80ad38ddc4,Maislos,E.,Hayley,Female,3/16/82,Bellaire,TX,HARRIS,0.0
+3815,c60bd0c3-d84b-4b61-b89c-e88acb36f1c9,Johnson,Marie,Danielle,Unknown,12/7/75,Pekin,IL,TAZEWELL,0.0
+2420,e22fa4cd-9202-4ef9-8054-90988de04f91,Calabrese,M,Dawn,Unknown,9/1/69,Saint Louis,MO,SAINT LOUIS,0.0
+4705,3fa7b89d-24af-4094-97eb-15eaa350ae34,Mullings,Elizabeth,Madeline,Unknown,6/24/86,nan,nan,nan,0.0
+6581,31fa9763-264a-4052-97bd-6e6d2ee084f9,Zuniga,nan,Higinio,Unknown,11/10/26,nan,nan,nan,0.0
+3249,21af14e2-4a0a-40ac-957a-52062be93229,Glasser,nan,Lisa,Unknown,8/6/66,Mercer Island,WA,CLARK,0.0
+3067,34e65780-3f72-49ec-9792-409a86db0a70,Forsyth,Robert,John,Unknown,2/25/74,Aurora,MO,LAWRENCE,0.0
+4443,0645dd54-70ba-4668-8c64-3fc4921eacce,McClary,Dior,Ashley,Female,9/3/84,Bastrop,TX,BASTROP,0.0
+2352,82e0ca32-3a38-4e2c-b0f0-4ed81b9d8631,Brown,Mather,Timothy,Male,8/2/50,Portland,OR,MULTNOMAH,0.0
+2730,ad5f003c-8f0a-43ea-b730-2831d025ebfb,Davis,L,Jeffrey,Male,5/15/83,Los Alamos,NM,LOS ALAMOS,0.0
+2073,1d65dd1b-44bf-486e-b7b4-57fb26f9ef6a,Barson,B,Dennis,Unknown,9/22/72,Austin,TX,TRAVIS,0.0
+2725,e1000256-5933-4d48-93b7-cae3ab181fd0,Davila Arroyo,nan,Himara,Female,5/23/78,Houston,TX,HARRIS,0.0
+6451,6925c7f8-0faa-4062-a81c-be666c7ef267,Woloschuk,nan,Ostap,Unknown,3/4/29,Russellville,AL,FRANKLIN,0.0
+3659,55d3d607-3f6d-4666-89b1-a6c38243a86c,Hotchkiss,S.,Larry,Male,2/16/46,Clinton,MD,PRINCE GEORGES,0.0
+5862,2856be4f-4bac-4714-8809-61a5e67e9c41,States,M,Shelly,Unknown,5/19/70,Sugar Land,TX,FORT BEND,0.0
+4719,0d1e21e6-49cb-4a61-b7bb-75c2200a7743,Murrell,D,Carrie,Unknown,9/5/77,Fayetteville,WV,FAYETTE,0.0
+2545,8ee99595-7900-416d-8e61-695768a6813d,Chorette,L,Edward,Unknown,10/10/50,Slidell,LA,SAINT TAMMANY,0.0
+4992,2a7f1c43-4b94-4397-a6c0-5522f8df6ed1,Parahoo,nan,Shastina,Unknown,10/24/84,nan,nan,nan,0.0
+4419,c222ecf0-af77-4c4d-b1cb-8afb6a0cbc92,Mays,C,Dana,Unknown,7/28/71,Alexandria,LA,RAPIDES,0.0
+4966,f4d8d08f-45b3-4b7d-952b-ea9df19ac31c,Pacheco,J.,Elmer,Male,11/28/53,Albuquerque,NM,BERNALILLO,0.0
+2699,e9bffef2-b523-41f1-9425-626c91215853,Danielson,nan,Sarah,Unknown,10/4/71,Edmond,OK,OKLAHOMA,0.0
+67,bd5cc665-9eb7-408f-87d7-92fcb6663e88,Ajagbe,A.,Olukunle,Male,5/10/71,Summit,MS,PIKE,0.0
+133,5455c1c6-efd9-4e33-a2d0-c39fec71ed5d,Almodovar,M,Jesus,Unknown,2/10/58,nan,nan,nan,0.0
+6156,fcac7931-fa91-43a2-9f84-54d49989ed4c,"Uzquiano, Sr.",E.,Nelson,Male,2/28/46,Houston,TX,HARRIS,0.0
+5040,80b9b2cc-62b2-4e5c-ae13-bd8c073d48b9,Patel,K.,Leela,Female,6/20/60,South Charleston,WV,KANAWHA,0.0
+6009,4a59b3b1-0781-4573-be67-cb33bf88f3cf,Teeter,H.,Brian,Male,6/17/50,nan,nan,nan,0.0
+4069,964ab296-eb50-4bf2-9acb-79184b20f2a7,Lacey,Elizabeth,Stacey,Female,2/4/76,Austin,TX,WILLIAMSON,0.0
+5821,1567ed9b-48fa-444c-915e-d55b82c10ca1,Spark,nan,Harvey,Male,6/1/38,Waco,TX,MCLENNAN,0.0
+6442,aa132c89-7789-4729-8dea-be93bbca1f5c,Wischmeyer,nan,Jason,Male,8/28/61,Lubbock,TX,LUBBOCK,0.0
+2771,d12ab911-369d-422c-b825-75215fe0c4b6,Delwood,M.,Donald,Male,3/14/56,Columbia,MO,BOONE,0.0
+5885,8e98f17f-e9f5-4b3b-b6e6-3db64e8a0e89,Stevens,N.,Ritchie,Male,10/6/59,Las Vegas,NV,CLARK,0.0
+3381,56a37add-d59e-4820-bd3e-a4505ac86b93,Guerra,Luis,Ian,Unknown,7/8/74,Laredo,TX,WEBB,0.0
+2081,048e8c65-4f9a-4888-89f5-8debc78becb3,Basil,A.,Yvonne,Female,12/5/85,nan,nan,nan,0.0
+4610,040673cb-aaa0-414d-a684-241380b558bc,Mixon,H.,Maile,Female,9/2/67,Plano,TX,DALLAS,0.0
+2099,118992c1-d774-4bf2-8dee-0990335f6096,Bauer de Muenzberg,nan,Elizabeth,Female,8/29/86,Albuquerque,NM,BERNALILLO,0.0
+5078,be3e8b38-1e19-4306-be81-27f07b3e368a,Pelafigue,nan,Abigail,Unknown,8/2/76,Houma,LA,TERREBONNE,0.0
+4430,ad6715c7-4f51-4cb0-818d-b3099c0d5ae4,McAfee,nan,David,Unknown,5/2/62,Mc Minnville,TN,WARREN,0.0
+3353,95bb4e45-3f7e-4294-875c-51a138f4d3f6,Gregg,Henry,Timothy,Male,5/7/51,Frankfort,KY,FRANKLIN,0.0
+2763,5b94946e-ffa3-4563-ad0b-f417b8eadf47,Del Bosque,Ruperto,Oscar,Male,11/14/72,Edinburg,TX,HIDALGO,0.0
+5532,4c9c9774-89a8-493f-80f0-1bdfc74b0453,"Sanchez, III",Resendiz,Teofilo,Male,9/8/72,San Antonio,TX,VAL VERDE,0.0
+2956,6ed424c3-0986-4466-9706-1f9ea369c8bb,Engdayehu,nan,Michelle,Female,10/12/83,Longview,TX,BEXAR,0.0
+6544,69c84d55-eb54-49d8-8d39-cf6bc2c43ed2,Zamora,Daniel,Eduardo,Male,11/25/67,Martinsburg,WV,BERKELEY,0.0
+2078,487e72c9-fa9c-48e4-9b4f-2d901899096d,Basail,C.,Fernando,Male,8/1/59,Dallas,TX,DALLAS,0.0
+3003,5e0135e8-45d0-45f7-8e57-117ed2ff9856,Farooq,U.,Naveed,Male,5/19/64,nan,TX,HARRIS,0.0
+3557,4e64f261-eb95-4dd5-83c0-1ae00ccbe113,Helmick,Jean,Lory,Unknown,6/24/59,El Paso,TX,EL PASO,0.0
+5176,1df97103-d459-4f68-b247-00fad3ae679d,Pothuluri,Jairaj,Nomita,Unknown,9/23/71,Austin,TX,MONTGOMERY,0.0
+5092,eeea8199-c181-494f-babf-4dc5c16f131d,Perez,E.,Marta,Female,10/24/54,McAllen,TX,HIDALGO,0.0
+5255,aa122f3b-f470-4e67-971f-b63681328e29,Rajan,R.,Vik,Male,9/1/78,Bellaire,TX,HARRIS,0.0
+2889,7f0ffdc3-b44a-42b9-9b76-9cc76ba95fbf,Durr,nan,Benjamin,Unknown,12/17/67,Houston,TX,HARRIS,0.0
+5461,46cc8359-9d50-4dfb-93f9-6dc7dc42c7a7,Rothrock,nan,Robin,Female,8/3/57,Bellaire,TX,HARRIS,0.0
+6524,8b7e5c87-0ed4-4b47-b197-e1282782d95d,Young,Michael,Robert,Male,3/15/54,Paris,TX,LAMAR,0.0
+2676,3d7a0122-bb21-41dd-95f2-f6ac82f18ba8,Curtis,Everette,Johile,Female,6/18/86,Houma,LA,TERREBONNE,0.0
+3201,e5cd2c15-1e37-4f38-af3e-38faeec86f0d,Gee,Michael,William,Male,3/12/55,Saint Louis,MO,SAINT LOUIS,0.0
+6516,cbc2f0c2-0fc4-4ffd-9417-d47dfe2358c3,Yi,nan,Zanhua,Unknown,7/18/74,nan,nan,nan,0.0
+4674,e0ee7151-edfc-4c76-a3a1-63486b91c444,Mosley,nan,Julian,Unknown,4/2/44,Saint Louis,MO,SAINT LOUIS,0.0
+3675,7e234639-34d5-474e-ba88-c4847d5d9136,Hubbard,Glen,Donald,Unknown,9/13/65,Amarillo,TX,POTTER,0.0
+5794,900ce43a-dce0-4bdc-afde-0e4a5fe5124a,Snarr,Vincent,Patrick,Male,2/6/80,Idaho Falls,ID,BONNEVILLE,0.0
+4470,6d4ba28f-06e6-4636-a169-67e39916f103,McIntire,D,Larry,Unknown,10/29/41,Joplin,MO,NEWTON,0.0
+5552,ca0eb76d-521b-4593-8189-fa5ac0b4fb93,Saquib,nan,Azim,Unknown,8/11/56,Gilbert,AZ,DONA ANA,0.0
+3749,fa2a737a-ed39-44d5-af59-dfd1611060ea,Jackson,R.,Dianne,Female,5/5/47,Laurel,MD,ANNE ARUNDEL,0.0
+6074,6f3b1206-1b26-4c94-a485-b616f6398585,Tittle,Jackson,Ben,Male,2/24/55,Barrington,IL,LAKE,0.0
+5157,acbb26cc-d365-4b3c-90ca-193cab3e5b0e,Pointer,G.,Justin,Male,6/1/84,Clinton,MD,PRINCE GEORGES,0.0
+4665,b4abc8fa-98c1-4b17-931f-b78644b02541,Morrow,Kay,Carla,Female,1/20/72,Cleburne,TX,JOHNSON,0.0
+2425,9d5c0b42-0b2e-4a92-acbc-99935c8be634,Camarillo,Nicole,Catherine,Unknown,4/17/84,Brownsville,TX,CAMERON,0.0
+4010,880a93a3-45e8-4899-8bf1-98c862f62dcf,Kline,Nicole,Brooke,Female,7/22/81,Evansville,IN,VANDERBURGH,0.0
+5081,6142cbec-ad57-4b13-a6c4-d33fe5d7ebad,Pena,Olivia,Blanca,Female,2/28/89,Los Alamos,NM,LOS ALAMOS,0.0
+5804,10720ac6-595f-4121-b183-aadfeb77392d,Solis,nan,Rebekah,Female,7/5/72,McAllen,TX,HIDALGO,0.0
+4765,3082b84a-3ed4-4c4a-b639-4873c7078ab8,Negron,A.,Roberto,Male,8/3/36,San Antonio,TX,BEXAR,0.0
+5643,1a1cf82c-f348-4bfa-924a-e7c2139f28f9,Shah,D.,Rajal,Female,5/12/79,Austin,TX,TRAVIS,0.0
+4792,916ceb87-549d-4634-85c8-4f7160899460,Nguyen,Thien-Quang,Alexander,Male,3/7/75,Dallas,TX,DALLAS,0.0
+6046,bd488cf6-c6b9-44aa-a771-4e43220fdcfd,Thompson,nan,DeAnn,Female,10/1/79,Mountain Grove,MO,WRIGHT,0.0
+3688,6cef0cb4-9d78-4845-8e62-0208dbf1829a,Huling,T.,Randall,Male,8/3/55,Olive Branch,MS,DESOTO,0.0
+5861,94249536-e106-48d3-88ba-308774f86b12,Starnes,A.,Wendy,Female,12/13/64,Longview,TX,BEXAR,0.0
+3259,baf1bf0f-9f4e-4655-93c7-a713a14571ec,Goel,C.,Mahesh,Male,2/20/62,Zionsville,IN,BOONE,0.0
+3086,12058e4d-447b-4b5d-9e28-e3748675403b,France,Earl,John,Male,11/27/53,Rice,TX,NAVARRO,0.0
+4837,bcadbf0c-cdf8-4b3a-aed6-47a0addeef42,Nukala,Mouli,Chandra,Unknown,4/6/82,Talihina,OK,LE FLORE,0.0
+2542,64483567-b441-4fb4-9ef5-e6d0a5733417,Chisholm,Daniel,Cary,Unknown,9/3/82,Woodway,TX,MCLENNAN,0.0
+5084,c2c244fe-3178-4f77-9017-e745b1d8cf6c,Pennington,R,David,Unknown,11/25/51,Hurricane,WV,PUTNAM,0.0
+2399,6677cc1f-3d7e-43ed-9256-1a8401990e1e,Bushman,B.,Jeffery,Male,7/1/53,Willcox,AZ,COCHISE,0.0
+2836,94e63700-9fe8-4c2a-9b3d-407cf4b21e15,Dobay,J.,Kristin,Female,1/21/69,Nashville,TN,DAVIDSON,0.0
+3847,bcf54651-68ae-4bff-aae2-d083a66370d4,Jones,Daniel,Mason,Male,8/30/73,Austin,TX,TRAVIS,0.0
+5319,d09a5686-4cc3-4fc6-b419-b2739aa830b3,"Reese, III",A.,William,Male,10/19/67,League City,TX,GALVESTON,0.0
+159,2de8b560-e168-464e-a9e3-70a5207422f1,Amusan,A.,Adeola,Male,11/16/64,Terrell,TX,DALLAS,0.0
+4352,3e1f363d-f8f1-451a-bd5d-c631ecba00d5,Marina,Mario,Jose,Male,2/17/63,Mission,TX,HIDALGO,0.0
+4275,00c70095-8576-4ae6-a79d-594a7fa33c65,Lucas,R,John,Unknown,6/21/39,nan,nan,nan,0.0
+5904,da4cc004-a5a7-41ff-8533-3a69ef7e86be,Strand,D,Jodi,Unknown,10/3/66,nan,nan,nan,0.0
+4044,25330b9c-5359-43cf-aaa9-75abe1b2f41d,Krishnamurthy,nan,Ashok,Male,8/9/55,Oklahoma City,OK,OKLAHOMA,0.0
+2933,1f2567b2-c7bd-4cf4-bbc2-22038419c372,Elliott,Mae,Brooke,Female,9/7/81,Vancouver,WA,KING,0.0
+6286,7f07513f-e999-434a-a350-428aa75a3390,Wang,nan,Priscilla,Unknown,10/3/75,Bastrop,TX,BASTROP,0.0
+6164,e4f0639f-a214-4e04-aa72-eb023c59c7f3,Valladares,J,Hector,Unknown,6/24/79,Richardson,TX,DALLAS,0.0
+2653,7d0f9eaf-0e62-4065-9b49-e669e8a8f915,Crosby,Leigh,Bethany,Unknown,8/28/76,Shreveport,LA,CADDO,0.0
+2,5ed9f93e-5bf2-4990-bd31-fb0754ae3aec,Abbasi,nan,Noma,Unknown,11/1/71,Sugar Land,TX,FORT BEND,0.0
+3370,10d543d0-8055-487b-beaa-5962e9e25765,Grizzaffi,Ann,Elizabeth,Male,1/20/77,Houston,TX,HARRIS,0.0
+5006,7a379063-d87c-4513-9039-ce83abde9669,Parker,Ann,Carman,Female,11/15/73,Pikeville,KY,PIKE,0.0
+5517,24814d12-9a65-4e53-9210-90a1eac2a462,Salinas,Mae,Cynthia,Female,11/10/76,McAllen,TX,HIDALGO,0.0
+6468,e3151517-9cfd-4d18-891d-9fe6299a9403,Woodbury,F.,Derrik,Male,7/28/52,nan,nan,nan,0.0
+4181,0fbf61d2-79b0-48cd-b5ca-a79f1a4ef64b,Lester,Fadahunsi,FolaShade,Female,11/15/71,Carrollton,TX,COLLIN,0.0
+6034,b0d45134-7010-43e4-842b-3d52596ff555,Thomas,Shay,Jennifer,Female,10/29/78,Covington,LA,SAINT TAMMANY,0.0
+5047,ae80ced8-63b7-4eb8-89f8-543c444af5e6,Patel,nan,Rohitkumar,Unknown,4/14/81,Bastrop,TX,BASTROP,0.0
+3709,e9b7fc8f-ba1c-4bf7-897d-1823fd3ef6f1,Ibeawuchi,E,Martin,Unknown,4/19/86,McAllen,TX,HIDALGO,0.0
+6198,5d073343-1892-4eb8-80b4-874dbbc69134,Velarde,nan,Cesar,Male,5/23/66,Las Cruces,NM,DONA ANA,0.0
+2415,56415110-7aed-41ed-8076-36e2c56999cb,Cabansag,R.,Remedios,Female,5/17/41,Fort Worth,TX,TARRANT,0.0
+2370,98d53567-7ef1-4465-a46e-c0ddadcec217,Bueso,nan,Fernando,Unknown,3/12/44,Houston,TX,HARRIS,0.0
+9,805a9da9-be65-45fc-9e7e-77cbe4a37036,Aboyeji,nan,Olufemi,Male,9/26/78,Schererville,IN,LAKE,0.0
+3441,132bb395-54d6-47f9-a4e6-7147baf656c1,Halter,A.,Susan,Female,10/9/44,nan,nan,nan,0.0
+6288,935fbe09-d468-49dd-b1f9-5696afd6a438,Wang,C.,Tzu,Male,12/15/51,Houston,TX,HARRIS,0.0
+2434,f4a6fbce-8157-4a4c-90ad-ded0f83e24a4,Cantu,Magdiel,Rogelio,Male,2/20/72,Laredo,TX,HIDALGO,0.0
+4315,f2d339bb-9f21-4741-9f85-7a6d19bb311b,Malcolm,E,Anette,Unknown,11/24/41,Saint Louis,MO,SAINT LOUIS,0.0
+2749,cadb685c-08ef-4a59-b9da-096b7a235957,de Miranda,Ben,Thomas,Male,3/13/80,Springdale,AR,MAYES,0.0
+6339,4c09a852-b227-4b0d-91c6-2bb83ce9cc90,Weprin,B,Rebecca,Unknown,11/20/64,Dallas,TX,DALLAS,0.0
+5935,0c4da6da-cca8-44fa-b7a5-50c67fa44366,Sultan,nan,Shahjahan,Unknown,5/21/82,Ocean Springs,MS,JACKSON,0.0
+4997,c9f7300c-3df7-4b2c-9542-b8c738c7ec28,Paredes,nan,Elmer,Male,1/21/80,Damascus,OR,MULTNOMAH,0.0
+6112,27916bef-6c64-4b4c-b9ad-202c7378d9a0,Truglio,Nicole,Jennifer,Female,9/4/87,Austin,TX,TRAVIS,0.0
+3419,dc446778-4ce2-4ef8-957d-eca2a7aab306,Hackler,Marie,Dana,Unknown,10/18/77,Cleburne,TX,JOHNSON,0.0
+4819,8cee7eba-9d68-478d-9a63-11b877634b57,Niendorff,M,Cynthia,Unknown,1/28/71,Knoxville,TN,KNOX,0.0
+4239,fab53116-ba5b-49a9-adf1-1bb9cfe27af6,Logue,C,Danya,Unknown,1/14/81,Austin,TX,TRAVIS,0.0
+2316,915c29c9-de83-4da4-ace4-0f8c0ed6a0c4,Brinton,Harvey,Milton,Unknown,9/16/49,Spring,TX,MONTGOMERY,0.0
+5196,fb0c4e05-7111-4752-8267-2de9aad1b13f,Prekezes,D,Christine,Unknown,11/25/60,Oak Brook,IL,DUPAGE,0.0
+5440,62b4e295-76ae-4591-94e3-e025ea62d439,"Rogers, Jr.",nan,Kenneth,Male,7/14/34,Oklahoma City,OK,OKLAHOMA,0.0
+5891,ea8ba658-d1d7-4947-bd6c-af6b7af9099b,Stinson,S,Zachary,Unknown,4/11/81,San Antonio,TX,BEXAR,0.0
+4166,9323505a-6752-49be-adff-a611906655a7,Lensing,Gregory,W.,Male,5/2/53,Plano,TX,DALLAS,0.0
+2953,47716835-5280-408d-a8b7-667fd78ea275,Elrod,M,Tara,Unknown,3/13/84,Wasilla,AK,MATANUSKA-SUSITNA,0.0
+3850,5f579b0f-7071-4a50-988a-6de55c8d49f1,Jones,Wayne,Michael,Male,2/18/55,Mckinney,TX,COLLIN,0.0
+5137,99f13b20-ef2c-4acb-8a99-176ad7dd2de9,Pickard,nan,Mary,Female,6/12/85,Los Alamos,NM,LOS ALAMOS,0.0
+5687,b7866f4a-1b66-47b9-9461-c8c859d7b528,Shetlar,R.,Christina,Female,2/16/79,Rio Rancho,NM,SANDOVAL,0.0
+4139,3858388e-a4cf-4823-9e2c-6195a8458fa0,Lee,J.,Kathie-Ann,Female,8/29/84,Sugar Land,TX,FORT BEND,0.0
+6538,6bf81dbc-3b4a-4782-a8e8-399fe9f0188e,Zafar,nan,Saad,Male,8/1/14,Stanaford,WV,RALEIGH,0.0
+3710,77ca4708-0929-40c4-926c-c1cb284c06ea,Idowu,Ayotunde,Olubayo,Male,1/9/51,Desoto,TX,DALLAS,0.0
+3101,c7055e53-d24e-4d5d-90b0-daba87c7825f,Freeman,David,Scott,Unknown,2/10/67,Bastrop,TX,BASTROP,0.0
+2759,606823e0-3694-4b8b-9ce6-a1e494302fb4,DeFrank,R.,Peter,Male,5/23/51,Dallas,TX,DALLAS,0.0
+3787,959f2e1c-59c3-4730-8d41-371ad3f751d9,Jecmenek,Lynn,Chelsea,Female,11/30/84,Bastrop,TX,BASTROP,0.0
+2277,a28b75e9-0bd5-4b21-98bd-1052467d4462,Bozarth,Holloway,Christopher,Unknown,1/13/68,Edmond,OK,OKLAHOMA,0.0
+6169,6a558a5a-f9a8-4033-883e-9e9748507675,Van Dyke,PolkVan,Leslie,Unknown,5/11/75,Lindale,TX,SMITH,0.0
+2954,9951f76f-bca8-4058-b3d8-061c2f90c9d5,Emanuel,Lee,Terry,Male,4/18/56,Bastrop,TX,BASTROP,0.0
+3904,df59d7e2-351f-4842-899e-cd035b0e9bb0,Karakoc,nan,Tayfun,Unknown,7/15/69,Houston,TX,HARRIS,0.0
+5045,0434ffd8-af4e-4b98-bab9-2217d24087f3,Patel,C.,Nitin,Male,6/8/53,Columbia,MO,CAMDEN,0.0
+2305,72e359c8-8a00-4221-b2a8-bbf17e0c203f,Breitung,Ursula,Jasmin,Female,7/13/63,Las Vegas,NM,SAN MIGUEL,0.0
+2027,6683eb1f-c8a4-45db-ad3f-9de4adeeb16d,Balarbar,Abalos,Jacqueline,Female,8/24/66,nan,nan,nan,0.0
+2571,95023419-da35-4cac-8b9a-a5202f27008b,"Click, Jr.",Reed,Robert,Male,7/5/49,Forsyth,MO,TANEY,0.0
+5049,079a28af-b9ea-46b1-be87-be47a217021d,Patel,nan,Roshani,Unknown,7/17/73,Wood Dale,IL,DUPAGE,0.0
+4284,1a0d7fe7-d3c3-4f90-a4f0-4b085de0264b,Lunsford,A,Michelle,Unknown,10/18/78,San Antonio,TX,BEXAR,0.0
+2457,432cfc1c-73f0-4e8b-8e27-6a3639c8dd7d,Carruthers,R,Jacqueline,Unknown,11/30/65,Houston,TX,HARRIS,0.0
+3196,d4795764-f1f3-4c9b-bde6-eba80ae631b5,Gear,Jason,Brent,Male,12/10/66,Phoenix,AZ,MARICOPA,0.0
+2498,402dbe68-3011-4480-b112-70d45c29178b,Chand,P.,Nilima,Female,2/22/63,Farmington,MO,SAINT FRANCOIS,0.0
+3366,6e932f6a-9c65-465c-8029-2ee423e1792b,Griggs,Sigurd,Thomas,Unknown,10/13/67,Oklahoma City,OK,OKLAHOMA,0.0
+3835,0f88a8fd-2d56-4099-b315-b1d1368df2e7,Jones,Dunham,Christopher,Male,12/21/71,Bastrop,TX,BASTROP,0.0
+2228,f0594b3e-60a9-45e3-9470-3a7659755a78,Bollinger,Lee,Timothy,Unknown,8/25/71,Dallas,TX,DALLAS,0.0
+3638,101683bc-af6b-488b-856d-5ad650b4fc91,Holt,nan,Nancy,Unknown,10/20/60,Webster,TX,HARRIS,0.0
+3238,59080701-4f39-4eb0-bcd3-5e1d7cd2a03f,Gitter,nan,Richard,Male,9/14/63,Metairie,LA,JEFFERSON,0.0
+4510,3004eac0-0b8a-4006-80b5-1a33515814a8,Meals,LePori,Lauren,Female,11/29/84,Bastrop,TX,BASTROP,0.0
+5468,41d4e986-1e19-4adb-8200-110706575bbe,Rozier,Reeves,Antonio,Male,1/31/82,Arlington,TX,TARRANT,0.0
+3905,fcb35cac-e085-40bf-9d8c-f389b7672222,Karelus,nan,McKenzie,Female,4/18/79,Las Vegas,NV,CLARK,0.0
+2169,56e3b860-638b-4596-9a82-9f906e483219,Bhaskar,nan,Renuka,Unknown,12/25/65,nan,nan,nan,0.0
+5661,975fbed1-23f2-466b-8e6b-af380487f780,Sharp,P.,Mark,Male,5/31/67,nan,nan,nan,0.0
+4223,033e0ed0-3884-4476-a31d-9ba6bdd78f81,Lingenfelter,nan,Brandon,Male,4/19/80,Princeton,WV,MERCER,0.0
+1999,8faf2193-70d1-4fad-a2fe-57042ffeb61b,Axton,Clayton,Jon,Unknown,8/8/47,Edmond,OK,OKLAHOMA,0.0
+6523,34c374ac-c479-4e44-8be2-b00faddff6a0,Young,nan,Norman,Unknown,9/23/51,nan,nan,nan,0.0
+5288,f978dc07-156c-4b46-9aef-0194f66bc9b3,Rasch,Eric,Dieter,Unknown,3/24/69,Houston,TX,HARRIS,0.0
+4217,59652c15-b062-4aa0-89c2-a613e3172e04,Lindberg,R,Matthew,Unknown,3/9/80,Little Rock,AR,PULASKI,0.0
+5610,bac76367-731d-4539-9b97-293121b8cf12,Scott,Margaret,Julia,Female,5/11/86,Mesa,AZ,MARICOPA,0.0
+3781,ccf86248-2c18-4189-8040-2721c416acf2,Javed,Uz Zafer,Saeed,Male,1/1/61,McAllen,TX,HIDALGO,0.0
+3541,1e5a21d8-a9fb-420d-934e-cea02f638fb9,Hebert,Joseph,Billy,Male,1/31/73,Houma,LA,TERREBONNE,0.0
+5071,3e256b32-44b4-47e2-be29-e6c33872c99f,Pearson,L.,Lynn,Male,9/24/37,Jasper,TX,JASPER,0.0
+3545,9090327a-df57-4528-9503-cdd8473c9873,Hedrick,M.,Julie,Female,1/30/77,Nichols Hills,OK,OKLAHOMA,0.0
+5858,c5385f34-8fcf-4e1d-a667-2dcaf73d151a,Stansfield,Anne Deles,Julie,Female,4/11/63,Columbia,MO,BOONE,0.0
+3837,b4e5d252-3e7a-4920-ad8c-faa4308324d3,Jones,S. ,Franz,Male,11/22/80,Scottsdale,AZ,DUPAGE,0.0
+2191,f41d9b70-dc2b-4e30-879d-a151eb78376c,Billingsley,Lee,Laura,Female,4/23/79,Plano,TX,DALLAS,0.0
+4301,32132384-9d26-45bb-a8e2-3f8f45bd52a0,Madziwa,nan,Felistas,Unknown,7/15/69,nan,nan,nan,0.0
+2735,d85c8fac-dd0c-4678-ad41-b758d8eeaec8,DaVolio,A,Julie,Unknown,12/17/65,Plano,TX,COLLIN,0.0
+5083,984635c8-2862-4b2c-b60a-8d1651f3e607,Pennington,nan,Caitlin,Female,3/12/87,Lexington,KY,FAYETTE,0.0
+5094,20604420-631f-4fa3-a902-cb4fd4b763ec,Perez,Paulino,Velma,Unknown,8/28/75,nan,nan,nan,0.0
+4930,a8252792-2f64-44ea-8555-60c4304e85bc,Orringer,J,David,Unknown,12/28/70,Phoenix,AZ,PINAL,0.0
+5599,9a6d286e-9409-46df-afe5-c93b8e1d4ba8,Schram,A.,Richard,Male,11/2/55,Austin,TX,TRAVIS,0.0
+3339,82e30182-c229-40bd-891e-f063f0b54d05,Green,G.,Garland,Male,9/28/73,Houma,LA,TERREBONNE,0.0
+6487,f03fe9f7-de0b-4206-8afa-56ec0e794190,Wu,nan,Chuangmin,Unknown,3/2/75,Plano,TX,COLLIN,0.0
+2972,5bb4168b-bbcb-4544-8a21-766cd0c04966,Evans,Ray,Carlotta,Female,12/27/58,Summersville,WV,NICHOLAS,0.0
+3611,69e16248-33cb-495d-b7bd-edf95600356b,Hodges,M.,Timothy,Male,9/11/71,The Woodlands,TX,WICHITA,0.0
+4046,66d0e56e-123a-45e2-92ac-3a8da038a321,Kroenlein,S. ,Kristi,Female,10/9/67,Peoria,IL,TAZEWELL,0.0
+4163,d0712810-b81b-4ce1-be33-fb1623b12f94,Lenamond,Guzman,Shelley,Female,3/21/76,Mansfield,TX,TARRANT,0.0
+5693,1f1e8e8e-7675-416e-abe3-f0df07fa8a02,Shih,nan,Daniel,Male,11/20/74,Aberdeen,SD,TRAVIS,0.0
+6519,edf53cad-1691-4d4a-83f9-91080d6f5e05,York,R.,Nathan,Male,8/25/77,Las Vegas,NV,CLARK,0.0
+5578,1785db10-e7d3-4190-8556-ab9a5d726d27,Schavz,nan,Alfredo,Unknown,10/14/60,Las Cruces,NM,DONA ANA,0.0
+2338,ec59322c-d4a2-439a-b6a1-63b05198f0d7,Brown,Paul,Darren,Male,6/25/73,Wichita Falls,TX,WICHITA,0.0
+5366,dbf1b8c4-dc47-4124-89d9-253a4b63e5e6,Riles,K,John,Unknown,1/8/73,Sugar Land,TX,FORT BEND,0.0
+6545,88e27eea-07d1-44d9-a9d8-8e2756a432fc,Zamora,nan,Lila,Unknown,2/27/77,Harlingen,TX,CAMERON,0.0
+4989,458975f6-0da7-428e-8b18-03361cb00ba2,Pandher,S.,Jaswant,Male,7/19/79,Houston,TX,HARRIS,0.0
+6013,2855c0af-20b2-46da-8a51-429163410431,Tepen,E.,Colleen,Female,3/13/81,Saint Louis,MO,SAINT LOUIS CITY,0.0
+3838,ae9fdd82-ea2a-4724-9b99-e6130d3f3d49,Jones,Emmanuel,Geoffrey,Unknown,9/17/67,Las Cruces,NM,DONA ANA,0.0
+3072,632c6afd-1dbb-4804-8aa2-00c68d169c67,Fortner,J,William,Unknown,9/2/41,Kaufman,TX,KAUFMAN,0.0
+2510,5ea69548-bf3f-499b-8e98-af5bf3913146,Chapman,nan,Gaylene,Unknown,12/24/75,Rogersville,MO,DOUGLAS,0.0
+3625,56fe6dd5-f3f6-4d61-98ea-d28f5b7efa35,Hollingshead,Edward,Mark,Male,3/21/60,Ontario,OR,MALHEUR,0.0
+3047,06bc03ba-a9f2-473d-8f30-b9791adefb0e,Fleenor,E.,Karen,Female,12/7/60,Tullahoma,TN,COFFEE,0.0
+2430,9a9280dc-7426-4d63-9b3b-15967368316c,Campbell,Gregg,Michael,Male,12/29/61,Fredericksburg,TX,GILLESPIE,0.0
+2711,b49c870b-e870-4618-afaf-4a26f17e1cf0,DaSilva,Riley,Shannon,Female,7/26/85,Fort Worth,TX,JOHNSON,0.0
+3031,beb459ca-a75b-4fbe-901d-f8386bd6011f,Fineberg,E.,Donald,Male,7/12/48,Santa Fe,NM,SANTA FE,0.0
+5244,ab30e525-b852-4c49-8d9b-d6a8bc51e777,Race,nan,Charles,Male,9/6/51,Springfield,OR,LANE,0.0
+6289,c225a714-4996-44d6-90ca-ec0a3d9e4985,Warcup,Paige,Leslie,Unknown,1/26/85,nan,nan,nan,0.0
+3915,59cc2f44-b913-481e-993f-cbaedda57b60,Kaviani,nan,Babak,Male,6/5/73,Austin,TX,WILLIAMSON,0.0
+5198,36f1ebb6-6d2a-4640-b3c5-c746c6ca3370,Prentice,Nicole,Heather,Female,8/22/83,Sulphur,OK,MURRAY,0.0
+2111,56602226-68ae-4677-af9f-f14bba167728,Beck,John,Dennis,Male,5/6/72,Evansville,IN,VANDERBURGH,0.0
+3115,2059e112-632c-431b-9e1b-915837338e4b,Fulford,Alan,Robert,Male,9/10/36,Houston,TX,HARRIS,0.0
+5386,6e89cc63-6330-400d-ac0e-7e96ae553d4a,Robbins,nan,Chuck,Male,6/10/85,The Woodlands,TX,MONTGOMERY,0.0
+5970,401971d8-a64c-4e87-b22a-3434b934494a,Talabi,nan,Adetola,Unknown,11/1/68,Bellaire,TX,HARRIS,0.0
+4946,3ac0d99f-444d-4dbd-b0cb-65711e848ed0,Osuorji,Chinedum,Ikenna,Unknown,1/8/73,Las Cruces,NM,DONA ANA,0.0
+2635,84f95fa0-5d1d-4bd6-856a-90d39b394f8f,Cox,Earl,Daniel,Unknown,11/8/70,Festus,MO,JEFFERSON,0.0
+2229,19a2ca03-e08d-412a-b8e9-210d2767d8d3,Bonjour,nan,Lauren,Unknown,9/11/80,Austin,TX,TRAVIS,0.0
+2451,8cfd8970-74a9-45c4-b650-1a8f142a7c53,Caro-Mata,nan,Joseph,Unknown,1/14/79,Bastrop,TX,BASTROP,0.0
+2505,eaa5b749-6820-4055-ac03-f0f54097b6eb,Chang,nan,Wen-Li,Female,11/8/56,Sugar Land,TX,FORT BEND,0.0
+2377,5d5c6ae9-55dc-467c-9100-47c25cfe60b5,Bulls,J,Brandi,Unknown,8/31/72,nan,nan,nan,0.0
+4735,b128be72-7afe-4b9e-bc73-e7d9db58b6de,Nagle,nan,Craig,Male,11/18/70,Phoenix,AZ,MARICOPA,0.0
+4455,8adf24d3-a5aa-4870-b147-45b2595cfc60,McCullough,James,Dennis,Male,6/11/37,Yakima,WA,YAKIMA,0.0
+3285,b36c32a7-675c-4c61-875c-68692c23f26e,Gonzalez Morin,nan,Johanna,Female,10/15/80,McAllen,TX,HIDALGO,0.0
+3171,3806f6e6-a502-47bf-82a5-88912b0da07b,Garrison,Edward,James,Unknown,9/21/46,San Antonio,TX,BEXAR,0.0
+5082,e18aa1e6-dbfd-4a39-881d-41a97a815dcd,Pendergrass,nan,Craig,Unknown,11/18/60,Neosho,MO,NEWTON,0.0
+5149,2cc6c67c-54b0-46dd-af02-35ca19938bc9,Pipkin,S.,Tracy,Female,8/28/71,Paris,TX,LAMAR,0.0
+1965,b59d2c80-57d9-44f4-a8a5-06bbe4abcafe,Arias Viaud,nan,Julio,Male,12/15/74,San Juan,TX,HIDALGO,0.0
+5404,aa4861dd-18a3-4a53-bf35-344687bb9391,Robertson,nan,Wesley,Unknown,12/17/63,Las Vegas,NV,CLARK,0.0
+2684,159c5f9f-27b6-4e62-a296-9b77c952910d,Dalio,Paige,Jessica,Female,10/3/78,nan,nan,nan,0.0
+4717,922c96e4-dbd7-4e29-a19f-a0a8a9f0b6a5,Murphy,nan,Michael,Male,7/12/49,Deming,NM,LUNA,0.0
+5816,1800e808-34b6-4551-861b-35e956a68636,Southers,Gay,Donna,Female,12/19/74,Princeton,WV,MERCER,0.0
+4874,6976e6c4-07d4-49f0-888b-38711870f377,Oketokun,nan,Adefolaju,Unknown,10/16/62,Washington,DC,DISTRICT OF COLUMBIA,0.0
+5867,27d7c5cd-f72e-4a82-8a06-2d5801d2d821,Stauss,J.,Jennifer,Female,5/3/57,Santa Fe,NM,SANTA FE,0.0
+3539,742379f4-0627-4988-b4c6-8e1bc2e6dd75,Hebbur,nan,Malini,Female,7/30/66,Plano,TX,DALLAS,0.0
+6457,950fea09-73ee-45b9-b151-46d86b884c46,Wong,Chen,Jenelle,Female,8/20/70,Plano,TX,COLLIN,0.0
+146,72674c5d-e579-453d-a26f-38d48006b4b4,Amador,Suzanne,Melissa,Female,10/18/74,Houston,TX,HARRIS,0.0
+2695,187c7405-a20d-4824-8918-9058b920df54,"Daniel, Jr.",E.,William,Male,12/8/78,Austin,TX,TRAVIS,0.0
+5374,a983a4b9-54a3-4347-ae6e-1007391c6682,Rivera,T.,Emilio,Male,11/23/52,Las Cruces,NM,DONA ANA,0.0
+2664,4d7daa0b-8cc2-4a4f-afae-874ff1963191,Cubb,nan,Anthony,Unknown,4/20/49,Graham,TX,YOUNG,0.0
+2520,3dac6860-167e-48d6-88a3-0026b50fae3c,Chauffe,Jon,Ryan,Male,9/1/76,Houma,LA,TERREBONNE,0.0
+2593,7326b012-dcfa-4497-a01c-93b5e0831871,Collins,D,Angela,Unknown,2/16/78,Mountain Grove,MO,WRIGHT,0.0
+3814,66a99a2a-5553-456a-9fb9-f3690b57d117,Johnson,Lenee,Crystal,Female,12/1/87,Houma,LA,TERREBONNE,0.0
+6323,d85dbdae-c8ab-49a2-9447-ece749c7c653,Weeks,Christine,Alicia,Unknown,6/8/71,Dearborn,MI,DANE,0.0
+4004,40fd751d-92c2-4a77-b8c5-5945e1b35265,Klarberg,Joshua,David,Unknown,10/5/83,nan,nan,nan,0.0
+5590,17179253-b1fa-4dcf-bf86-0dde7fe00c97,Schmitz,J,Candace,Female,6/16/54,nan,nan,nan,0.0
+3371,e10dedeb-641d-4896-b29f-096939bd4ab5,Groesch,D.,Scott,Male,11/1/68,Saint Louis,MO,SAINT LOUIS,0.0
+5203,a7eae1bc-35b7-4c30-892b-fdb22ac785db,Price,Barfield,Lisa,Female,5/7/65,Plano,TX,DALLAS,0.0
+3991,f459e2a5-aa16-4d3d-aef8-4f73c58b0d17,Kipp,nan,Sheli,Unknown,7/5/64,Longview,TX,GREGG,0.0
+5736,57737efc-659b-4faa-ba4c-85ed7ccb306d,Sims,nan,James,Male,8/22/70,Houston,TX,HARRIS,0.0
+4285,792892d3-c3b7-4c25-ab84-da5f69ee8662,Lusk,B,Michelle,Unknown,9/7/87,Beaver,WV,RALEIGH,0.0
+2354,f56ed3df-f175-4e16-aff3-acfecff8e7b5,Brown,Olegovna,Yekaterina,Female,6/24/78,Wheeling,WV,OHIO,0.0
+3229,a81103ea-4926-47a3-81e6-8dfc36a86c96,Gillett,nan,Esteliz,Unknown,8/15/80,Richardson,TX,DALLAS,0.0
+4221,35949779-1372-4432-ae54-69780459054d,Lindsay,Kristian,John,Male,3/4/80,Houma,LA,TERREBONNE,0.0
+147,615239da-19cc-424a-afff-b9e0f819a706,Amanullah,Faisal,Jamaluddin,Unknown,11/18/66,Pekin,IL,TAZEWELL,0.0
+3197,70b6b19c-678b-4415-988c-d0146cea0b2d,Geara,nan,Abdallah,Unknown,11/7/80,Bridgeport,WV,HARRISON,0.0
+5947,d0cd39e2-6dce-44a5-b6c4-d01180a13fd6,Suthers,Elizabeth,Sara,Unknown,9/12/72,Oklahoma City,OK,OKLAHOMA,0.0
+5455,d70da6f1-b479-4d9f-b160-43d942669b08,Ross,nan,Reginald,Unknown,11/10/65,Gretna,LA,RAPIDES,0.0
+2830,7a60194c-98ac-4178-b298-4ddd9ef42920,Dixon,K,Timothy,Unknown,5/30/58,Ashland,KY,BOYD,0.0
+6067,e3feaf20-c382-4ab8-9731-ac138f5eecbb,Tilton,Morgan,Douglas,Male,9/17/69,Georgetown,TX,WILLIAMSON,0.0
+2481,bf44326c-8d7c-437c-a09c-58236df437db,Cazorla-Lancaster,R.,Yamileth,Female,8/4/79,Yakima,WA,YAKIMA,0.0
+3741,8675183a-a951-4f55-89fc-f132096c2dad,Iyer,L,Shivkumar,Unknown,12/24/62,nan,nan,nan,0.0
+3879,55d9c263-d273-47bb-a680-bad26b903d8c,Kahn,Aryeh,Yosef,Unknown,4/26/74,Saint Louis,MO,SAINT LOUIS,0.0
+3706,c573bbb7-d76d-41d3-aa69-f189162bd05d,Hyde,H,John,Unknown,1/27/69,Arlington,TX,TARRANT,0.0
+1951,1603bb09-4928-4545-9f75-72ebf039d959,Anguiano,W.,Kristal,Female,10/1/81,Spring,TX,MONTGOMERY,0.0
+3874,b48c9911-d5b4-4cdf-acde-eec801430bb0,Kabir,nan,Jahangir,Unknown,10/13/76,Houston,TX,HARRIS,0.0
+4013,bc8ae7bc-0380-4752-8aff-95128113b3ac,Knight,C,Jesse,Male,1/30/76,Los Alamos,NM,LOS ALAMOS,0.0
+5579,384c9aeb-fd8a-46be-88b8-7b52947d2f75,Scheer,Frederick,Thomas,Male,9/20/45,Natchez,MS,nan,0.0
+5165,75333bad-d43b-434d-a87b-97fad0c8a8a5,Ponce,Joseph,Frank,Unknown,6/15/76,Houston,TX,HARRIS,0.0
+5642,1a1cf82c-f348-4bfa-924a-e7c2139f28f9,Shah,D.,Rajal,Female,5/12/79,Austin,TX,WILLIAMSON,0.0
+4635,0317d492-bb76-4eff-ae39-04c22d824c5c,Mooney,M.,James,Male,12/15/71,nan,nan,nan,0.0
+3484,5d11e07f-52ca-4179-b35c-66b4074ef0d2,Harring,Rebecca,Theresa,Female,7/28/81,Houston,TX,HARRIS,0.0
+4908,22f9c2b9-c457-4039-8c1f-69b4918ca9d8,Ong,nan,Bernard,Male,10/16/70,Las Vegas,NV,CLARK,0.0
+4420,4a8b5410-3206-4694-9dad-1baa0e3d2b22,Mays,Patrick,Jeffry,Unknown,12/15/66,Brady,TX,MCCULLOCH,0.0
+1947,e6e9e4e4-2678-4f2f-8046-51feaec531ab,Andrews,nan,Angelique,Female,2/5/73,Huntsville,AL,MADISON,0.0
+4231,6bbeed2a-2bab-4938-92db-26e504ba3733,Liu,nan,Min-Shern,Unknown,10/1/50,Sugar Land,TX,FORT BEND,0.0
+5948,d5ff340d-9951-46a7-9c05-d3e9301a6572,Swale,Allen,Jerome,Unknown,6/13/58,nan,nan,nan,0.0
+3761,17651c29-59ac-46f8-8259-ec40ba655e38,Jacobs,Robert,Jeffrey,Male,3/6/66,Meridian,ID,ADA,0.0
+4386,ae859cf0-b140-4dde-a78a-eae04cb19f2c,Masse,M.,Tonye,Male,9/2/81,Sugar Land,TX,FORT BEND,0.0
+4680,9c9f1b01-0fca-4353-b004-c52f2512a131,Mostafa Elsawy,Morad,Bassem,Male,1/3/73,Irving,TX,TARRANT,0.0
+2416,bc3506e2-affd-4c63-8d4c-40848520c2be,Cain,R,Stephen,Unknown,3/6/65,Las Cruces,NM,DONA ANA,0.0
+4169,dceca610-d1b2-4948-87b4-ac760bff827d,Leonardelli,J.,Philip,Male,6/5/48,Rio Rancho,NM,SANDOVAL,0.0
+2405,f3d87583-5542-4d9d-ac17-9c68e06e263b,Butler,A.,Margaret,Female,3/26/63,Tempe,AZ,MARICOPA,0.0
+4781,1c6873fe-9d7b-46ec-9b36-90db23f09c22,Nevins,J.,Terry,Male,11/11/56,Elko,NV,ELKO,0.0
+2282,fcacae97-3945-4540-8846-ad2f2bf422e3,Brady,C,Branon,Unknown,4/22/83,nan,nan,nan,0.0
+5326,66662438-86cf-42ef-b6c3-1fa74bbe958d,Reininga,W,Mark,Unknown,9/28/48,Santa Fe,NM,SANTA FE,0.0
+5456,f648aaf8-b834-4e5c-931a-52139488e7ca,Rossall,nan,Sarah,Unknown,2/26/85,Troy,MI,DANE,0.0
+6373,d9ead09a-8a0e-4bec-93a0-b73113ecc26a,Whitlock,Rene,Heather,Unknown,6/9/81,San Antonio,TX,BEXAR,0.0
+6088,db50319e-4f58-4d96-a869-39ac8348d26c,Torres,nan,Estela,Unknown,5/23/71,Longview,TX,GREGG,0.0
+2037,af753b0b-0b30-4b5a-9a1c-facc4d9abf60,Balmforth,nan,Randy,Male,5/30/77,nan,nan,nan,0.0
+3207,57894029-68c9-4cbc-8917-8414907b9926,Gepner,D,Adam,Unknown,4/27/82,Troy,MI,DANE,0.0
+63,7116899e-a7b5-4c0b-a489-29b8c15cb01e,Ahmed,A,Sahibzada,Unknown,9/4/46,Booneville,AR,LOGAN,0.0
+3504,684386f0-7121-4a16-9f6a-9626771a4232,Haskins,Marie,Sarah,Female,9/18/81,Olive Branch,MS,DESOTO,0.0
+2829,f01dcbd0-7412-4472-913b-46ea4ae2a56a,Dixon,R.,Geoffrey,Male,8/22/70,Chicago,IL,DUPAGE,0.0
+5391,82bee035-77a5-42f7-bcfe-181fb70db742,Roberson,nan,Conrad,Unknown,5/23/69,nan,nan,nan,0.0
+6405,79e5ea09-c582-40e9-b4a0-9a5d7cd80fb0,Williams,Earl,Ronald,Male,8/14/46,San Antonio,TX,BEXAR,0.0
+6152,ebf8868d-fd93-4475-9507-f82526115f5c,Usman,nan,Ahsan,Male,9/13/73,Peoria,IL,TAZEWELL,0.0
+5829,462825e7-e5ca-458d-88fb-456ae29de8e4,Spells,M,Aaron,Unknown,6/13/85,Ardmore,OK,CARTER,0.0
+3475,6b438ba2-d35a-45fe-b7fe-8a4f6f3415b7,Harker,nan,Mary-Anne,Female,3/27/69,Richardson,TX,DALLAS,0.0
+6353,e2596687-ccf6-4aef-b5cb-b901e75dd2b9,Wheeler,C.,Jerry,Male,4/6/54,Longview,TX,RUSK,0.0
+4270,afda1b7f-4831-4abf-839e-618c84811ca0,Lozano,Avelino,Raul,Male,6/17/71,Dallas,TX,DALLAS,0.0
+2016,367fcd99-d0cc-44c8-99a6-884c5b19845f,Badger,C,Brian,Unknown,10/8/75,Georgetown,KY,SCOTT,0.0
+3663,f9914c99-0080-473b-b20e-d67a928b7fce,Hovorka,William,John,Male,7/24/68,McAllen,TX,HIDALGO,0.0
+3665,d7670e65-03bb-4413-803d-c35c3abe7d91,Howard,Ray,Larry,Male,1/1/65,West Monroe,LA,WICHITA,0.0
+2917,bc79ecac-1708-40e6-8138-373877ef51de,Elbaor,Edward,James,Male,5/8/44,Dallas,TX,DALLAS,0.0
+2689,d1417253-f09e-4c33-bbb5-37ea1b9bb088,Danforth,Lynn,Teresa,Unknown,2/17/65,Beaumont,TX,JEFFERSON,0.0
+3146,56835167-be3f-4cbe-90f9-10e55dfb2fab,Galvan,nan,Maria,Female,5/18/55,McAllen,TX,HIDALGO,0.0
+3806,128c6ce0-89f1-451b-ad1a-825ba00e6184,Jindani,Anwar,Irfan,Male,11/26/71,Stafford,TX,FORT BEND,0.0
+6364,de4dcb65-087f-48ae-b42c-8ffc9d4dafb0,White,L.,Gordon,Male,3/16/54,Austin,TX,TRAVIS,0.0
+117,ae03a381-58a0-4914-8769-1eedff105a99,Ali,F,Syed,Male,4/6/73,Lombard,IL,COOK,0.0
+2003,3329298d-486c-439a-9e9e-b3653840ca37,Ayer,nan,Karin,Female,6/25/76,Wichita Falls,TX,WICHITA,0.0
+5540,23fa36bf-9413-4483-812f-63a5479fdd7e,Sandoval,Luis,Jose,Male,6/23/82,Grapevine,TX,TARRANT,0.0
+2881,eed0d66d-44c0-4733-9784-91dd0c95e69d,Dunkleberger,Scott,Lloyd,Male,6/19/73,Oklahoma City,OK,OKLAHOMA,0.0
+4753,ff5e224e-b59b-4176-838e-622b2e850d80,Nasim,nan,Kashif,Unknown,5/31/72,Phoenix,AZ,MARICOPA,0.0
+4093,11cabe79-8c76-4f23-9164-151707010e88,Lange,G.,Dodd,Male,5/19/63,Bastrop,TX,BASTROP,0.0
+4576,883578a6-eeb5-41d3-bd54-8372582b91fe,Millay,Moler,Brandy,Female,10/14/77,Berkeley Springs,WV,MORGAN,0.0
+2647,4009c9d4-55a3-4ea9-a881-c1dbdfea45bf,Crider,Paul,Julius,Unknown,7/8/40,Dallas,TX,DALLAS,0.0
+3585,e5aa2433-8f00-4639-8496-d2b9edba307f,Hicks,J.,Raegan,Female,6/23/78,Seattle,WA,SNOHOMISH,0.0
+2203,d4643aab-2bbf-47d9-a500-fd255ce36d90,Blackburn,E,William,Unknown,8/5/43,nan,nan,nan,0.0
+6014,3844d8c7-e677-46dc-a1d1-2944efcf0aeb,Terry,S.,Shawn,Male,11/25/79,Spring,TX,MONTGOMERY,0.0
+3626,d1a8686a-02b5-45cd-bae6-8e854f8553ca,Hollinsworth,D,Leslie,Unknown,11/27/65,Elko,NV,ELKO,0.0
+91,5bda2307-7a77-43a2-9e88-87b4f621464a,Alam,Aziz,Shah,Unknown,3/11/71,Chicago,IL,COOK,0.0
+5878,2037d42b-7552-4666-a8ab-6068b0d9afa8,Stephens,Porter,Chariti,Female,6/29/79,Stephens City,VA,JEFFERSON,0.0
+6380,f3b36140-7718-4783-b8e3-7aca9e5e9b5e,Wilbanks,J,Amber,Unknown,5/7/75,Artesia,NM,EDDY,0.0
+2926,9e131649-ac3d-40e7-a179-dae4b7588b4a,El-imad,nan,Badiaa,Unknown,10/6/80,Bridgeport,WV,HARRISON,0.0
+2622,88778f00-d069-4c9b-ab46-727f929a0595,Corredor,G.,Daniel,Male,7/28/36,Stafford,TX,FORT BEND,0.0
+5813,a2dad34e-d467-4709-9823-d35f939ce06d,Souders,Robert,Steven,Male,8/30/76,Fort Worth,TX,TARRANT,0.0
+3682,070640f3-3d6d-488e-a155-59c881f2c3d0,Huffman,nan,William,Unknown,12/9/46,Brentwood,TN,DAVIDSON,0.0
+5908,d232ac82-cf27-4897-9278-0543c9cb45e1,Street,Kathleen,Tiffany,Unknown,9/20/78,Houston,TX,HARRIS,0.0
+3833,8a3a8bf9-9b56-42d8-85cd-10efc3633057,Jones,E.,Ann,Female,10/8/63,Tucson,AZ,PIMA,0.0
+6047,6d93d2a9-7d34-4f93-b2a7-28212b705568,Thompson,nan,Dwight,Male,10/25/59,Townsend,MT,BROADWATER,0.0
+5368,fc59c677-92d5-46f1-9bea-9fe5ccd96833,Riley,Dianne,Shiela,Unknown,2/4/68,Talihina,OK,LATIMER,0.0
+2812,8d33daaf-e902-4a0e-a116-6b9d6ed6894b,Diaz,A. ,Michelle,Female,3/6/78,Silver City,NM,GRANT,0.0
+6440,7a29ad85-4aaa-4e17-88d8-3957378a4926,Windsor,Rae,Dana,Female,12/9/78,Joplin,MO,NEWTON,0.0
+4796,3a65078d-7080-401f-a553-0d020e43e5d3,Nguyen,T.,Ken,Male,1/15/75,Lake Charles,LA,CALCASIEU,0.0
+2558,7e8aca9c-e115-4cce-8c29-4d880f740450,Chung,nan,Pamela,Unknown,12/30/81,nan,nan,nan,0.0
+4058,0fd62a96-4cbe-4935-b2db-e7518844c5e8,Kumar,N.,Ullattil,Male,4/18/47,Austin,TX,WILLIAMSON,0.0
+2852,438f677b-7ef9-4767-9b6a-f56df95ac35a,Donovan,Francis,William,Male,11/8/42,Houston,TX,HIDALGO,0.0
+2590,bbc30962-026d-4c12-bff5-098da0a60eae,"Coleman, Jr.",Pierce,William,Male,8/11/39,Dallas,TX,DALLAS,0.0
+4839,200dd8d8-bb77-430a-acb5-9d583cc6d96a,Nunnally,S,Cleon,Unknown,4/27/25,nan,nan,nan,0.0
+2202,d52f80bf-38d7-4cd0-8850-c5623d521596,Blackburn,nan,Jeannie,Unknown,2/11/71,Webster,TX,HARRIS,0.0
+6116,a75a8ef2-6c17-46b1-8c2f-2863ca855bad,Tse,nan,Paul,Unknown,11/22/54,nan,nan,nan,0.0
+4579,ed4a08fd-e7b4-481f-a95a-973f27470129,Miller,D.,Greg,Male,3/27/70,Temple,TX,BELL,0.0
+2908,cc325530-6bd2-4ffb-82a8-a5f582be01fc,Egemasi,Anyaku,Celina,Female,5/19/86,Richardson,TX,DALLAS,0.0
+3297,623c595a-2b53-4444-9a0d-a9d8d3af0932,Gordon,Allen,Richard,Male,6/13/53,Tulsa,OK,TULSA,0.0
+4856,4df85a8c-dcdd-4f27-b9d3-6628c95fea9b,Oei,Tan,Carryl,Unknown,10/5/77,nan,nan,nan,0.0
+5788,479855e8-340d-445b-a77c-8867f34c5d15,Smith,James,Thomas,Male,6/13/50,Seattle,WA,KING,0.0
+2815,d8d30b69-3fd7-4722-a65a-9fd811b2cf76,Dickinson,Michael,Brett,Unknown,11/10/77,Farmington,MO,SAINT FRANCOIS,0.0
+2982,3e51028c-3c21-46d1-8e54-ef71e4c5b29c,Fail,S.,Peter,Male,11/22/55,Houma,LA,TERREBONNE,0.0
+5066,17297e4f-6368-45e1-98a8-da97954f4d47,Payne,Neal,Thomas,Male,11/11/63,Austin,TX,TRAVIS,0.0
+3933,2ac4a91a-8894-4d0a-b66e-509bca2893f2,Kelly,nan,Roderick,Unknown,12/4/67,Shreveport,LA,CADDO,0.0
+5180,236af888-22b7-4afd-aaa4-ad41dc72be4e,Pouncy,Kinshasa,Dawda,Unknown,7/16/64,Richardson,TX,DALLAS,0.0
+4940,1a659467-2861-4cf3-aa3f-8601377064cf,Osborne,Jackson,Andrew,Male,12/24/66,Mission,TX,HIDALGO,0.0
+6052,085d8391-4fac-4204-a9d8-9acdc0e84d71,"Thomson, NP",Thomson,Shawn,Unknown,9/27/72,Phoenix,AZ,MARICOPA,0.0
+2896,c2069745-86a1-47b6-b0de-c836cbd3f927,Eapen,Puthooran,Sonia,Female,1/30/79,Pearland,TX,BRAZORIA,0.0
+5448,35090934-ac7c-49c2-b65a-d6e5ef827c31,Roper,Louise,Mary,Unknown,4/23/64,Corpus Christi,TX,NUECES,0.0
+3357,a1508a54-0f9c-454f-8a1e-7e0fbb03f06d,Gresham,nan,Flotyl,Unknown,5/19/64,Olive Branch,MS,DESOTO,0.0
+4538,8bf86587-220b-41a8-8534-88917a2440b2,Menocal,Jose,Julio,Male,9/30/58,nan,nan,nan,0.0
+3621,37f801c6-7fc5-4ddb-ae29-33a8bd43d445,"Holleman, III",Finas,James,Male,8/20/65,Mckinney,TX,COLLIN,0.0
+2143,dc443c18-c62c-4d4c-92b5-d5a2be2e66e5,Berenson,S.,Mark,Male,8/26/74,nan,nan,nan,0.0
+5459,02a9083c-58d9-45a5-a367-f00c483f0731,Roth,Matthew,Ronald,Male,10/10/49,Las Vegas,NV,CLARK,0.0
+3252,a694fcdd-c0e0-406a-baa3-a7284637edaa,Goble,L.,Jennifer,Female,4/8/73,Auburn,WA,KING,0.0
+6369,6f9ecc78-98f7-44b6-8b35-7dbf6d088d0e,"White, Jr.",D.,Ed,Male,3/19/49,Nashville,TN,DAVIDSON,0.0
+3082,bea0d6ce-16e4-4507-b9c8-66dcb36bf950,Fox,Barat,Gregory,Male,4/22/61,Gautier,MS,JACKSON,0.0
+5360,bc7e1fd0-d267-4253-9294-4a5a4aadbcf7,Richter,B,Lauren,Female,8/9/58,Ellicott City,MD,HOWARD,0.0
+4157,2da6f84c-78a7-406c-ab7e-42ecb3c3bf0f,Lehr,Capellupo,Megan,Unknown,11/9/82,Maryland Heights,MO,SAINT LOUIS,0.0
+3602,2c0cb7e9-232c-4d56-83e6-ee13e3508d4c,Ho,nan,Dennis,Male,11/21/75,Round Rock,TX,WEBB,0.0
+2616,ae5c079d-99dc-4eed-a6fe-8e2a40e52156,Cordova,Lorraine,Cecilia,Unknown,10/4/48,nan,nan,nan,0.0
+3582,fdc28d00-2340-4028-b04d-7222c9505e54,Hickel,nan,Cynthia,Unknown,11/4/66,Phoenix,AZ,MARICOPA,0.0
+2874,13ae200d-785d-43f5-9f14-b03a8c747fc8,Dugas,Michael,Chad,Male,2/12/79,Houma,LA,TERREBONNE,0.0
+2355,254a5c3f-167d-49ab-ac5c-b315a482df32,"Brown, Jr.",Erwin,George,Male,9/13/70,Deer Park,TX,HARRIS,0.0
+3315,6a75c997-3069-4ca3-be2a-b00589b36039,Grafe,J.,Michael,Male,1/18/42,Artesia,NM,EDDY,0.0
+4271,35b674c1-066b-46d4-8f2e-82853ca2854f,Lu,nan,Leo,Male,1/23/48,Edmond,OK,OKLAHOMA,0.0
+2294,cd975a3c-9420-4cd3-be30-5da1d9798c66,Brantley,B. ,Ryan ,Male,8/30/79,Austin,TX,TRAVIS,0.0
+3393,07e84394-a509-4070-aa2e-88987e308cc7,Guin,M,Dan,Unknown,11/9/38,Auburn,AL,LEE,0.0
+3622,37f801c6-7fc5-4ddb-ae29-33a8bd43d445,"Holleman, III",Finas,James,Male,8/20/65,Tyler,TX,SMITH,0.0
+2154,81b48041-10c7-4ef7-bd62-23131e0e38ac,Berkowitz,B.,Jeffrey,Male,3/2/70,Plano,TX,COLLIN,0.0
+3451,97138be4-3ca9-41f5-b238-fefeca0fb8e5,Hammond,Wayne,Michael,Unknown,12/22/44,Muskogee,OK,MUSKOGEE,0.0
+2628,3b46c7c3-a924-42a1-a680-4937833a7d63,Costello,P,Joseph,Unknown,5/27/52,Swansea,IL,SAINT CLAIR,0.0
+5410,e9aa1e71-9cb6-4c32-87a4-9f3cf0a7b5ad,Robinson,D,Carl,Unknown,6/14/42,Slidell,LA,SAINT TAMMANY,0.0
+3658,c68dc4e5-d617-4197-8e3b-4dc9153992f6,Hotchkiss,S.,Larry,Male,2/16/46,Clinton,MD,PRINCE GEORGES,0.0
+2986,ef641f17-8c65-4660-be27-7343d813b5d8,Fakorede,Adegoke,Foluso,Male,2/25/81,nan,nan,nan,0.0
+4257,015ecf8d-1a10-46eb-a80b-ea99f19a012e,Loubriel-Velez,H.,Carlos,Male,9/10/63,El Paso,TX,EL PASO,0.0
+4821,0bcac7b6-e67c-4830-aef5-7a9722381e07,Nieves - Gonzalez,Nieves-,Alfredo,Unknown,2/29/56,nan,nan,nan,0.0
+4424,e10f72f2-04b6-4c53-927b-90cd998a3646,Mazat,Arthur,Bruce,Male,6/3/41,Aberdeen,MS,MONROE,0.0
+3125,5f85c28f-722c-4753-aa1a-5760e46a4f88,Fuzayl,Y.,Albert,Female,4/2/61,Chevy Chase,MD,MONTGOMERY,0.0
+5551,ef9bd3c8-a5e6-4d5f-80a8-2d9b7d218470,Saquib,nan,Azim,Unknown,8/11/56,Gilbert,AZ,DONA ANA,0.0
+4155,b081fd22-e1be-4ce8-af60-96ea0e3db8ba,Lehman,Emily,Sarah,Female,4/17/77,Clarksville,TN,MONTGOMERY,0.0
+4062,c565bada-2a94-41c6-84c3-0ab72df57559,Kurtz,William,David,Male,11/12/48,Berlin,WI,COLUMBIA,0.0
+3265,faed1f7b-0f71-4de1-afc3-92196ebccbfe,Goldstein,Saul,Steven,Male,12/28/44,Houston,TX,HARRIS,0.0
+1987,7ee9995b-9bd3-4312-8399-9c97c5892798,Asombang,M,Colette,Unknown,5/15/73,nan,TX,HARRIS,0.0
+3736,66e65445-0561-4890-a361-a88c8fd7d750,Isikwe,O.,Sheela,Female,11/8/85,Sugar Land,TX,FORT BEND,0.0
+2334,b9e32e39-a164-40dd-93f0-3a20c9024571,Brower,Lee,Randall,Male,12/19/72,nan,nan,nan,0.0
+5414,d2503b2d-f138-429d-b056-9b273ee628e3,Robinson,nan,Nancy,Female,3/12/58,Webster,TX,HARRIS,0.0
+4994,02d494ea-22a1-4ff7-8402-7bc8d936957a,Pardillo,nan,Armando,Unknown,9/1/51,Las Cruces,NM,DONA ANA,0.0
+5893,15bcbe85-ae53-4b06-8342-5a91f33e8248,Stock,Wayne,Daniel,Male,3/27/62,Fishers,IN,MARION,0.0
+2526,0d2f2ed7-101c-4cd9-9007-a6b9fd313eb9,Chen,J. Prince,Amanda,Female,1/19/80,Longview,TX,GREGG,0.0
+5276,32578b5e-4827-4396-943a-b060b944be44,Rana,J.,Maryam,Female,2/17/69,Beckley,WV,RALEIGH,0.0
+3287,48743880-496f-4f38-8592-38d3d54f8451,Gonzalez-Cruz,nan,Jorge,Male,2/27/75,Scottsdale,AZ,MARICOPA,0.0
+3071,50c61743-c7a0-443e-bbbf-7c985f58121d,Fortner,B.,John,Male,10/13/71,Corpus Christi,TX,NUECES,0.0
+5989,7693b844-d3de-4fc0-a66a-bc38f5134b9d,Tate,L.,Dana,Unknown,8/26/79,nan,nan,nan,0.0
+5927,5aa1b6ef-e6f8-4b59-8d88-d0522ffcdc05,Suffield,Joleen,Jill,Female,8/30/79,Houston,TX,HARRIS,0.0
+4886,77286deb-d08e-4b16-a3a3-a4405eb36270,Okpalike,N.,Martin,Male,11/13/73,Decatur,IL,MACON,0.0
+4732,2a8f8ce6-4721-431f-8ada-efaa14412863,Naeem,nan,Bilal,Male,3/17/66,Springdale,AR,WASHINGTON,0.0
+3407,0a9c56a3-73e0-4f05-ac29-bf7cef0500f3,Gutierrez,nan,Emily,Unknown,12/18/76,Austin,TX,TRAVIS,0.0
+2128,921dbdf2-2a66-4fbc-bb37-de3896c08007,Bell,L.,Parker,Male,7/14/69,Hattiesburg,MS,FORREST,0.0
+5074,72f92e02-7da7-4b8e-b3d5-ff07a16039a8,Peck,nan,Jessica,Female,5/1/77,Webster,TX,HARRIS,0.0
+4746,4ecceea4-5f07-41eb-be87-e082d0684616,Namdari,nan,Bahram,Male,10/26/39,Milwaukee,WI,MILWAUKEE,0.0
+4793,3375c09a-1026-4529-92dc-8d7e27fdc305,Nguyen,N,Chau,Unknown,9/10/37,Houston,TX,HARRIS,0.0
+4452,0c14b918-5afc-4212-8e95-66b3844db4f8,McCraw,H.,Jimmie,Male,10/2/49,Denver,CO,BERNALILLO,0.0
+4372,81e86cf9-9c72-4901-aed2-d9d4bb0faa68,Martinez,M.,Lynore,Female,5/4/67,Santa Fe,NM,SANTA FE,0.0
+5618,9bbc1da6-2f16-4d90-9e2b-c168b4d318e1,Segal,L.,Stephanie,Female,7/6/73,Plano,TX,DALLAS,0.0
+4421,bed82219-fd4d-4268-ad13-6b5a4e57cc77,Mays,Lynn,Vicky,Female,1/19/67,Masontown,WV,PRESTON,0.0
+2598,dc6ff704-4158-4fea-bcb5-bb49022e8727,Compton,Samuel,James,Male,1/26/57,Saint Louis,MO,SAINT LOUIS CITY,0.0
+2700,ceddf2f0-da50-48bc-a0e5-63c6faa379c6,Dao,M.,Michael,Male,6/10/60,Nashville,TN,DAVIDSON,0.0
+2318,02176075-f382-41e3-94ce-7ee829d1b370,Broadnax,Phillippe,John,Male,7/23/78,Lewisville,TX,DENTON,0.0
+5637,68e79ae1-69a8-487d-aa40-b624359bf790,Shah,Bharat,Amish,Male,6/10/73,Huntsville,AL,MADISON,0.0
+2394,f94c16cd-b507-4a90-82b1-82f632b12a45,Burress,Allen,Donald,Male,2/18/32,Gresham,OR,MULTNOMAH,0.0
+6083,cc8ee560-f2b1-4774-a917-b9ebc86a701b,Tomar-Villegas,A.,Maharaj,Male,7/29/77,Cheyenne,WY,DANE,0.0
+5350,c2ff726a-a11e-40c2-b738-8dc4c771eaba,Rice,H.,Samuel,Male,11/24/53,Apple Valley,CA,MARICOPA,0.0
+2619,e6798b82-66f2-4ad3-8bfc-6535d1b34b5c,Coronado,D,Felipe,Unknown,2/5/73,Bastrop,TX,BASTROP,0.0
+2754,23f9df64-ba42-40cc-b7e1-eb86c1e7319e,Dear,A,Carl,Unknown,2/22/74,Rowlett,TX,DALLAS,0.0
+6240,89011676-4fe4-4f15-9baa-108d77b67c59,Von Luhrte,nan,Tommy,Male,5/14/44,Vanceburg,KY,LEWIS,0.0
+5656,ea2e8520-561a-4f77-a6c2-de469262d44c,Sharma,Arsaga,Michael,Male,6/7/79,Lewisville,TX,DENTON,0.0
+3727,5fe90ee1-eb2c-4b8d-9576-4f0aacd8ed1b,Iqbal,F.,Waheeda,Female,4/24/59,Chicago,IL,COOK,0.0
+2859,ac2e0c50-aa4d-4fe8-b6e8-24435347c5d0,Dowling,P.F.,James,Male,11/18/61,Texas City,TX,GALVESTON,0.0
+4199,43ccce03-fdd9-422f-be68-21ada84dc632,Lifland,Dennis,Paul,Male,1/26/50,Beeville,TX,MIDLAND,0.0
+1991,4be66990-d6b5-49ae-94a2-c669a85bea7e,Atkinson,W,John,Unknown,6/29/46,Tacoma,WA,PIERCE,0.0
+4618,2997ae13-5490-4dd6-9519-ccedf72b16e0,Moizuddin,Sana,Samia,Unknown,10/13/71,Jasper,AL,WALKER,0.0
+5444,f73bce69-4844-4ce6-af01-6a0f388de76d,Romero,L.,Angela,Female,9/16/73,Albuquerque,NM,BERNALILLO,0.0
+2325,fc01fa81-bb93-48e0-9d29-3713f7d4a7d6,Brodnik,M.,Randy,Male,4/16/61,Bluefield,WV,MERCER,0.0
+3618,3ece99c8-1e78-4a3a-96eb-a6b0d25783d5,Holemon,M,Dawn,Unknown,8/10/57,Saint Louis,MO,SAINT LOUIS,0.0
+6098,dd40f451-fbfd-4619-8545-8aed9ca09975,Tran,T.,Ngoc-Phuong,Female,11/5/59,Austin,TX,TRAVIS,0.0
+1972,75679a7d-5bd4-4240-a0b7-0fa9fc78645b,Arnold,Marie,Gina,Unknown,6/2/73,nan,nan,nan,0.0
+5586,f620d5df-cd10-44d4-b1c1-6b8839c106f9,Schmidt,D.,Edward,Male,4/27/64,Edinburg,TX,HIDALGO,0.0
+3940,0630653e-d7b8-482d-b964-d6fdcc8e88cd,Kennedy,D.,Sherill,Female,7/30/73,Houston,TX,HARRIS,0.0
+4979,394b2792-28f9-4c01-9cfc-2d41d1223237,Paine,Ross,Johnny,Male,6/12/47,Searcy,AR,WHITE,0.0
+3106,0f99b452-74ea-4f13-a714-5508c634345f,Friedrich,Desmond,Karl,Unknown,6/11/76,Baton Rouge,LA,ORLEANS,0.0
+4491,25360344-5f6f-4c43-b003-38f9437ada72,McMillion,D.,Michael,Male,4/1/74,Beckley,WV,RALEIGH,0.0
+3245,5b5ccf9d-eb19-4dc9-a83b-3cac56158935,Glascock,N.,Dennis,Male,2/3/60,Saint Charles,MO,SAINT CHARLES,0.0
+1935,521c9496-be4d-41ae-bebf-990ff10fa6f3,Anderson,J.,Dale,Male,1/23/53,Saint Louis,MO,SAINT LOUIS,0.0
+5806,20fbad32-3905-4fc5-bdc2-271f65d903f4,Solman,G,Corey,Unknown,2/15/70,Saint Louis,MO,SAINT LOUIS,0.0
+2511,75e8a2ce-0a4a-4305-868f-9f0070564d91,Chapman,Alan,Gregory,Unknown,5/11/57,Dallas,TX,DALLAS,0.0
+5091,9615d33c-01ad-488f-9325-c5e6a15466ed,Perez,E.,Marta,Female,10/24/54,McAllen,TX,HIDALGO,0.0
+5740,5682040d-4739-457c-92c4-a376e7531095,Singh,nan,Harvinderpal,Unknown,12/10/70,Tomball,TX,HARRIS,0.0
+3422,8036f841-5f1d-4ac6-9609-523198f54620,Haden,A,Jon,Unknown,5/11/65,Las Cruces,NM,DONA ANA,0.0
+3674,b3d17fd8-333d-471f-b36b-7c6cd3d6fd1b,Hubbard,Lee,Alan,Male,4/14/47,Spring,TX,MONTGOMERY,0.0
+5957,d1279e17-5a40-49ed-b8df-42fa483a7ea5,Swoboda,Lindsay,Robyn,Unknown,9/21/85,Bastrop,TX,BASTROP,0.0
+2079,f8214b37-d649-4d09-8c64-eff847ef7ae0,Basail,C.,Fernando,Male,8/1/59,Dallas,TX,DALLAS,0.0
+6157,ed23413b-0652-42b4-a2fe-6e6d7d2c31a8,Vacca,Domenic,Brian,Male,1/20/77,Eagle River,AK,ANCHORAGE,0.0
+6453,067d5861-9e4f-46e7-8b47-f33fc036821b,Womack,Antonette,Veda,Female,3/16/76,Dallas,TX,DALLAS,0.0
+2090,5f7f8e32-ba48-402a-8c46-fce3799225d9,Battaile,R.,Holly,Female,8/24/67,Burleson,TX,JOHNSON,0.0
+6466,c5784775-0740-46b3-82f9-3a5321b6158a,Wood,J.,Mathew,Male,3/14/75,Wheeling,WV,OHIO,0.0
+5441,dc2e891f-cc75-4021-b2f6-570869e7ede3,Rohde,M.,Pennye,Female,4/23/65,Houston,TX,HARRIS,0.0
+2101,5e21f340-78b3-4ed4-be61-c954b9f04be4,Baxter,Marie,Michelle,Female,9/2/79,Sulphur,OK,MURRAY,0.0
+6299,82aaf4b6-0add-4e68-9982-e714849675ce,Watkins,Fredrick,John,Male,6/14/56,Newport,OR,LINCOLN,0.0
+5799,732b54be-c0d3-4fbc-b45b-089147518bab,Sohal,nan,Guljeet,Unknown,9/16/74,Cypress,TX,HARRIS,0.0
+5124,2c7051d1-7ade-4f59-8ddd-ca2d9581db0c,Pham,nan,Roger,Male,2/17/62,Arlington,TX,TARRANT,0.0
+6298,a9fe82f1-1766-4e8d-b571-5b91422a95c4,Watkins,Fredrick,John,Male,6/14/56,Newport,OR,LINCOLN,0.0
+6360,b170e982-6b5c-43a2-bd64-5447e788cbb3,White,L.,Amy,Female,12/6/73,Austin,TX,TRAVIS,0.0
+2042,386a97d8-198d-4791-a883-6be784b9f68d,Bane,Rhea,Ginger,Female,5/13/83,Austin,TX,TRAVIS,0.0
+110,6a47384f-b9e4-49ee-87f1-cd39a220e6a5,Alhassan,nan,Abdul-Aziz,Male,1/20/54,Houston,TX,HARRIS,0.0
+6548,cf601098-557b-4be1-80b9-3dcfa871be8d,Zapata,C,Helio,Unknown,6/1/48,McAllen,TX,HIDALGO,0.0
+2440,f05f6e24-0f01-4384-acfc-dd38ee32691a,Caraway,nan,Joseph,Unknown,6/19/54,Kansas City,MO,CLAY,0.0
+2429,2012fdda-9edd-4a4e-a941-3a8fda7a61e4,Campbell,W,Joel,Unknown,2/20/65,Nashville,TN,DAVIDSON,0.0
+5397,cf4ca736-46ca-4dd1-830f-63d71ea48eee,Roberts,Stewart,Jarrod,Male,5/7/77,Auburn,AL,LEE,0.0
+4249,e9f04e02-e7bb-4d82-895c-e2d141879d9a,Lopez,Alfonso,Jose,Unknown,11/18/65,Mission,TX,HIDALGO,0.0
+6491,6b28c4fc-28fa-4100-bee5-5960f69e50f4,Wyatt,nan,Michael,Male,8/21/50,Wichita Falls,TX,WICHITA,0.0
+6423,7a70c4ef-fb77-4bbc-8264-2a70356fa4ac,Wilson,F.,Charla,Female,1/13/50,Olive Branch,MS,DESOTO,0.0
+2697,dd3e677b-b3bd-4fdc-b1eb-47e5cd69f233,Daniels,nan,Leah,Female,2/9/80,Clarksville,TN,MONTGOMERY,0.0
+4089,d0fb3e83-55c3-49c1-86b4-cf22445f99ab,Landry,nan,Matt,Male,7/25/81,Houma,LA,TERREBONNE,0.0
+5173,329d2841-9dcf-424e-bc1a-addb95864144,Porsch,Ryan,Jake,Unknown,4/16/86,Dallas,TX,DALLAS,0.0
+5725,ac0b1c12-5262-4020-826c-373bc38790cb,Sigala,J,Teresa,Unknown,10/3/59,nan,nan,nan,0.0
+4100,af88a186-9fa1-4ec5-acd2-c2e967b3ad1b,Larsen,T,David,Unknown,2/15/54,Flower Mound,TX,DONA ANA,0.0
+4668,a39ca92c-6b80-418b-81e8-ee4140d928b4,Morrow,Kay,Carla,Female,1/20/72,Cleburne,TX,TARRANT,0.0
+3642,04b582d0-d12a-431d-98be-9e28a327c721,Hooks,Lee,Kristy,Female,3/21/72,Andalusia,AL,COVINGTON,0.0
+1946,19c0707c-5822-4336-bd56-0367887c51a9,Andrews,nan,Angelique,Female,2/5/73,Huntsville,AL,MADISON,0.0
+2146,a223fca2-1d91-4d96-abb7-4647f2c4b494,Berg,J.,Angela,Female,3/26/66,nan,nan,nan,0.0
+2257,b25e2f3a-cabc-4bc2-b89c-a86f9eec7c53,Bousman,Lee,Ronald,Unknown,7/15/46,Birmingham,AL,JEFFERSON,0.0
+4523,7f5e5d63-9bed-4604-ae27-ccafa7f31fbd,Mehta,nan,Purnima,Unknown,1/27/56,Scottsdale,AZ,MARICOPA,0.0
+4702,46852747-b2d3-47ab-b67e-2471e965ccef,Mukundan,nan,Lakshmi,Female,12/18/82,Austin,TX,TRAVIS,0.0
+4170,0bac6477-b36a-4ab3-a4aa-b742d941d2a2,Lepow,David,Brian,Male,4/15/80,Houston,TX,HARRIS,0.0
+2581,69956712-2b4e-462a-b85f-7864de15f508,Cole,James,Adam,Unknown,10/16/74,Bryant,AR,PULASKI,0.0
+5880,8f2b638d-441c-4535-8f7f-65f71ed766d8,Stephenson,Sue,Rachel,Female,7/5/85,nan,nan,nan,0.0
+4347,e2ede111-61f6-436f-9cb5-2c783d40495a,Margo,nan,Gray,Unknown,2/21/70,Campbellsville,KY,TAYLOR,0.0
+4730,7d367f7f-1d80-4dde-90a0-2b37f3674801,Naduparambil,G,Anitha,Unknown,2/1/90,Bellaire,TX,HARRIS,0.0
+5209,9850b546-baf2-4e5c-9af6-98892138898c,Prieto-Harris,nan,Roberto,Unknown,8/15/73,Edinburg,TX,HIDALGO,0.0
+5390,39e1e23b-9114-4aa5-a74c-458116313df2,Roberson,William,Clifford,Male,11/1/42,Point Pleasant,WV,MASON,0.0
+3100,eaa28a30-0b72-47e1-a28d-eb8235a97793,Freeman,Neal,Phillip,Unknown,7/16/47,Houston,TX,HARRIS,0.0
+2877,d8e80463-e14c-40af-bef5-3b5ab13fac49,Dunaway,Gallardo,Mary Jane,Female,11/20/69,Surprise,AZ,MARICOPA,0.0
+4051,d16f51f0-44d4-4230-aaf0-e173a7f6ec8a,Kudumula,nan,Ravi,Unknown,4/13/73,Amory,MS,SHELBY,0.0
+2412,43eebaf9-f054-445a-8176-0361416137c1,Buzzard,S.,Erik,Male,11/15/71,Morgantown,WV,MONONGALIA,0.0
+2298,1398afb4-3d28-49eb-9b11-5b8600b27581,Bray,Denise,Macey,Female,6/24/70,Farmington,NM,SAN JUAN,0.0
+6113,a37a7c46-5563-45d5-8408-d6024185ccea,Trussler,P.,Andrew,Male,3/21/72,Austin,TX,TRAVIS,0.0
+4400,bc431489-2a23-414e-b39a-eaeebe6df080,Mattingly,nan,Trina,Unknown,2/2/73,Winchester,KY,CLARK,0.0
+3070,166c93b5-198c-4a98-ab67-54e25026da4c,Fortner,B.,John,Male,10/13/71,Corpus Christi,TX,NUECES,0.0
+3653,268900de-c50c-4b72-9b48-eb1f9f8f88a9,Horst,F.,Trenton,Male,11/21/69,Oklahoma City,OK,OKLAHOMA,0.0
+3820,ed1e2256-3fa3-44b5-a58f-1919af96fb0d,Johnson,Paul,Gregory,Unknown,5/19/80,Denison,TX,GRAYSON,0.0
+5543,6ca4097b-1adb-4456-acc3-8482e98f5f98,Sands,Rex,Larry,Male,1/27/49,Iraan,TX,PECOS,0.0
+6172,c3d6b2a7-e80e-403c-b0da-28e38fc38afb,Vandiver,E.,Christopher,Male,5/30/80,Osage Beach,MO,CAMDEN,0.0
+5971,0f74d945-19a5-4230-8879-12320a4fb0f0,Talamantes,nan,Roberto,Male,6/19/52,Las Cruces,NM,DONA ANA,0.0
+3168,62543340-9297-4e60-9d3c-f42dd203a81e,Garner,Rose,Pamela,Unknown,11/28/69,Alva,OK,WOODS,0.0
+4678,d0142d72-7bd9-4248-82ff-e92702d4eece,Mostafa Elsawy,MoradMostafa,Bassem,Unknown,1/3/73,Irving,TX,TARRANT,0.0
+3550,ba20089b-e5f3-469f-9c2a-5073d1be8a1e,Heinrich,Walter,Clifford,Unknown,10/1/68,Phoenix,AZ,MARICOPA,0.0
+4463,42391e51-13b6-4241-bef9-de41d7d943d2,McGaughey,H,Siobhan,Unknown,5/9/70,Columbia,MO,BOONE,0.0
+5164,81c519e2-3d48-40b9-90e6-08a30daff4ae,Ponce,nan,Alejandra,Female,1/8/80,Brownsville,TX,CAMERON,0.0
+6327,96452d6d-fc1d-4c47-913a-bc52eda5560f,Weingrow,Mitchell,Craig,Male,12/26/68,Las Vegas,NV,CLARK,0.0
+5160,2701e315-103a-4b39-b6cc-e0c88900ab88,Poland,P,Frank,Unknown,10/26/63,Beaver,WV,RALEIGH,0.0
+2758,4c893a15-3ca4-460e-aa12-5a90d5259987,Deeb,Wayne,Kenneth,Unknown,6/20/56,Frisco,TX,COLLIN,0.0
+4771,01571d38-ea9b-4cac-9216-9cc71569ca16,Nelson,L.,Charles,Male,11/18/45,Richland,WA,WALLA WALLA,0.0
+5555,2d0f61c5-b850-46fb-b935-e112092c7db4,Saraff,Y.,Kiran,Male,2/10/69,Lexington,KY,FAYETTE,0.0
+3183,042df958-85aa-42b3-8b26-0a3ca6516f69,Gate,Joan,Deirdre,Female,7/1/68,Seattle,WA,KING,0.0
+5141,230f8812-b23a-4d07-9b2c-f29180eed099,Pieri,A.,Claire,Female,5/3/50,nan,nan,nan,0.0
+5860,0e173a64-bfba-4c42-b04f-5a66245fb704,Starbeck,C.,Lexa,Female,7/23/73,Cedar Falls,IA,BLACK HAWK,0.0
+3080,8294f4ac-b663-4d65-a8ff-1d489b647619,Foster-Vrenon,Leigh,Erin,Female,9/16/82,Las Vegas,NV,CLARK,0.0
+4247,08bf1534-0074-4a15-a40c-ba6aac670fbd,Lopez,A.,Carlos,Male,10/9/72,Las Vegas,NV,CLARK,0.0
+2910,d44d67aa-bf90-4d19-8ef0-19636f7b0a73,Egger,G.,Edwin,Male,5/15/47,Greenville,MS,WASHINGTON,0.0
+5758,9652a78b-517c-4191-b648-299d649e544b,Smith,Lynn,Amity,Female,10/18/75,Southlake,TX,TARRANT,0.0
+4377,cfbbd73e-9869-4055-a443-c183764e53ea,Marvil,C.,Sean,Male,8/5/75,Taos,NM,TAOS,0.0
+3164,d6f72aa8-dc23-4c2b-be53-f298703410c9,Gardner,David,Seth,Male,3/5/77,Danville,AR,YELL,0.0
+2583,fadd0faf-c630-411f-969c-4e0127a8e811,Cole,Lynn,Jenny,Female,4/30/70,nan,nan,nan,0.0
+2447,f31de946-710a-4101-bf5b-aa4a78862af0,Cargin,Sue,Peggy ,Female,12/3/65,Mountain Grove,MO,WRIGHT,0.0
+4993,13f6643f-0335-415c-a186-e87e7ad1ef49,Parcinski,Eugene,Richard,Male,3/11/45,Saint Peters,MO,SAINT CHARLES,0.0
+4317,63517095-26cc-45f7-858c-dab168cba39f,Malik,A.,Ather,Male,2/15/58,nan,nan,nan,0.0
+4605,fa560ed6-2473-4465-ba48-8264c856794d,Mitchell,nan,Paula,Female,9/29/62,Houma,LA,TERREBONNE,0.0
+5012,deeaa07a-8bf6-4ea8-a4cf-17ebf67a180a,Parkhurst,Dean,Joseph,Unknown,9/16/50,Edmond,OK,OKLAHOMA,0.0
+2838,1047de75-71b0-4e0b-9323-dbefc2b35c23,Doctolero,B,Susan,Unknown,9/20/65,Lubbock,TX,LUBBOCK,0.0
+6549,1faacafe-4834-457b-af89-00d8812c6bb4,Zapata,Raul,Juan,Male,11/23/37,Longview,TX,BEXAR,0.0
+4533,56780b59-0dd1-472c-b66c-a8cb02fcbad2,Mena,nan,Ashraf,Male,9/9/60,Princeton,WV,MERCER,0.0
+83,f5af1b92-0ca6-4188-a7e2-decb14afb1a2,Akkary,nan,Ehab,Unknown,8/23/74,Morgantown,WV,MONONGALIA,0.0
+4280,71b66039-0e20-429a-894a-8d3a922cb884,Luna,nan,Guillermo,Male,11/12/79,Mission,TX,HIDALGO,0.0
+4404,692d3b87-4f72-4445-b1cc-0c3c5b28ef83,Maurer,nan,Emily,Female,6/16/76,Houma,LA,TERREBONNE,0.0
+5353,117f055e-6635-4710-a853-264d5e0ae471,Richards,nan,Shelley,Female,11/20/85,South Charleston,WV,KANAWHA,0.0
+4714,423a115a-19d8-4d90-8438-4af77ac0f5fa,Murphy,J,Mark,Unknown,7/25/59,Scottsdale,AZ,MARICOPA,0.0
+4578,0f560677-d5b1-468f-8377-c4dd92695f79,Miller,nan,Gary,Unknown,4/14/57,Yuma,AZ,YUMA,0.0
+5282,d8b049f5-6398-499c-8302-6a0b1f3ed7ab,Randhawa,Kaur,Jyoti,Female,1/26/81,Racine,WI,RACINE,0.0
+4489,a25558f3-da43-405d-a601-353bf75c1e71,McMenomy,Joseph,Theodore,Unknown,2/3/76,Dearborn,MI,DANE,0.0
+5197,389bdc02-9b4e-4992-b921-8cac560a7b10,Prempeh,nan,Osei,Male,2/26/65,New Orleans,LA,ORLEANS,0.0
+3978,4497ee82-d4e8-409f-9321-4ed0c564394e,Kindrick,A.,Wendy,Female,1/14/74,Grapevine,TX,TARRANT,0.0
+2919,adbddf14-acab-4298-8c22-ef739937a86e,Elders,nan,Terry,Male,12/1/51,Longview,TX,BEXAR,0.0
+3062,c6591d51-1497-40ce-90d1-68ba2e8ca975,Ford,A,Kathy,Unknown,8/11/54,Pearland,TX,HARRIS,0.0
+2433,a1626df4-a269-4b6c-a99c-b18028c10412,Cantu,R.,Michael,Male,12/18/72,nan,nan,nan,0.0
+2517,df35914f-087f-4684-953f-408efb4c4425,Chaudhry,Raza,Ashen,Male,12/22/68,Lawrenceburg,TN,LAWRENCE,0.0
+2326,6ef8e6b0-7f69-460e-9316-947a610d8d4a,Brooks,Lynn,Amy,Unknown,4/9/77,Oklahoma City,OK,OKLAHOMA,0.0
+4681,bb27b51e-b3c2-4845-9301-f5075521917d,Mothelet-Perez,Arturo,Julio,Unknown,5/6/71,Humble,TX,HARRIS,0.0
+5072,a22bd804-11e4-4577-a781-5ad79eff4896,Pearson,Elizabeth,Tuesday,Female,4/21/81,Portland,OR,MULTNOMAH,0.0
+3351,bba12a36-5e7d-450c-9c64-c416dedfd016,Greer,Lester,Stephen,Male,2/14/60,Broken Arrow,OK,nan,0.0
+5569,4b7d2a82-8421-4fef-bf84-a7da05195b4e,Satoor,nan,Sumalatha,Female,8/16/70,Evansville,IN,VANDERBURGH,0.0
+6060,59804a48-b0c8-4849-8dae-510256c744bf,Tidwell,D,Amy,Unknown,2/18/74,Oxford,MS,LAFAYETTE,0.0
+3589,77bad9c2-3ee5-4a9e-b9de-ae7c73d38f22,Hijazi,M.,Bishr,Male,10/13/70,Las Vegas,NV,CLARK,0.0
+3119,f720e5e1-1383-44e9-ab80-757ed6a9f582,Fullington,A.,Douglas,Male,2/17/67,Plano,TX,DALLAS,0.0
+6448,d919d1b9-1f6d-4f91-8a93-911844aa74f8,Witt,S.,William,Male,5/23/45,nan,nan,nan,0.0
+2739,0bf46065-9245-4e3b-99cb-187d230705da,Dayola,Alip,Annabelle,Female,11/18/61,Peoria,IL,TAZEWELL,0.0
+3758,a7c166b7-2aec-4a3f-8f21-0c113ebfe57b,Jackson,Denice,Tommora,Unknown,7/18/82,nan,nan,nan,0.0
+6008,f34b3709-b06a-467b-9e4a-4d7e1971618a,Teal,Renard,Kevin,Unknown,9/4/64,Arlington,TX,TARRANT,0.0
+4996,00a0e0e1-589a-464c-b54b-d2a7fe65985e,Paredes,Alan,Camilo,Male,1/7/80,Duncanville,TX,DALLAS,0.0
+2411,7b777b66-77ad-4bdc-9fa8-9f6d27accd68,Buycks,Michelle,Rhea,Female,4/6/85,Sulphur,OK,MURRAY,0.0
+4408,820abb95-47f1-4288-98d7-d4ef5daa6e2f,Maxwell,A.,Edward,Male,12/14/68,Bastrop,TX,BASTROP,0.0
+6532,16d2f2f2-b112-4121-892c-dae69ad36063,Yu,nan,Limin,Unknown,8/13/69,Rio Rancho,NM,SANDOVAL,0.0
+2786,78c8c22d-a1f3-4cdb-b3ce-59f7371a97fe,DePrang,L,Clifford,Unknown,2/15/69,nan,nan,nan,0.0
+4748,66c41dd7-aea0-4796-b376-f0a35283d2f5,Nandalur,Reddi,Karunakar,Unknown,3/15/72,Las Vegas,NV,KENOSHA,0.0
+6295,5c855596-e3e0-443e-a92a-cd1a42f61aa3,Washington,K.,Laura,Female,2/27/60,Amory,MS,MONROE,0.0
+2349,f4db6cc4-bb01-46bc-aa7d-568ec7af1057,Brown,Wayne,Robert,Male,12/15/69,San Antonio ,TX,BEXAR,0.0
+4241,00ddada2-ced7-4be3-ae1b-9b3f573459dc,Logue,E.,Harry,Male,11/28/34,Birmingham,AL,JEFFERSON,0.0
+2327,c1678fba-2453-49b3-94d2-2b40b3bba11d,Brooks,Jackson,Clarence,Unknown,10/22/50,Fort Worth,TX,TARRANT,0.0
+6515,a8d1b6fd-dc77-46ba-98b2-ac4268320e82,Yetton,Ann,Faye,Female,6/24/52,Peoria,IL,TAZEWELL,0.0
+4884,27c911b9-0cf9-4e11-9abd-5d1b09f1aef6,Okoro,U,Cynthia,Unknown,4/14/83,nan,nan,nan,0.0
+4145,5f6fbc86-6b2a-4697-b06e-701d42e7a054,Lee,Shin-Kwon,Samuel,Unknown,3/9/63,Apple Valley,CA,CLINTON,0.0
+6571,341cc188-3da0-4e9e-a07e-eeda499cdea0,Zhang,nan,Yuanhui,Male,11/15/62,Princeton,WV,MERCER,0.0
+4391,0334632a-71fc-4866-b4ee-6b4e1876da1f,Matheny,L.,Jessica,Female,12/28/84,Charleston,WV,KANAWHA,0.0
+6191,3074884e-5ea0-4ad7-88f4-3de4f5d27202,Vedavalli,nan,Abhishek,Male,6/4/80,Austin,TX,HAYS,0.0
+6104,ab70c15e-8db5-46e8-83f0-29a71c9f1206,Treacy,J.,Bryan,Male,8/7/60,Oklahoma City,OK,OKLAHOMA,0.0
+5681,e887d39b-1eec-4a0b-8c13-bedc54291f13,Sheriff,Susanne,Lisa,Female,3/17/72,Wichita Falls,TX,WICHITA,0.0
+2251,ea2ba8ff-4952-4b0f-b47d-7f7e11790376,Boulware,Allan,Terry,Unknown,2/26/53,Las Cruces,NM,DONA ANA,0.0
+4123,da73aa68-c790-4755-9653-1c266fbe19cf,Leal,nan,Melisa,Female,10/26/69,McAllen,TX,HIDALGO,0.0
+3947,371a1493-f361-48f4-bd11-1d0dc7bc8928,Kewalramani,nan,Chanda,Female,7/17/68,Houston,TX,HARRIS,0.0
+4518,92ec7366-f411-4d81-bdc9-62d717221654,Megwa,Maduabuchi,Joseph,Unknown,12/28/53,Cleveland,TX,HARRIS,0.0
+2826,be287d36-0451-4497-bae1-05e0aca5e819,Divecha,nan,Sonal,Unknown,11/22/77,Webster,TX,HARRIS,0.0
+2438,2e4275c4-34bf-4b5c-8207-74db89713e74,Capet,nan,Christy,Unknown,1/2/80,Austin,TX,TRAVIS,0.0
+4965,e92e64db-ed25-43fa-aef3-b0c9e037a344,Ozdil,Huseyin,Erol,Male,6/19/63,Austin,TX,TRAVIS,0.0
+4972,a2e0ebb4-288d-4a22-a9df-ebcb11054f0f,Padron,nan,Ernesto,Male,10/17/64,Omaha,NE,DOUGLAS,0.0
+5293,bcfd7f89-f088-4f08-aedb-fc09de362b67,Rashid,nan,Zainab,Unknown,1/1/79,Mesa,AZ,MARICOPA,0.0
+3008,112cd94d-7f27-49ae-bb5c-ca013b195fed,Farzam,Amir,Steven,Male,5/20/65,Cleburne,TX,JOHNSON,0.0
+2683,0586c612-a30d-40d7-818d-c75781823dee,Daley,A.,Hearther,Female,1/8/60,McAllen,TX,HIDALGO,0.0
+2599,5dd3a4c6-5195-4d61-a02c-c0a826bdb60e,Conner,K,Melissa,Unknown,12/18/64,Danville,KY,BOYLE,0.0
+3251,2060c71a-1249-4c80-ba99-887fc20d90f5,Glenn,M.,Rosalind,Female,4/4/50,Arlington,TX,TARRANT,0.0
+2686,5bf6faf7-526c-4d21-87bb-adb596b830c6,Dalley,J.,Karen,Female,2/10/62,nan,nan,nan,0.0
+4767,fab1d932-b8a0-4fdb-aad9-4bb20fadcffc,Neill,W.,Lynn,Male,7/11/32,San Antonio,TX,BEXAR,0.0
+2304,c42743d0-c2e2-4926-9d53-6e178efbc52a,Bregman,Koffler,Daniel,Male,6/22/59,Nashville,TN,DAVIDSON,0.0
+5991,c4dbb1fa-0c57-4f01-b4aa-acc7d41ceea1,Taveau IV,Sprague,Horatio,Unknown,3/27/43,Killeen,TX,BELL,0.0
+6276,8d2bc886-8c69-4380-9187-818a72141e68,Walls,Carlson,Ken,Male,5/20/78,McAllen,TX,HIDALGO,0.0
+5005,34b7c2b2-3479-4391-88a3-8897e23be50d,Park,Hui,Hyeon,Unknown,12/6/77,Tyler,TX,SMITH,0.0
+4342,ae15539c-693c-4165-94a5-759baa5c9963,Many,R.,Cherie,Female,10/5/70,Las Vegas,NV,CLARK,0.0
+6099,2e47a964-cc38-4eba-a18b-b642fc1e90f6,Tran,V.,Thuyet,Male,3/31/69,Damascus,OR,MULTNOMAH,0.0
+30,aaea0a15-7eed-4c13-b50c-9559cf0fcc63,Adera,O,Adolphus,Unknown,11/3/71,McAllen,TX,HIDALGO,0.0
+4564,8e2ed712-9d89-446b-bcae-bbb064c80323,Michel,Ann,Leslie,Female,6/8/81,Baton Rouge,LA,EAST BATON ROUGE,0.0
+5295,8f3c9b94-8d8b-482c-b27f-4ed1d60bf73f,Rathi,Mohan,Banshi,Male,10/26/80,Kingwood,TX,HARRIS,0.0
+4550,dd142011-3bcd-47b1-b3a6-00d21fd16ccf,Mesibov,A.,David,Male,3/23/65,Los Alamos,NM,LOS ALAMOS,0.0
+3362,afcdb0a0-6a8a-465f-9147-9332e2790b0c,Griffin,Ann,Mary,Female,2/27/73,nan,nan,nan,0.0
+4220,37c77a56-9d4f-44de-9889-2abacd752a0a,Lindley,Winter,Sarah,Female,9/27/84,North Little Rock,AR,PULASKI,0.0
+6085,8c817cbb-66af-49fc-b276-4179607be4bd,Tope,Renee,Dawn,Female,7/18/70,Rolla,MO,PHELPS,0.0
+3223,733af3c4-88a0-4b96-944a-ae5d3c152e10,Gilbert,W.,John,Male,6/12/57,Lexington,KY,FAYETTE,0.0
+4853,8012754d-b61d-4872-86ba-3a03c59c248c,O'Connor,Lamb,Harriette,Unknown,3/13/38,Fort Worth,TX,TARRANT,0.0
+3919,326e8a1d-5736-4155-b5f5-8fef6b3930d6,Kazi,Ahmed,Afaq,Male,4/20/67,McKinney,TX,COLLIN,0.0
+2032,852057dc-f0fb-4639-a56c-174509d7cd22,Baldwin,Eugene,Charles,Male,5/11/47,San Antonio,TX,nan,0.0
+2393,e8f41b36-0c10-4fc2-a7e8-1bb464cdfb9b,Burns,Benjamin,Robert,Unknown,2/13/59,Pascagoula,MS,JACKSON,0.0
+6511,ab0b2f6c-2be2-47bc-bbdd-608db0705169,Yatsko,Louise,Marchelle,Female,7/4/89,nan,nan,nan,0.0
+4822,a8473834-20b9-4970-bc36-1f1be4ba81ab,Nigbur,A.,Michael,Male,12/15/56,Mesa,AZ,MARICOPA,0.0
+6408,de8a0a82-1b56-475c-9861-e80ed3a69caf,Williams,O,Tami,Unknown,1/23/70,Cape Girardeau,MO,CAPE GIRARDEAU,0.0
+6006,59794642-b39a-4d0a-8b66-f1fee025dc81,Tchinda,H.,Martine,Female,4/6/71,Ashton,MD,MONTGOMERY,0.0
+6188,9c406d0a-c25d-481e-919a-fe42fcbd7b7b,Vavricka,Alan,Timothy,Male,11/14/78,Oklahoma City,OK,OKLAHOMA,0.0
+2106,46910837-a5e8-48ff-af8b-9974b45e026f,Beauboeuf,nan,Alphonse,Unknown,8/22/42,Wildwood,MO,SAINT LOUIS,0.0
+5399,04ac21ef-3a11-44b9-b368-f2505ef073f6,Roberts,Stewart,Jarrod,Male,5/7/77,Auburn,AL,LEE,0.0
+4740,7218db5f-9ec6-4aaf-bb68-f687405c0bc4,Nair,M.,Vinod,Male,11/29/66,Houma,LA,TERREBONNE,0.0
+5515,6a7d560f-2aa3-4dca-bd02-c3a6d7d648c5,Salem,nan,Bassel,Male,11/26/77,Sugar Land,TX,FORT BEND,0.0
+4016,a3bacf25-56aa-423c-b88b-f9485f1fe98c,Knight,L,Teresa,Unknown,8/22/70,Saint Louis,MO,SAINT LOUIS,0.0
+5349,010e1b5f-b4d8-444c-9385-2ae42bfc1cb7,Riboni,nan,Katrina,Unknown,2/28/70,Las Cruces,NM,DONA ANA,0.0
+6393,9f5b68d2-27d3-4865-a665-25af5ec94cc0,Williams,G.,Jana,Female,9/6/67,Las Cruces,NM,DONA ANA,0.0
+5412,964fd9b7-22e7-45b1-8d9e-75a1516460e4,Robinson,Ann,Jacquelyn,Unknown,1/21/50,nan,nan,nan,0.0
+4955,18e8ee64-1934-4d7e-ae94-2a264dcec031,"Ott, Jr.",Paul,John,Male,7/7/56,Bellaire,TX,HARRIS,0.0
+6336,cb386ecd-8aee-41f9-a870-c747f367ee2f,Wendelken,Robert,James,Male,11/27/46,Edmond,OK,OKLAHOMA,0.0
+3542,5be51222-57aa-43ca-8662-114a2b3e224c,Hebert,nan,Dawn,Female,6/2/82,Houma,LA,TERREBONNE,0.0
+5964,151d7443-3d8b-48f5-b7c5-f9619236744a,Tabassum,nan,Rana,Unknown,1/27/64,Milwaukee,WI,MILWAUKEE,0.0
+5621,317e42c4-af75-4e84-a8b3-5b44e0745190,Seitzer,Nicole,Ashley,Female,4/28/83,Plano,TX,COLLIN,0.0
+3802,7b8774db-18ff-4eb6-8fff-9637ae5251cb,Jia,Yicheng,Gregory,Unknown,8/14/63,Edmond,OK,OKLAHOMA,0.0
+3832,73a3a8a0-1d0d-4b02-87a7-3f6033a051b5,Jolly,nan,Ashley,Unknown,2/21/80,Jackson,MS,HINDS,0.0
+4230,500a2878-2f38-4e5e-b8cb-36176b23bd22,Liu,nan,Lu,Female,1/16/59,Grand Prairie,TX,DALLAS,0.0
+3918,4f9b0d98-e7dc-49f0-85dd-59d97b682774,Kaye,Louis,Harold,Unknown,6/4/38,Dallas,TX,DALLAS,0.0
+4233,d9842eb0-1085-4e32-a139-7b3ca571d06d,Lively-Harris,Ann,Christy,Female,6/9/76,Beckley,WV,RALEIGH,0.0
+3387,e795ca3b-de12-49b9-a498-8863c8980f78,Guidetti,nan,Sara,Female,12/9/73,nan,nan,nan,0.0
+4602,0b4b0a95-51dc-4447-b601-101a6785670a,Mitchell,Elaine,Danielle,Female,11/15/76,Chattanooga,TN,HAMILTON,0.0
+3849,1317bd36-ec66-42a9-90b2-8ce5573ece75,Jones,B,Michael,Unknown,2/12/73,Flower Mound,TX,DONA ANA,0.0
+1978,c5bc6a63-124a-438d-92f9-90450ca80253,Asaithambi,nan,Ganesh,Male,11/27/78,Daniels,WV,RALEIGH,0.0
+5892,c7bcd0ae-05ed-494e-9a1e-6d42ccd67b53,Stirling,S.,Nancy,Female,3/5/58,Plainfield,IN,HENDRICKS,0.0
+4006,3213d67c-64ee-45bb-bdf9-c2ff34a73d6c,Klein,nan,Adi,Male,10/28/71,San Antonio,TX,BEXAR,0.0
+2109,aaee7bfe-ad19-49e8-b86d-705552c072b3,Beck,Marie,Deena,Unknown,10/3/68,Evansville,IN,VANDERBURGH,0.0
+4360,f29da38d-e647-45ef-a75c-7b6d0ce9a607,Marquis,Felix,Alejandro,Unknown,10/31/64,Cypress,TX,HARRIS,0.0
+2058,a233235d-38e6-465f-9884-6645373f3864,Barefoot,Jackson,Julius,Unknown,3/24/52,Anchorage,KY,JEFFERSON,0.0
+5011,a6002416-deb8-420b-a332-73c14f606656,Parkhurst,Todd,Gregory,Male,2/27/70,Nacogdoches,TX,NACOGDOCHES,0.0
+2681,b9adc2fd-8949-4263-a4b0-aad273a088b4,Dabbs,Lee,Kenneth,Male,6/22/59,Farmers Branch,TX,DALLAS,0.0
+4766,85559854-2d66-4f17-86ae-77b3d12a9524,Neighbors,U.,Nafisa,Female,2/12/66,Huntsville,AL,MADISON,0.0
+2779,e8f786a1-68c6-4959-8d17-28ecb3e14eff,Dennar,nan,Princess,Unknown,2/13/76,New Orleans,LA,ORLEANS,0.0
+3775,2a3d3342-5e65-4070-9911-d2d52a42756a,Janardhan,nan,Radhakrishna,Unknown,6/15/75,nan,nan,nan,0.0
+4047,bd92f609-1385-4dbf-a4d0-a4d3c785d03d,Krooss,Frederick,William,Male,10/18/48,nan,nan,nan,0.0
+2421,a017199d-a5c5-41f9-b929-f07dfb29373f,Caldas-Vasquez,Claudia,Maria,Unknown,2/26/71,Webster,TX,HARRIS,0.0
+3655,60b8fca8-9d4a-410f-91a6-1dfea8c1f53d,Horton,Barrett,Miles,Male,5/6/86,Lewisville,TX,DENTON,0.0
+3378,4c74253e-ac88-48f2-8904-9b745b960306,Gruss,J.,Jason,Male,7/15/75,nan,nan,nan,0.0
+3876,5e19e5a7-6d2f-46ab-8ad6-8d191fa0b7e9,Kadakol,Krishnamurthy,Amitha,Unknown,12/21/67,Wichita Falls,TX,WICHITA,0.0
+4534,523c61a3-001c-4d46-a04a-b16cc2338e3b,Mendez,R,Espiridion,Unknown,9/12/74,Richardson,TX,DALLAS,0.0
+6400,de64a828-8794-4240-a5cf-ec4d9320a29c,Williams,D.,Michael,Male,9/13/58,Foley,AL,BALDWIN,0.0
+2566,bdea54d2-ee2a-4735-9f68-466df8810877,Clark,M,Janet,Unknown,10/4/57,Kansas City,MO,JACKSON,0.0
+3679,16dc8d37-11f5-46e4-a8ed-6e177e59b843,Hudson,Nicole,Heather,Female,5/13/89,Charleston,WV,KANAWHA,0.0
+5182,0b210c4c-ff5f-49f8-a4d1-89035df4ee86,Pouzar,nan,Joe,Unknown,3/14/61,Houston,TX,HARRIS,0.0
+2596,bf95ecee-45ca-4471-a508-d1d71b890de4,Colvin,Juston,David,Unknown,10/8/69,Shreveport,LA,CADDO,0.0
+6258,b988fbcb-eb09-48ae-a592-00e410ed992f,Waits,S.,Bryan,Male,11/18/77,Houma,LA,TERREBONNE,0.0
+5622,29e6c849-56a0-4e52-b565-2b353f612b47,Selznick,S,Hugh,Unknown,1/28/62,nan,nan,nan,0.0
+2556,2262c8e9-ed88-4dee-969a-7fe4356de544,Chumley,Ray,Christopher,Unknown,8/8/75,Arlington,TX,TARRANT,0.0
+2234,b2922d23-311c-4947-8d70-5b9b51c7f974,Booker,L,Beth,Unknown,7/26/56,Saint Joseph,MO,BUCHANAN,0.0
+5401,ff5813a0-3911-4ff1-b41f-89a47cd87365,Robertson,C,Scott,Unknown,11/12/63,Oklahoma City,OK,OKLAHOMA,0.0
+2595,ba923e7d-6927-490b-bfd5-56996c32258f,"Colton, II",Jean,Michael,Male,8/18/50,Bellaire,TX,HARRIS,0.0
+5546,2d34b996-bd7a-4aa3-9f40-e4248ca4c4d2,Sani,N,Shahram,Unknown,9/19/69,Silver Spring,MD,MONTGOMERY,0.0
+2527,a27e797c-7fe1-4893-aa0a-c19a4151fcaf,Chen,W.,Austin,Male,10/9/82,Taos,NM,TAOS,0.0
+5216,8db8619f-6344-4e01-95d7-49a757b772b3,Prosciak,P.,Mark,Male,1/26/65,Carlsbad,NM,EDDY,0.0
+5272,c360f286-8d9d-4e82-be73-fd2ab07083bb,Ramsay,Hill,Lawrence,Male,2/20/62,Little Rock,AR,BENTON,0.0
+2075,61d2767d-79c7-4e43-8529-5b0d0a5af2bf,Bart,N.,Gerald,Male,12/3/40,Albuquerque,NM,BERNALILLO,0.0
+3571,a1813ea6-97f2-45e6-bb52-d0b2674e19e6,Hensley-Keaton,nan,Tammy,Female,10/15/66,Beckley,WV,RALEIGH,0.0
+4904,a35768d3-1ca6-4030-9e4d-b76d249a402b,Oluwole,nan,Olawole,Male,3/21/58,Dallas,TX,DALLAS,0.0
+4034,e5ec9757-3017-4e89-aafa-0382df60794d,Kota,Kumar,Suresh,Male,8/26/68,San Antonio ,TX,BEXAR,0.0
+4906,5c37a4fe-0fa9-4b35-ba4a-14a8c53d8e49,Omoro,A,Sophia,Unknown,1/8/71,Covington,LA,SAINT TAMMANY,0.0
+5684,5868abde-ccfc-4586-8ac4-5c5b0d4cd09e,Sherrill,Ann,Kimberly,Unknown,1/6/54,Fairbanks,AK,FAIRBANKS NORTH STAR,0.0
+5996,576284cc-107d-4d39-b258-1515b3fc036b,Taylor,Dewitt,Charles,Unknown,1/9/40,Oklahoma City,OK,OKLAHOMA,0.0
+1983,f6a8e2b8-e323-4122-910c-e0593f4cd570,Asim,nan,Amna,Female,12/1/81,Sugar Land,TX,FORT BEND,0.0
+5,4c67e308-df98-42ff-b424-06516486d2b4,Abburi,S.,Madhava,Male,2/26/71,nan,nan,nan,0.0
+3728,4987358e-767b-4561-b876-1fabda422d45,"Irabor, NP",Uirabor,Vivian,Female,1/16/74,Sugar Land,TX,FORT BEND,0.0
+6148,ae8bd451-cf88-41fe-95b7-744f5d4e7e76,Urbina,nan,Paola,Unknown,3/8/83,nan,nan,nan,0.0
+3594,e9325b43-8861-470a-b091-bceeddfbc122,Hillie,Nequita,Kristal,Female,11/3/80,Olive Branch,MS,DESOTO,0.0
+4709,ba5418b4-45be-436d-bb92-e5afff7cdda9,Muppidi,nan,Sridevi,Unknown,4/1/71,nan,nan,nan,0.0
+5984,f40be4b5-a351-484d-bc11-d346cb7285c9,Tariq,nan,Azlan,Unknown,2/19/81,nan,nan,nan,0.0
+6247,23feac29-2d90-421f-b84b-86e85d92062c,Vuppali,nan,Madhavi,Female,8/27/78,Spring,TX,HARRIS,0.0
+5181,a697c2dc-1957-4254-97a5-df672b6c0542,Pouncy,Kinshasa,Dawda,Unknown,7/16/64,Richardson,TX,DALLAS,0.0
+6264,5d902021-3f07-4139-a68b-45df7635e044,Walker,C.,Angela,Female,1/24/69,Arlington,TX,TARRANT,0.0
+3677,dae9ddf9-ea2a-44af-be01-53099363d130,"Hubbard, NP",Joyce,Stacey,Female,11/12/71,nan,nan,nan,0.0
+2841,8e397d2c-23c5-4545-98fb-b34f4f9d0cee,"Dodson, Sr.",Harrol,Jon,Male,1/21/39,Little Rock,AR,PULASKI,0.0
+5277,e94ecaf9-c75d-45b8-8cdc-1cc158d67514,Rana,Jafary,Maryam,Female,2/17/69,Stanaford,WV,RALEIGH,0.0
+1933,1ebbc098-834f-4ccf-a9a0-47e6932f5911,Anderson,L,Bernice,Unknown,5/23/55,Dallas,TX,TARRANT,0.0
+6388,041e7385-e3d2-405c-bd2f-e474f8b012b5,Williams,C.,Bessy,Female,4/19/75,Bastrop,TX,BASTROP,0.0
+2967,fb94ba01-0f40-4bd7-b784-c557bc1fff99,Erstine,Drake,Byron,Male,7/7/77,Los Alamos,NM,LOS ALAMOS,0.0
+5134,da76115c-b689-49ef-9888-2029aca7d617,Phipps,Marie,Alice,Female,2/15/56,Wauwatosa,WI,MILWAUKEE,0.0
+5865,e6f41f7b-266f-4679-9acf-4d8a1d114f53,Staub,Jay,A,Unknown,5/22/54,Dallas,TX,DALLAS,0.0
+5052,4b367f97-642e-4a9d-8716-dd8eba4d5071,Patel,nan,Satiskumar,Male,6/14/71,Dayton,TX,LIBERTY,0.0
+2946,b91ed7a1-9221-4eb1-bd4d-510f0fe69159,Elnar,nan,Jocelyn,Female,8/12/54,McAllen,TX,HIDALGO,0.0
+6087,d3dff972-1cfb-44ea-9f9d-8c05eba3b594,Toppins,Charles,Anthony,Unknown,5/22/71,Oklahoma City,OK,OKLAHOMA,0.0
+5573,35f3e55f-9474-4256-8bb6-b6b61e491b89,Sayeed,Muhammad Shahab,Syed,Male,8/6/75,Poplar Bluff,MO,BUTLER,0.0
+4525,fcd11a4e-3111-40b4-aa87-a6e19da4d772,Melek,Nader,John,Male,3/23/79,Plano,TX,COLLIN,0.0
+3430,8da2a4cc-81b7-4c68-8ddd-8ef20b812e37,Haidak,M.,Paul,Male,3/30/46,Tullahoma,TN,COFFEE,0.0
+4604,ed40266c-eb5b-4207-9134-89bfe5879d81,Mitchell,Young,Linda,Female,4/3/60,Evansville,IN,VANDERBURGH,0.0
+6317,1e59e58c-46df-41f1-853b-602063060caa,Weber,Lynn-Holben,Kelly,Unknown,10/9/64,Aurora,IL,KANE,0.0
+3548,fee0adb7-9f93-46d1-a050-01790b686ca1,Heim,Andrew,Christopher,Male,3/29/67,San Antonio,TX,VAL VERDE,0.0
+27,fa0885f3-2d60-42d9-a7f8-303c0fb19281,Adeniyi,A.,John,Male,2/15/69,Bridgeport,WV,HARRISON,0.0
+1949,967be521-c0ad-4226-9ac8-3b07993d1354,Ang,O.,Renato,Male,3/22/62,McAllen,TX,HIDALGO,0.0
+6368,aa3da803-8ca0-42f0-a579-f285707739c9,White,James,William,Male,6/30/69,Lewisville,TX,DENTON,0.0
+3742,7b5d24f6-b949-49b2-afd6-db937838f071,Iyer,L,Shivkumar,Unknown,12/24/62,nan,nan,nan,0.0
+3994,bcec63da-2b5a-4eab-8946-6395914e1df8,Kirkpatrick,C,John,Unknown,12/16/45,Dubuque,IA,DUBUQUE,0.0
+4849,63dcec05-5b6e-43d4-bc50-a545ecba485f,O'Brien,nan,Teresa,Unknown,2/4/56,nan,nan,nan,0.0
+4885,e781f72a-0f99-4f66-8f10-1e98f329ea7d,Okpalaji,I.,Chukwujekwu,Male,7/3/82,Clint,TX,EL PASO,0.0
+5789,8ff6b23d-8ac0-4dc2-a676-ba4c70757694,Smith,James,Timothy,Unknown,6/13/50,nan,nan,nan,0.0
+4291,dc44bf62-1e8b-4f93-a7f1-5895861c9903,Lynch,A.,Jamie,Female,8/17/83,Oklahoma City,OK,OKLAHOMA,0.0
+2903,837586e4-715f-411b-8628-6f34bdb2570c,Edwards,E,Charmaine,Unknown,7/21/60,nan,nan,nan,0.0
+3617,b1f753b8-dc3d-4ab3-8a59-a484af31a485,Holcomb,Gene,James,Male,3/6/69,Wichita Falls,TX,WICHITA,0.0
+2190,f0f2645a-9352-4f5a-8d0d-d53189e067f2,Bilek,Carpenter,Lisa,Unknown,9/25/67,Plano,TX,COLLIN,0.0
+3343,e3c85d01-288b-4697-ab8c-731f037a90bb,Green,Dionne,Tanisha,Female,4/7/75,Houston,TX,HARRIS,0.0
+4658,f498e5a7-38a5-44b8-b34b-61e7bbbe7dca,Morris,L,John,Unknown,8/29/77,Morgantown,WV,MONONGALIA,0.0
+28,dd267dcb-a723-4ca8-b3d5-820431565e81,Adeniyi,A.,John,Male,2/15/69,Bridgeport,WV,HARRISON,0.0
+2167,fe414f0c-4331-476a-9c16-b7d59eb3c56e,Bhardwaj,B.,Davender,Male,3/1/55,Urbana,IL,CHAMPAIGN,0.0
+2342,4d303ca1-d55d-4b7e-90a0-88b6946bdf5a,Brown,D.,Jeremiah,Male,6/25/77,Edinburg,TX,HIDALGO,0.0
+6452,2563db0e-0e6b-44f8-bd88-6c65f7d8bbed,Wolske,Marie,Kristy,Female,3/29/77,Farmington,NM,SAN JUAN,0.0
+6370,daf43921-ae99-4942-8dcc-de0619374a3d,Whiteaker,nan,Adrian,Unknown,10/19/51,Frisco,TX,COLLIN,0.0
+2605,3a1ac6e8-aeae-471c-a5c3-edf97bff734c,Cook,Fay,Leona,Female,12/30/64,Kearneysville,WV,JEFFERSON,0.0
+5446,eaa938af-cf27-4680-833e-66f7d9af122b,Romero,P.,Sarah,Female,8/28/89,Houma,LA,TERREBONNE,0.0
+2061,65c9c4fe-369e-4ba5-a232-95a87b4b52ad,Barnard,nan,Kristi,Female,6/7/70,Wichita Falls,TX,WICHITA,0.0
+5480,028c9e54-43cf-4872-8f28-c555ac53860d,Ruiz,Jose,Fernando,Male,10/18/65,Houma,LA,TERREBONNE,0.0
+6575,c10f2de3-ef1a-4a21-8ee3-3b75279d5d7c,Zitwer,E.,Richard,Male,10/13/53,Rio Rancho,NM,SANDOVAL,0.0
+5471,5d518379-b07c-47e7-9cc8-e36632765ac0,Ruble,Leslie,James,Unknown,7/5/69,Mobile,AL,MOBILE,0.0
+3807,27a4ac5c-b693-4e25-83ae-e4bed22ad479,Johenk,David,Paul,Unknown,1/8/44,Farmington,NM,SAN JUAN,0.0
+2181,5ad4e4b3-f73d-491c-980e-ff05a12f5aac,Bienvenu,G,Harold,Unknown,7/7/53,Sulphur,LA,CALCASIEU,0.0
+3770,50206540-f015-4a6f-945a-478f455ae155,Jamal,nan,Naznin,Unknown,11/6/81,Richardson,TX,TARRANT,0.0
+3457,9e8c19fd-bd87-4b81-ade5-ef78ada3c4c8,Hancock,D,Justin,Unknown,3/12/85,Bastrop,TX,BASTROP,0.0
+4836,307a6e55-b305-4008-b128-2e9e0eff5637,Nuckols,Patrice,Nicole,Unknown,8/7/82,Bastrop,TX,BASTROP,0.0
+2745,90c60568-4d5a-449d-a2f9-cbd193e6b02c,De La Vega,Rene ,Osvaldo,Unknown,10/30/57,Las Cruces,NM,DONA ANA,0.0
+3672,ac6c3505-3e7d-4506-ad33-cb06e1ece88b,Hromas,D.,Frank,Male,5/19/50,Amarillo,TX,POTTER,0.0
+5837,71ed16e3-879f-482c-8793-7d84b28f9733,Springer,Lynn,Paula,Unknown,9/29/49,Cypress,TX,HARRIS,0.0
+5527,54333023-0876-419e-ac44-1520689642f0,Samuel,P.,George,Male,8/27/50,Poplar Bluff,MO,BUTLER,0.0
+5749,dc4b842d-6885-4a77-b2d8-f8a192fe744e,Sitomer,I,Charles,Unknown,10/17/47,nan,nan,nan,0.0
+4295,d4ee6149-69b5-45f6-96e4-523be29f5ab2,MacDonald,A.,Jason,Male,5/21/74,Bastrop,TX,BASTROP,0.0
+3924,76326d09-473e-400e-b5fa-93431abf40ca,Kelderman,Lynn,Jessica,Unknown,3/3/82,Milwaukee,WI,MILWAUKEE,0.0
+4401,7211d935-1eae-4eb7-8095-32d9f6c3a351,Maul,Greg,Robert,Unknown,9/29/58,Rowlett,TX,DALLAS,0.0
+4763,2ed2df5d-3b4e-4c4d-a1cb-81881dec65a9,Nealy,nan,Kristi,Unknown,7/5/74,Longview,TX,GREGG,0.0
+2104,2f7bae76-5b4b-488c-a86f-f026e8adad19,Beach,Marie,Stacy,Unknown,11/9/76,McAllen,TX,HIDALGO,0.0
+4818,418731a8-1348-4ad1-b8d1-06d2ad3098b9,Niemand,Rose,Noelle,Unknown,12/25/79,Arlington,TX,TARRANT,0.0
+5525,b6ccaaf7-80b0-422a-a141-3a0a7aae3764,Sami,nan,Tehmina,Unknown,3/5/13,Sugar Land,TX,FORT BEND,0.0
+2096,0b2ad1cb-c72d-4422-a549-0cb818b28d68,Batzloff,J.,Nancy,Female,5/14/46,Nacogdoches,TX,NACOGDOCHES,0.0
+4934,bdabda1d-af10-44c8-bde3-e6935d8eed45,Ortiz,nan,Kristi,Female,7/13/70,Tomball,TX,HARRIS,0.0
+3568,148aae40-28a5-4add-8532-34e662645371,Hensler,Blakeley,Jason,Male,6/1/71,Edinburg,TX,HIDALGO,0.0
+5843,09873c9f-f731-4f03-ad15-44a386795919,Staana,Trabanino,Lucrecia,Female,4/29/76,Houston,TX,HARRIS,0.0
+3990,fbe3333b-1484-4330-8e18-5b7555b78342,Kinoti,Dennis,Michael,Unknown,3/13/77,nan,nan,nan,0.0
+2781,a285ca52-4abc-43fe-9d1b-65baa64b4e1b,Dennis,Raeford,Paul,Unknown,12/23/80,Bastrop,TX,BASTROP,0.0
+4897,823f9aa8-5c82-4d9a-9fd5-6df07e658ff8,Oliver,S,Jennifer,Unknown,12/7/67,Georgetown,KY,SCOTT,0.0
+3910,54f1e85a-e492-4e17-88cc-fea46417bea6,Katyal,nan,Tulika,Unknown,11/9/54,Saint Louis,MO,SAINT LOUIS,0.0
+4213,9022e693-9fd9-42c1-bd53-fc0aac7b9426,Lin,nan,Kathleen,Unknown,3/13/73,Seattle,WA,KING,0.0
+4115,bc307bfa-25b3-46a5-8986-ac7490c4037c,Law,Marie,Michelle,Unknown,2/7/78,Bastrop,TX,BASTROP,0.0
+4264,d5156930-f999-4dc2-9632-592b493657f2,Lowery,M.,Bryan,Unknown,6/5/72,Plano,TX,DALLAS,0.0
+4274,b2fbcdae-268d-484a-bba4-fd9fdcb109fd,Lubowitz,nan,James,Unknown,9/9/62,Taos,NM,TAOS,0.0
+2728,cf6ef005-5cf4-4127-bb93-f59d16930156,Davis,Stefan,George,Unknown,10/8/48,Wichita Falls,TX,WICHITA,0.0
+2591,067bf11a-4836-43b9-b51d-455878f8cd0f,Collie,R.,William,Male,9/8/48,nan,nan,nan,0.0
+5300,e9950682-4874-4a48-8680-48e05ddacabf,Raymond,Michael,Dennis,Male,5/25/48,Dallas,TX,DALLAS,0.0
+3645,a4a71efd-2976-41fb-a712-5c921780ebc5,Hopkins,nan,Alan,Male,6/29/70,Austin,TX,TRAVIS,0.0
+2817,ebe49795-4074-4e35-9067-02653159eecd,Dieck,Anthony,John,Male,1/7/58,Austin,TX,TRAVIS,0.0
+4597,e73fb028-2bf8-432f-8668-ee763a04c13b,Miravite,V,Jaime,Unknown,5/31/64,Houston,TX,HARRIS,0.0
+6017,3844d8c7-e677-46dc-a1d1-2944efcf0aeb,Terry,S.,Shawn,Male,11/25/79,Huntsville,TX,HARRIS,0.0
+2381,c27c0f7c-55e4-4003-85ec-c23021045c31,Burbano,Michele,Alicia,Female,2/16/82,Albuquerque,NM,BERNALILLO,0.0
+2960,f9500e6c-9d89-495d-8800-4eb9faade5ba,Engles,Lore,Lily,Unknown,5/15/55,San Antonio,TX,BEXAR,0.0
+3595,af02adb4-eb26-42e1-9a73-2be0d64221eb,Hilmer,A.,Kimberly,Female,12/30/71,Aledo,TX,PARKER,0.0
+5677,55606fd5-c012-45a1-9e06-e0df2b11a4a7,Shelton,nan,Derek,Male,4/11/76,Evansville,IN,VANDERBURGH,0.0
+3320,de185c9b-c050-4c5d-ab96-e67c0657edcf,Granath,Leigh,Abigail,Unknown,10/24/83,Wasilla,AK,MATANUSKA-SUSITNA,0.0
+2122,e98fb667-b4ff-4248-a78f-a93fd742c887,Bejarano,Dario,Jose,Male,7/17/74,Weslaco,TX,HIDALGO,0.0
+2070,14880da5-2406-4a2b-8ae5-657a44281136,Barnthouse,J,Michael,Unknown,3/22/54,Kansas City,MO,JACKSON,0.0
+2048,fbd8beff-2d38-4595-8c29-f8fb29551fa0,"Bangston, Jr.",F.,John,Male,6/4/65,Austin,TX,TRAVIS,0.0
+2137,e7a281e2-967f-414a-b46e-5aaa2eaad7ec,Bennett,S,Ruth,Unknown,10/16/58,Denver,CO,BERNALILLO,0.0
+3288,48743880-496f-4f38-8592-38d3d54f8451,Gonzalez-Cruz,nan,Jorge,Male,2/27/75,Mesa,AZ,MARICOPA,0.0
+5940,25fe087e-36d3-4a5c-8743-b5df37e4f095,Sunkara,Pradad,Durga,Unknown,10/23/50,Pasadena,TX,HARRIS,0.0
+4366,0a019ca0-7489-42ba-9bb5-0c9dfda32ea2,Martin,E,Robert,Unknown,6/5/47,Wasilla,AK,MATANUSKA-SUSITNA,0.0
+3848,31f65172-8679-4453-8074-7389974a4bbf,Jones,M,Melissa,Unknown,12/7/75,Olive Branch,MS,DESOTO,0.0
+2650,996d85ce-af67-4b29-b5ad-02d137bcdbc5,Crock,A,Rodney,Unknown,4/24/75,Ashland,KY,BOYD,0.0
+3498,e3d588e5-f260-4e8b-9984-5aaf788be8cf,Harrison,J.,Nedra,Female,4/16/51,nan,nan,nan,0.0
+125,f1186034-2b96-4b47-8dd5-a11d92e9b7ce,Allen,S.,George,Male,1/10/69,Vancouver,WA,KING,0.0
+4937,882943eb-da6f-40fc-a33d-30df7da42c30,Osborn,Roger,Clinton,Unknown,12/12/80,Bastrop,TX,BASTROP,0.0
+2230,50a5ddbd-714c-43b1-8b39-c74e2158593b,Bonnen,Gregory,James,Unknown,6/18/66,Houston,TX,HARRIS,0.0
+3868,23945de7-2f54-4665-a119-a8a445853673,Julian,M.,Rose,Female,9/18/58,Arlington,TX,TARRANT,0.0
+6210,1ed23e3b-dff3-4846-8d9f-89a4a30ecd40,Vento,R,Jessica,Unknown,7/9/85,Houston,TX,HARRIS,0.0
+5333,44152fa9-b8bd-4bed-9fb9-a9804e3cd432,Repik,nan,Michael,Unknown,4/28/68,Phoenix,AZ,MARICOPA,0.0
+3152,b4745ea1-0fd4-4778-87b8-50066e90c7f5,Garcia,Danelle,Alyson,Female,12/4/84,Austin,TX,TRAVIS,0.0
+3434,8790bb8c-5cca-4dc6-9599-9ccd4d03336d,Haire,nan,Brad,Unknown,5/23/50,Denver,CO,BERNALILLO,0.0
+2918,49c4dcb7-12d0-48a0-8ef9-896f6f3bf36d,Elbert,M,Laura,Unknown,7/13/69,Saint Louis,MO,SAINT LOUIS,0.0
+2034,7209cfc3-de36-40b5-b447-e72fd0859fb3,Ballagh,A,Susan,Unknown,12/18/54,Torrance,CA,CLARK,0.0
+2536,a6a1d01f-beb5-4731-94ad-5d583c1c2898,Chhipwadia,nan,Amisha,Unknown,5/5/70,Houston,TX,HARRIS,0.0
+4060,e916be6d-9a70-430b-93be-fdb318bb0950,Kumarashekhara,H.,Varuni,Female,10/21/74,San Antonio,TX,BEXAR,0.0
+3559,cc2cafee-7806-41da-89d6-e0db56a78988,Hendershot,Cakmak,Asligul,Female,3/13/69,Albuquerque,NM,BERNALILLO,0.0
+5274,e997f192-0a85-4495-9ffe-169d7369bcf4,Rana,nan,Ketki,Unknown,1/3/88,nan,nan,nan,0.0
+4072,b0e62ce3-ae93-45c4-be28-fda023000de3,Lahiri,nan,Aparimita,Female,7/26/60,Los Alamos,NM,nan,0.0
+4903,1ac0e7cb-7bbe-4bfc-95a2-92c99ef88742,Olusanya,A.,Shaundelle,Female,8/28/75,Rolla,MO,PHELPS,0.0
+2957,503de4cb-8e91-4d7d-8ea2-5aac24c802c3,Engel,Douglas,Jason,Male,10/27/67,Washington,DC,DISTRICT OF COLUMBIA,0.0
+3414,8c3ed89c-e665-4ebf-b2de-9d56968b1585,Haaff,L.,Erin,Female,12/31/87,Evansville,IN,VANDERBURGH,0.0
+5811,c2d2ec54-4241-47fa-b555-ed4e9402daa6,Sorensen,nan,Elizabeth,Female,12/23/75,Austin,TX,TRAVIS,0.0
+4941,ebc5978b-9080-4f84-accd-872ede73d3af,Oseni,Kamar,Momodu,Unknown,5/7/60,Gallup,NM,MCKINLEY,0.0
+6406,0021b180-cc67-48d3-b2ee-9e57be26bd55,Williams,J.,Ryan,Male,11/5/75,Nampa,ID,CANYON,0.0
+2649,47530236-0aa4-4655-bf4c-ed1a94ef0d55,Criswell,Kay,Jessica,Unknown,9/6/88,Mcmechen,WV,MARSHALL,0.0
+1985,63682255-e573-497c-99f1-ae32cba38de7,Askari,nan,Sasan,Male,4/19/59,Austin,TX,TRAVIS,0.0
+3068,84ac6512-854b-4eb6-bc32-e89845d9de0e,Fortenberry,N.,Tamra,Female,1/10/72,Arlington,TX,TARRANT,0.0
+3501,998c0d1a-a901-4eab-ac4c-7046a0a6c5a6,Hartman,Marie,Alice,Female,1/23/62,Seymour,IN,JACKSON,0.0
+1938,41a96102-a3fa-4eaa-aee4-f6dd4d65a6db,Anderson,S.,James,Male,11/25/62,El Paso,TX,EL PASO,0.0
+4433,b23ae283-ab5c-4517-9de1-83e9e1fe5b71,McAtee,Page,Megan,Unknown,9/4/80,Crowley,LA,ACADIA,0.0
+5793,00465f57-9360-4673-ab95-87423c8b6060,Smyth,C.,Denise,Female,3/11/71,nan,nan,nan,0.0
+4932,abda21de-c202-4e4a-9bb9-23cec10cf8c2,Ortiz,Elizabeth,Irene,Unknown,7/28/50,nan,nan,nan,0.0
+3420,97a205b5-36a9-4a37-8b60-12b3eac9cb00,Hadden,L.,Robin,Female,5/7/80,Austin,TX,TRAVIS,0.0
+6243,7b05a308-0050-4a45-999c-0d6e67e8c557,Vu,Huong,Tuyet,Unknown,4/27/81,Richardson,TX,DALLAS,0.0
+3959,f7f7925a-b8a7-4664-94a1-cfdf4eb7a82f,Khan,Hasan,Tanveer,Male,4/15/70,Richmond,TX,FORT BEND,0.0
+3440,b536b0c9-74a0-44f5-843a-0f22e2b06707,Hall-Moore,A,Kimberly,Unknown,8/28/68,Bellaire,TX,HARRIS,0.0
+5080,d8624371-eca5-4ca5-8510-c4fa216a148a,Pena,Olivia,Blanca,Female,2/28/89,Los Alamos,NM,LOS ALAMOS,0.0
+2262,d97326da-6342-4fdb-a61a-f9274ced9f0d,Bowen,nan,Stephenie,Unknown,11/26/74,Dallas,TX,DALLAS,0.0
+5086,e4834eca-245d-4477-8997-d233203ee927,Perardi,Pete,Anthony,Unknown,12/4/75,nan,nan,nan,0.0
+3804,2a5f1e26-cfb4-4488-aee6-f5831916c878,Jimenez,E.,Ricardo,Male,9/7/61,Rio Rancho,NM,SANDOVAL,0.0
+2083,198f05de-e3ec-41cb-b22f-694197b4972b,Baskind,nan,Denise,Unknown,10/3/51,nan,nan,nan,0.0
+3153,3ed0e438-1464-4539-8ca7-cc402a696964,Garcia,nan,Cynthia,Female,1/29/70,McAllen,TX,HIDALGO,0.0
+4706,38d4be77-7ad4-466a-bebe-95cf3e92f2b2,Munoz,Esquivel,Silvia,Female,12/31/76,Austin,TX,TRAVIS,0.0
+2869,ebee5d1a-483f-42f9-8df9-e9a14e4f69e2,Duarte,R,Ramon,Unknown,3/10/48,Albuquerque,NM,SAN JUAN,0.0
